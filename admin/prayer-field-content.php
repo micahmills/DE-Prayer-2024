@@ -171,7 +171,7 @@ Amen', 'ramadan-2024' ),
 Pray for Christians from a Muslim background [in location] to trust only the Holy Spirit to reveal truth.', 'ramadan-2024' ),
                 __( '“I tell you the truth, whatever you bind on earth will be bound in heaven, and whatever you loose on earth will be loosed in heaven” (Mat 18:18).
 
-Pray that principalities and powers over YYY would be held back, broken, and thrown down as the name of Jesus is lifted high over this nation. May we declare prophetic words over YYY, releasing visions, dreams, signs, and wonders in Jesus’ name. And may followers of Jesus walk in the authority bestowed on them by Christ’s life, death, resurrection, and ascension.', 'ramadan-2024' ),
+Pray that principalities and powers over [location] would be held back, broken, and thrown down as the name of Jesus is lifted high over this nation. May we declare prophetic words over [location], releasing visions, dreams, signs, and wonders in Jesus’ name. And may followers of Jesus walk in the authority bestowed on them by Christ’s life, death, resurrection, and ascension.', 'ramadan-2024' ),
                 __( 'Pray that Christians [in location] will have a heart to start new churches among their friends and family.', 'ramadan-2024' ),
                 __( 'May many people [in location] come to salvation and communities of believers be planted. We pray for disciples who make disciples and churches that plant churches. Lord Almighty, may generations of believers come to faith, covering the whole nation and touching all aspects of society: economic, political, social, ecological, and cultural.
 
@@ -179,15 +179,15 @@ Pray that principalities and powers over YYY would be held back, broken, and thr
             ],
             //day 8
             [
-                __( 'The primary way Islam is growing globally is through birth rate. The primary way Christianity is growing globally is through movements of the Gospel. Pray for these movements to flow through YYY and all Muslim lands.', 'ramadan-2024' ),
+                __( 'The primary way Islam is growing globally is through birth rate. The primary way Christianity is growing globally is through movements of the Gospel. Pray for these movements to flow through [location] and all Muslim lands.', 'ramadan-2024' ),
                 __( 'We have authority in Christ to overcome shame. "Let us fix our eyes on Jesus, the author and perfecter of our faith, who for the joy set before him endured the cross, scorning its shame, and sat down at the right hand of the throne of God" (Hebrews 12:2).
 
 Pray for Christians from a Muslim background [in location] to overcome shame from their past, family, or society by looking to Jesus, the author and perfecter of our faith.', 'ramadan-2024' ),
                 __( '“Nevertheless, the time will come when I will heal the wounds [[of location]] and give it prosperity and true peace“ (Jeremiah 33:6). 
 
-Today, we claim this promise originally spoken over Jerusalem. Lord, we declare: the time will come when You will heal the wounds [of location], You alone can heal them. And we speak in faith over YYY: Lord, You and You alone will bring true peace and prosperity.', 'ramadan-2024' ),
+Today, we claim this promise originally spoken over Jerusalem. Lord, we declare: the time will come when You will heal the wounds [of location], You alone can heal them. And we speak in faith over [location]: Lord, You and You alone will bring true peace and prosperity.', 'ramadan-2024' ),
                 __( 'Pray that life\'s difficulties will not distract believers [in location] from God\'s purpose for their lives.', 'ramadan-2024' ),
-                __( 'Ask that God’s word would spread rapidly throughout YYY, being honored wherever the word of God is shared. Pray that a sense of urgency would come upon believers, old and new alike, to share this gospel of the Kingdom with all. As the Samaritan woman in John 4 quickly shared with her village and introduced them to Jesus; Lord, may new people of peace spread your gospel message to new communities now, during this month, during Ramadan.', 'ramadan-2024' ),
+                __( 'Ask that God’s word would spread rapidly throughout [location], being honored wherever the word of God is shared. Pray that a sense of urgency would come upon believers, old and new alike, to share this gospel of the Kingdom with all. As the Samaritan woman in John 4 quickly shared with her village and introduced them to Jesus; Lord, may new people of peace spread your gospel message to new communities now, during this month, during Ramadan.', 'ramadan-2024' ),
             ],
             //day 9
             [
@@ -205,13 +205,13 @@ Ask for God’s Spirit to respond to those like the Centurion who are genuinely 
             ],
             //day 10
             [
-                __( 'Islam pursues political, societal, and top-down power structures. Christianity teaches bottom-up servant leadership (Luke 22:25-27). Pray for YYY to be transformed as Christians model Christian leadership principles and reject worldly power structures.', 'ramadan-2024' ),
+                __( 'Islam pursues political, societal, and top-down power structures. Christianity teaches bottom-up servant leadership (Luke 22:25-27). Pray for [location] to be transformed as Christians model Christian leadership principles and reject worldly power structures.', 'ramadan-2024' ),
                 __( 'We have authority in Christ to speak the truth in love, with boldness. "Now Lord consider their threats and enable your servants to speak your word with great boldness" (Acts 4:29).
 
 Pray for those following Jesus [in location] to speak about Christ with boldness.', 'ramadan-2024' ),
                 __( '“He defends the cause of the fatherless and the widow, and he loves the foreigner residing among you, giving them food and clothing...” (Deut 10:18).
 
-Lord, we declare on behalf of the refugees from YYY: Defend their cause; you care about their plight; you respond to their cries for justice; and you reach down from heaven to act. You are the God of the refugee, a safe haven, a strong tower. And you stand with those whose backs are up against the wall.', 'ramadan-2024' ),
+Lord, we declare on behalf of the refugees from [location]: Defend their cause; you care about their plight; you respond to their cries for justice; and you reach down from heaven to act. You are the God of the refugee, a safe haven, a strong tower. And you stand with those whose backs are up against the wall.', 'ramadan-2024' ),
                 __( 'Pray that the Bible will be translated into the heart language of every people [in location]. Pray for the illiterate to have access to an audio version.', 'ramadan-2024' ),
                 __( 'Intercede on behalf of Christ’s followers [in location], that their testimony about Jesus would be confirmed by God’s power working through miraculous signs and wonders. 
 
@@ -256,7 +256,7 @@ Ask for the gift of reproducibility: in evangelism, in discipleship, and in chur
                 __( 'Father, we pray that the peoples [of location] will learn to study the Bible, understand it, obey it, and share it quickly and boldly with others. 
 
 Lord, will you grant this nation the grace of multiplication: disciples who make disciples, groups that start groups, and churches that plant churches. 
-Ancient of Days, may your glory and fame spread throughout YYY – and the entire region – as followers of Jesus love God by obeying His commands. 
+Ancient of Days, may your glory and fame spread throughout [location] – and the entire region – as followers of Jesus love God by obeying His commands. 
 Savior, may Your followers [in location] go to their near neighbors, bringing the life-changing presence, love, and power of God with them.', 'ramadan-2024' ),
             ],
             //day 13
@@ -271,13 +271,13 @@ Pray for a spirit of prayer, fasting, and repentance to fall on the believers [i
 Pray for a seriousness and urgency among believers.
 Pray that God would respond to the prayers [of location] and that he send blessings on them.', 'ramadan-2024' ),
                 __( 'Pray for wisdom about if/where Christians [in location] should use money in the emerging discipling network so that the movement ends up being healthy.', 'ramadan-2024' ),
-                __( 'O Father! We come to you poor in spirit, asking…imploring…begging you for intervention in this nation and at this time. We pray, Lord, that you would raise up intercessors, people willing to stand in the gap for YYY. Raise up your prayer-warriors, and mobilize the believers to pray. 
+                __( 'O Father! We come to you poor in spirit, asking…imploring…begging you for intervention in this nation and at this time. We pray, Lord, that you would raise up intercessors, people willing to stand in the gap for [location]. Raise up your prayer-warriors, and mobilize the believers to pray. 
 
 May we pray instead of staying busy. 
 May we pray instead of scheduling more activities. 
 May we pray instead of filling up our time. 
 
-Lord, have mercy. Christ, have mercy. Capture our hearts again. And make YYY a nation of sacrificial, extraordinary prayer and fasting.', 'ramadan-2024' ),
+Lord, have mercy. Christ, have mercy. Capture our hearts again. And make [location] a nation of sacrificial, extraordinary prayer and fasting.', 'ramadan-2024' ),
             ],
             //day 14
             [
@@ -290,7 +290,7 @@ Pray for believers, especially those from a Muslim background, [in location] to 
 Ask the Lord for the church [in location] to rediscover the ancient practice of fasting.
 Ask Him for new spiritual authority and power to be released as movement practitioners fast and pray.', 'ramadan-2024' ),
                 __( 'Pray for intentional, generous, and effective sharing between near culture ministries that are pursuing and progressing toward movement.', 'ramadan-2024' ),
-                __( 'Oh Jesus! Help your apprentices [in location] be more like you, living with a sense of purpose and urgency to preach the Good News in still other places. Give us the grace to share your Gospel daily. Keep us, Lord, from being bogged down by busyness and programs that you’re not asking us to steward. Liberate our time, our attention, and our energy so that we –like you – would proclaim the Good News of the Kingdom in all communities throughout YYY.', 'ramadan-2024' ),
+                __( 'Oh Jesus! Help your apprentices [in location] be more like you, living with a sense of purpose and urgency to preach the Good News in still other places. Give us the grace to share your Gospel daily. Keep us, Lord, from being bogged down by busyness and programs that you’re not asking us to steward. Liberate our time, our attention, and our energy so that we –like you – would proclaim the Good News of the Kingdom in all communities throughout [location].', 'ramadan-2024' ),
             ],
             //day 15
             [
@@ -316,7 +316,7 @@ Isaiah 35:1-3
 Father, what seems impossible – deserts becoming like green mountains – is possible with you.
 
 We pray on behalf [of location]. Let the impossible happen!
-Pray now the most impossible prayer you can imagine for YYY.
+Pray now the most impossible prayer you can imagine for [location].
 What is the area [of location] that seems hopelessly dead / lifeless / incurable? Is there an area or people group or political party you would like to pray for, declaring the resurrection life of Christ?', 'ramadan-2024' ),
             ],
             //day 16
@@ -341,9 +341,9 @@ Lord, make Christians [in location] more like Paul, who poured out his life like
 "... for your love is ever before me, and I walk continually in your truth” (Psalm 26:3).
 
 Pray for Christians from a Muslim background [in location] to repent of every form of deception and walk in God\'s truth in all relationships.', 'ramadan-2024' ),
-                __( '“Let YYY praise you, O God; let all the peoples praise you!” (Psalm 67:3).
+                __( '“Let [location] praise you, O God; let all the peoples praise you!” (Psalm 67:3).
 
-Lord, may all YYY praise you; may they praise you from every class and sect, from every religious and educational background; may they praise you in the cities and praise you in the villages, may they praise you from the seaside and praise you atop the highest peaks. You alone are worthy to receive glory and honor and praise, Great High King, rightful Ruler [of location].', 'ramadan-2024' ),
+Lord, may all [location] praise you; may they praise you from every class and sect, from every religious and educational background; may they praise you in the cities and praise you in the villages, may they praise you from the seaside and praise you atop the highest peaks. You alone are worthy to receive glory and honor and praise, Great High King, rightful Ruler [of location].', 'ramadan-2024' ),
                 __( 'Pray for faith, not fear, to be what controls Christians [in location].', 'ramadan-2024' ),
                 __( 'With this news, strengthen those who have tired hands,
 and encourage those who have weak knees.
@@ -363,13 +363,13 @@ Declare the victory of Jesus over every spiritual enemy [in location].', 'ramada
             ],
             //day 18
             [
-                __( 'Muslims pray prescribed prayers five times a day. Lord, as people from YYY turn to Christ, teach them how to keep spiritual rhythms, turning it into an intimate time with you and not simply a ritual. ', 'ramadan-2024' ),
+                __( 'Muslims pray prescribed prayers five times a day. Lord, as people from [location] turn to Christ, teach them how to keep spiritual rhythms, turning it into an intimate time with you and not simply a ritual. ', 'ramadan-2024' ),
                 __( 'In the gospels, Jesus says "I tell you the truth" 78 times and declares that we can only come to God through truth: "God is spirit, and his worshipers must worship in spirit and in truth" (John 4:21).
 
 Pray for Christians from a Muslim background [in location] to grow each day in worshiping God in spirit and in truth.', 'ramadan-2024' ),
-                __( '“You are the God who works wonders; you have made known your might among YYY” (Psalm 77:14).
+                __( '“You are the God who works wonders; you have made known your might among the people [of location]” (Psalm 77:14).
 
-O Lord, Sovereign over YYY! We come to you today, again, to sing your praise and declare your worth. You are worthy! You alone work wonders! You are the miracle maker, the Creator God, the One by whom all things came into being and through whom all life is sustained. Lord, demonstrate your might and power [in location]. Truly, You alone are God.', 'ramadan-2024' ),
+O Lord, Sovereign over [location]! We come to you today, again, to sing your praise and declare your worth. You are worthy! You alone work wonders! You are the miracle maker, the Creator God, the One by whom all things came into being and through whom all life is sustained. Lord, demonstrate your might and power [in location]. Truly, You alone are God.', 'ramadan-2024' ),
                 __( 'Pray for great clarity (even generational maps https://zume.training/generational-mapping/ that highlight key issues) about areas where Christians [in location] may be distracted or deceived, making their work for the Lord just busyness and not genuinely fruitful.', 'ramadan-2024' ),
                 __( 'Lord, we remember our brothers and sisters today from non-Christian backgrounds. They did not grow up learning about you and what you’re like. And so we pray, Lord, that you would recreate them, that you would transform their thoughts and feelings about God, and conform their beliefs to the reality of your Goodness.
 
@@ -386,7 +386,7 @@ Amen', 'ramadan-2024' ),
 Pray for divine satisfaction in Christ to be released over all peoples [in location].
 Pray that God, in His mercy, would liberate the time, attention, and energy of the people [of location] for His purposes in His Kingdom.', 'ramadan-2024' ),
                 __( 'Pray for Christians to meet needs, preferably supernaturally through the Lord, and that their family members and friends would be witnesses of God\'s provision.', 'ramadan-2024' ),
-                __( 'Lord, please lead YYY back to its true source of life – the fountain of living water, the light by which we see, the One true Christ. In You, O Lord, may we never thirst again.
+                __( 'Lord, please lead [location] back to its true source of life – the fountain of living water, the light by which we see, the One true Christ. In You, O Lord, may we never thirst again.
 
 Amen', 'ramadan-2024' ),
             ],
@@ -403,7 +403,7 @@ Pray for a spirit of deliverance to work mightily [in location] to enable them t
 Ask that the reward for sowing to the Spirit would be gratifying and convincing, especially for our new believing brothers and sisters.', 'ramadan-2024' ),
                 __( '“Don’t you see how wonderfully kind, tolerant, and patient God is with you? Does this mean nothing to you? Can’t you see that his kindness is intended to turn you from your sin?” (Romans 2:4).
 
-Declare the loving kindness of God, that His mercies are new every morning, that His faithfulness to YYY is indeed great.
+Declare the loving kindness of God, that His mercies are new every morning, that His faithfulness to [location] is indeed great.
 Declare that this year is the year of the Lord’s favor, that this month is the month of repentance, that this month is when God’s Kingdom is at hand.', 'ramadan-2024' ),
                 __( 'Across church planting movements globally, we see God granting a kind of grace for repentance. When believers share, people respond. There is a softness of heart, an openness to the move of the Spirit. Unlike Pharaoh, who hardened his heart and stubbornly refused to submit, people are ready to respond with soft hearts. In disciple making movements, apprentices of Jesus share with friends, with family, with their natural communities, and God’s grace for repentance is present.
 
@@ -434,7 +434,7 @@ Pray for a divine return to the fountain of living water, who is Christ.', 'rama
                 __( 'Often it is hard to find places for believers to meet because the rest of their families are not believers and will not allow it. Pray for places to meet and study the Bible and pray.', 'ramadan-2024' ),
                 __( '“‘Come, O breath, from the four winds! Breathe into these dead bodies so they may live again.’ So I spoke the message as he commanded me, and breath came into their bodies. They all came to life and stood up on their feet—a great army” (Ezekiel 37:9b-10). 
 
-Lord, with one phrase–‘Lazarus! Come forth!’—you raised a dead man; and with one phrase–‘Come, O breath, breathe into these dead bodies that they may live again’–you raised a dead nation; you reconstituted them into an army: the forces of Yahweh. And today, we join in accord with your Word: YYY, live! Receive the breath of the Lord, the Spirit of the triune God. Be raised to life. Return and live. Be dead no longer; slumber no longer; be sick no more. Return to Life, YYY, and live!', 'ramadan-2024' ),
+Lord, with one phrase–‘Lazarus! Come forth!’—you raised a dead man; and with one phrase–‘Come, O breath, breathe into these dead bodies that they may live again’–you raised a dead nation; you reconstituted them into an army: the forces of Yahweh. And today, we join in accord with your Word: [location], live! Receive the breath of the Lord, the Spirit of the triune God. Be raised to life. Return and live. Be dead no longer; slumber no longer; be sick no more. Return to Life, [location], and live!', 'ramadan-2024' ),
             ],
             //day 22
             [
@@ -444,7 +444,7 @@ Lord, with one phrase–‘Lazarus! Come forth!’—you raised a dead man; and 
 Pray for Christians from a Muslim background [in location] to be freed from every need to self-promote, boast, and compensate for any sense of inferiority. May they embrace Jesus\' example of self-denial and follow Him.', 'ramadan-2024' ),
                 __( '“And they sing the song of Moses, the servant of God, and the song of the Lamb, saying, ’Great and amazing are your deeds, O Lord God the Almighty! Just and true are your ways, O King [of location]!’” (Rev 15:3). 
 
-Father, this scripture speaks truth: one day, YYY will sing the song of Moses, the song of Miriam (Exodus 15:20-21), and they shall dance before the Lord as a once-captive people now walking across a dry sea, a once-imprisoned people now liberated from the brutality of Pharaoh. The truth is that all YYY shall sing: great and marvelous are your deeds, Lord God Almighty; just and true are your ways, O Lord, King of Ages!', 'ramadan-2024' ),
+Father, this scripture speaks truth: one day, [location] will sing the song of Moses, the song of Miriam (Exodus 15:20-21), and they shall dance before the Lord as a once-captive people now walking across a dry sea, a once-imprisoned people now liberated from the brutality of Pharaoh. The truth is that all the people [of location] shall sing: great and marvelous are your deeds, Lord God Almighty; just and true are your ways, O Lord, King of Ages!', 'ramadan-2024' ),
                 __( 'Christians are often persecuted by friends and family. Sometimes they have a hard time finding people who are willing to learn and grow with them. Pray that God will guide new believers [in location] to those they already know who are searching.', 'ramadan-2024' ),
                 __( 'Lord of compassion, would you rise and deliver your imprisoned people. Have mercy on those whose attention is captured by distractions and cheap thrills; have mercy on those whose time is consumed by workaholism and mindless activity; have mercy on those whose energy is sapped by the toxic effects of addiction, over-consumption, and escapism. Lord, have mercy; Christ, have mercy.', 'ramadan-2024' ),
             ],
@@ -456,7 +456,7 @@ Father, this scripture speaks truth: one day, YYY will sing the song of Moses, t
 Pray for all Christians, new and mature, from a Muslim background [in location] to trust only the Holy Spirit to guide them into all truth and to obey whatever he says.', 'ramadan-2024' ),
                 __( '“Don’t just pretend to love others. Really love them. Hate what is wrong. Hold tightly to what is good. Love each other with genuine affection, and take delight in honoring each other” (Rom 12:9-10). 
 
-Pray for hatred of wrong in communities throughout YYY…not hatred of people, but hatred of evil.
+Pray for hatred of wrong in communities throughout [location]…not hatred of people, but hatred of evil.
 Pray that communities would cling to and love what is good.
 Ask that God’s spirit would help people honor one another and delight in one another.', 'ramadan-2024' ),
                 __( 'Sometimes, as Christians, we are frozen by fear. Fear of persecution. Fear of rejection. Fear of losing something dear to us. Pray that God will give boldness and joy to Christians [in location] as they ponder what God has done in their own lives.', 'ramadan-2024' ),
@@ -476,9 +476,9 @@ Pray for Christians from a Muslim background [in location] to speak with boldnes
 
 Intercede that a spirit of love would transform communities.
 Pray for the grace of transformation as communities begin to relate in Kingdom ways.
-Ask for one of the descriptions of love (above) to be released over YYY and especially into new groups among emerging church streams.', 'ramadan-2024' ),
+Ask for one of the descriptions of love (above) to be released over [location] and especially into new groups among emerging church streams.', 'ramadan-2024' ),
                 __( 'Pray that God will help Christians [in location] to look beyond narrow limits and see the possibilities of what God can do in their country. May God give them expectancy as they wait upon Him.', 'ramadan-2024' ),
-                __( 'Lord, we cry: Soften hard hearts! Open deaf ears! Restore blind eyes! Where communities have hearts of stone, Lord, bring forth hearts of flesh. Have mercy! May you release a spirit of brokenness and contrition throughout the land; lead your people to grieve over injustice and sin; lead your children to search for another way. Father of kindness, have mercy. Christ, have mercy. Lead YYY to repent of its many sins.', 'ramadan-2024' ),
+                __( 'Lord, we cry: Soften hard hearts! Open deaf ears! Restore blind eyes! Where communities have hearts of stone, Lord, bring forth hearts of flesh. Have mercy! May you release a spirit of brokenness and contrition throughout the land; lead your people to grieve over injustice and sin; lead your children to search for another way. Father of kindness, have mercy. Christ, have mercy. Lead [location] to repent of its many sins.', 'ramadan-2024' ),
             ],
             //day 25
             [
@@ -506,7 +506,7 @@ Pray that a spirit of peace would be released over the people [of location]. Fro
 Pray for Christians from a Muslim background [in location] to cancel the power of and renounce every lie they\'ve heard that Jesus didn\'t die on the cross and to rejoice that they have been made alive with Christ through the cross.', 'ramadan-2024' ),
                 __( '“This is what the Lord says: I would no more reject my people than I would change my laws that govern night and day, earth and sky…I will have mercy on them” (Jer 33:25).
 
-God of Abraham, Isaac, and Jacob: we call on you to have mercy on YYY, according to your word. And we declare: no more would you abandon this nation than you would change the laws governing night and day, earth and sky.', 'ramadan-2024' ),
+God of Abraham, Isaac, and Jacob: we call on you to have mercy on [location], according to your word. And we declare: no more would you abandon this nation than you would change the laws governing night and day, earth and sky.', 'ramadan-2024' ),
                 __( 'Time is a precious commodity. Some people [in location] work or study long hours. Pray that God will give them wisdom to prioritize their time to serve Him.', 'ramadan-2024' ),
                 __( 'Lord of new identities, we pray for mercy. We pray for our non-Christian brothers and sisters to be filled with courage and faith, that they would take the radical step of baptism, and take it quickly. Holy Spirit let them revel in putting on their new self in Christ. We ask Holy Spirit that you come. Fill these new churches and believers with your presence. May they be baptized in groups, Lord, in order to establish to new churches, and may they never walk alone. We ask for your grace. Grace upon grace, upon grace, over our Muslim brothers and sisters.
 
@@ -514,18 +514,18 @@ Amen', 'ramadan-2024' ),
             ],
             //day 27
             [
-                __( 'On or around the 27th night of Ramadan, Muslims celebrate the "Night of Power" as a special time that their prayers and good deeds count for more. They believe their chance of getting their prayers answered and miracles done are increased on this night. Pray for multitudes of Muslims from YYY to encounter Jesus tonight in a dream or vision.', 'ramadan-2024' ),
+                __( 'On or around the 27th night of Ramadan, Muslims celebrate the "Night of Power" as a special time that their prayers and good deeds count for more. They believe their chance of getting their prayers answered and miracles done are increased on this night. Pray for multitudes of Muslims from [location] to encounter Jesus tonight in a dream or vision.', 'ramadan-2024' ),
                 __( 'Jesus is full of truth:
 "We have seen his glory, the glory of the One and Only, who came from the Father, full of grace and truth" (John 1:14).
 
 Pray for Christians from a Muslim background [in location] to model Jesus to those around them and to daily grow in being full of grace and truth.', 'ramadan-2024' ),
                 __( '“All the ends of the earth shall remember and turn to the Lord, and all the families [of location] shall worship before you” (Psalm 22:27).
 
-We declare today that YYY are destined to worship you and obey you, to love you and to enjoy you, forever. Lord, we ask that all the sects, tribes, and families [of location] shall remember you and turn to you; every knee will bow, and every tongue will confess that Christ is the Lord.', 'ramadan-2024' ),
+We declare today that the people [of location] are destined to worship you and obey you, to love you and to enjoy you, forever. Lord, we ask that all the sects, tribes, and families [of location] shall remember you and turn to you; every knee will bow, and every tongue will confess that Christ is the Lord.', 'ramadan-2024' ),
                 __( 'Pray that Christians [in location] will recognize the specific spiritual gifts that God has given them and wisely use those to serve.', 'ramadan-2024' ),
                 __( 'Father, hear our cries. Rend the heavens and come down. Your arm, O Mighty One, is not too short that it cannot save. Rise, O Mighty One, to show compassion. A bruised reed you never break, and a smoldering wick you never snuff out. 
 
-O Father! YYY is bruised, and YYY is smoldering. Lord have mercy; Christ have mercy. Come and do miracles today [in location]. Raise the dead. Save the nation. Spread your fame. Transform this people. Recreate all our brothers and sisters in Christ.
+O Father! [location] is bruised, and [location] is smoldering. Lord have mercy; Christ have mercy. Come and do miracles today [in location]. Raise the dead. Save the nation. Spread your fame. Transform this people. Recreate all our brothers and sisters in Christ.
 
 Amen', 'ramadan-2024' ),
             ],
@@ -546,9 +546,9 @@ Amen', 'ramadan-2024' ),
                 __( 'Today many Christians celebrate Easter: the resurrection of Jesus from the grave. Muslims deny this fact. "And if Christ has not been raised, your faith is futile and you are still in your sins" (1 Corinthians 15:17). Pray for Muslims [in location] to be convicted of the reality that they are still in their sins and that only God Himself can provide a solution for that – the cross of Christ.', 'ramadan-2024' ),
                 __( 'God\'s love overcomes rejection. "For God so loved the world that he gave his one and only Son, that whoever believes in him shall not perish but have eternal life" ( John 3:16).
 Pray for Christians from a Muslim background [in location] to overcome fear of rejection by identifying with the great love God showed them in sending his Son to give them eternal life.', 'ramadan-2024' ),
-                __( '“For from the rising of the sun to its setting my name will be great among YYY, and in every place incense will be offered to my name, and a pure offering. For my name will be great among YYY, says the Lord of hosts” (Malachi 1:11).
+                __( '“For from the rising of the sun to its setting my name will be great the people [of location], and in every place incense will be offered to my name, and a pure offering. For my name will be great among the people [of location], says the Lord of hosts” (Malachi 1:11).
 
-Lord, may this passage come to pass in our lifetime. May your name be great among YYY, and may your name be worshiped and adored from the rising of the sun to its setting. Lord God Almighty, wherever incense is burned, wherever prayers are offered or beads are counted or rugs are laid out: in every mosque, in every church, in every gathering space for prayer – Lord, there, would your name be lifted high. Let YYY offer you a pure offering of adoration and praise. 
+Lord, may this passage come to pass in our lifetime. May your name be great among the people [of location], and may your name be worshiped and adored from the rising of the sun to its setting. Lord God Almighty, wherever incense is burned, wherever prayers are offered or beads are counted or rugs are laid out: in every mosque, in every church, in every gathering space for prayer – Lord, there, would your name be lifted high. Let [location] offer you a pure offering of adoration and praise. 
 
 Amen', 'ramadan-2024' ),
                 __( 'Pray that every man, woman, and child [in location] will hear the testimony of someone from his/her culture in-person.', 'ramadan-2024' ),
