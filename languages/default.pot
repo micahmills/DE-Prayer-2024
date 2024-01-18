@@ -9,7 +9,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"POT-Creation-Date: 2024-01-18T11:55:28+00:00\n"
+"POT-Creation-Date: 2024-01-18T16:16:12+00:00\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "X-Generator: WP-CLI 2.9.0\n"
 "X-Domain: ramadan-2024\n"
@@ -980,7 +980,7 @@ msgid "Liberty to the Captives"
 msgstr ""
 
 #: admin/prayer-field-content.php:613
-msgid "Each of us who comes to Christ must repent of and renounce every pact, promise, or identity we held before faith in Christ. Over the 30 days join us in praying for our brothers and sisters in Christ from a Muslim background as they repent of their former identity as Muslims. These prayers are inspired by chapter 7 and 8 of Liberty to the Captives by Mark Durie"
+msgid "Each of us who comes to Christ must repent of and renounce every pact, promise, or identity we held before faith in Christ. Join us in praying for our brothers and sisters in Christ from a Muslim background as they repent of their former identity as Muslims. This prayer is inspired by chapter 7 and 8 of Liberty to the Captives by Mark Durie"
 msgstr ""
 
 #: admin/prayer-field-content.php:621
