@@ -370,7 +370,7 @@ Pray for Christians from a Muslim background [in location] to grow each day in w
                 __( '“You are the God who works wonders; you have made known your might among the people [of location]” (Psalm 77:14).
 
 O Lord, Sovereign over [location]! We come to you today, again, to sing your praise and declare your worth. You are worthy! You alone work wonders! You are the miracle maker, the Creator God, the One by whom all things came into being and through whom all life is sustained. Lord, demonstrate your might and power [in location]. Truly, You alone are God.', 'ramadan-2024' ),
-                __( 'Pray for great clarity (even generational maps https://zume.training/generational-mapping/ that highlight key issues) about areas where Christians [in location] may be distracted or deceived, making their work for the Lord just busyness and not genuinely fruitful.', 'ramadan-2024' ),
+                __( 'Pray for great clarity (even generational maps that highlight key issues: https://zume.training/generational-mapping/) about areas where Christians [in location] may be distracted or deceived, making their work for the Lord just busyness and not genuinely fruitful.', 'ramadan-2024' ),
                 __( 'Lord, we remember our brothers and sisters today from non-Christian backgrounds. They did not grow up learning about you and what you’re like. And so we pray, Lord, that you would recreate them, that you would transform their thoughts and feelings about God, and conform their beliefs to the reality of your Goodness.
 
 Lord, have mercy. Christ, have mercy. Spirit, have mercy.
@@ -577,6 +577,7 @@ Amen. Amen.', 'ramadan-2024' ),
             $message = make_clickable( $message );
             $message = str_replace( '[in location]', !empty( $fields['in_location'] ) ? $fields['in_location'] : '[in location]', $message );
             $message = str_replace( '[of location]', !empty( $fields['of_location'] ) ? $fields['of_location'] : '[of location]', $message );
+            $message = str_replace( '[location]', !empty( $fields['location'] ) ? $fields['location'] : '[location]', $message );
             $message = str_replace( '[people_group]', !empty( $fields['ppl_group'] ) ? $fields['ppl_group'] : '[people_group]', $message );
             return nl2br( $message );
         }
@@ -589,16 +590,16 @@ Amen. Amen.', 'ramadan-2024' ),
                 $number = '0' . $number;
             }
 
-            $image = '';
-            if ( file_exists( Ramadan_2024::$plugin_dir . 'images/' . $number . '.jpg' ) ) {
-                $image = '<figure class="wp-block-image p4m_prayer_image"><img src="' . plugins_url( 'images/' . $number . '.jpg', __DIR__ ) . '" alt="' . $number . '"  /></figure >';
-            }
+//            $image = '';
+//            if ( file_exists( Ramadan_2024::$plugin_dir . 'images/' . $number . '.jpg' ) ) {
+//                $image = '<figure class="wp-block-image p4m_prayer_image"><img src="' . plugins_url( 'images/' . $number . '.jpg', __DIR__ ) . '" alt="' . $number . '"  /></figure >';
+//            }
 
             $content[] = [
                 'excerpt' => wp_kses_post( ramadan_format_message( $d[0], $fields ) ),
                 'content' => [
                     '<!-- wp:heading {"level":3} -->',
-                    '<h3><strong>' . __( 'Our Treasure in Jesus', 'ramadan-2024' ) . '</strong></h3>',
+                    '<h3><strong>' . __( '30 Ways for Muslims to encounter Christ', 'ramadan-2024' ) . '</strong></h3>',
                     '<!-- /wp:heading -->',
 
                     '<!-- wp:paragraph -->',
@@ -606,15 +607,18 @@ Amen. Amen.', 'ramadan-2024' ),
                     '<!-- /wp:paragraph -->',
 
                     '<!-- wp:heading {"level":3} -->',
-                    '<h3><strong>' . __( 'Testimonies from Around the World', 'ramadan-2024' ) . '</strong></h3>',
+                    '<h3><strong>' . __( 'Liberty to the Captives', 'ramadan-2024' ) . '</strong></h3>',
                     '<!-- /wp:heading -->',
+                    '<!-- wp:paragraph -->',
+                    '<p>' . esc_html( ramadan_format_message( __( 'Each of us who comes to Christ must repent of and renounce every pact, promise, or identity we held before faith in Christ. Over the 30 days join us in praying for our brothers and sisters in Christ from a Muslim background as they repent of their former identity as Muslims. These prayers are inspired by chapter 7 and 8 of Liberty to the Captives by Mark Durie', 'ramadan-2024' ), $fields ) ) . '</p>',
+                    '<!-- /wp:paragraph -->',
 
                     '<!-- wp:paragraph -->',
                     '<p>' . wp_kses_post( ramadan_format_message( $d[1], $fields ) ) . '</p>',
                     '<!-- /wp:paragraph -->',
 
                     '<!-- wp:heading {"level":3} -->',
-                    '<h3><strong>' . __( 'Biblical Prayers', 'ramadan-2024' ) . '</strong></h3>',
+                    '<h3><strong>' . __( 'Praying Scripture', 'ramadan-2024' ) . '</strong></h3>',
                     '<!-- /wp:heading -->',
 
                     '<!-- wp:paragraph -->',
@@ -622,24 +626,19 @@ Amen. Amen.', 'ramadan-2024' ),
                     '<!-- /wp:paragraph -->',
 
                     '<!-- wp:heading {"level":3} -->',
-                    '<h3><strong>' . __( 'Prayer Walk', 'ramadan-2024' ) . '</strong></h3>',
+                    '<h3><strong>' . __( 'Praying for the Church', 'ramadan-2024' ) . '</strong></h3>',
                     '<!-- /wp:heading -->',
 
                     '<!-- wp:paragraph -->',
                     '<p>' . wp_kses_post( ramadan_format_message( $d[3], $fields ) ) . '</p>',
                     '<!-- /wp:paragraph -->',
 
-                    '<!-- wp:image -->',
-                    $image,
-                    '<!-- /wp:image -->',
-
                     '<!-- wp:heading {"level":3} -->',
-                    '<h3><strong>' . __( 'Inspirational Quotes', 'ramadan-2024' ) . '</strong></h3>',
+                    '<h3><strong>' . __( 'Claiming Our Hope in Christ and His Heart for the Nations', 'ramadan-2024' ) . '</strong></h3>',
                     '<!-- /wp:heading -->',
 
                     '<!-- wp:paragraph -->',
                     '<p>' . wp_kses_post( ramadan_format_message( $d[4], $fields ) ) . '</p>',
-                    '<p>' . esc_html( ramadan_format_message( __( 'How could this quote inspire you to pray for [people_group]? For yourself?', 'ramadan-2024' ), $fields ) ) . '</p>',
                     '<!-- /wp:paragraph -->',
                 ]
             ];
