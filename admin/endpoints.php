@@ -31,6 +31,10 @@ class Ramadan_2024_Endpoints {
         $params = $request->get_params();
 
         $default_content = $params['default_content'] ? 'en_US' : null;
+        $campaign_id = $params['campaign_id'] ?? null;
+        if ( empty( $campaign_id ) ){
+            return new WP_Error( __METHOD__, 'Missing campaign ID', [ 'status' => 400 ] );
+        }
 
         P4_Ramadan_2024_Content::install_content(
             $params['lang'] ?? 'en_US',
@@ -40,7 +44,8 @@ class Ramadan_2024_Endpoints {
                 'location' => $params['location'] ?? '[location]',
                 'ppl_group'   => $params['ppl_group'] ?? '[people group]',
             ],
-            $default_content
+            $default_content,
+            $campaign_id
         );
 
         return true;
