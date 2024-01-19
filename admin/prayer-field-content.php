@@ -6,7 +6,7 @@ if ( ! defined( 'ABSPATH' ) ) { exit; } // Exit if accessed directly
 class P4_Ramadan_2024_Content {
 
     public static function install_content( $language = 'en_US', $names = [], $from_translation = null ) {
-        $campaign = DT_Campaign_Settings::get_campaign();
+        $campaign = DT_Campaign_Landing_Settings::get_campaign();
         if ( empty( $campaign ) ) {
             dt_write_log( 'Campaign not set' );
             return false;

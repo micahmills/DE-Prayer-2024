@@ -77,8 +77,8 @@ class Ramadan_2024_Tab_General {
 
     public static function main_column() {
         $languages_manager = new DT_Campaign_Languages();
-        $languages = $languages_manager->get_enabled_languages();
-        $campaign = DT_Campaign_Settings::get_campaign();
+        $campaign = DT_Campaign_Landing_Settings::get_campaign();
+        $languages = $languages_manager->get_enabled_languages( $campaign['ID'] );
 
         $translations = [];
         $installed_languages = get_available_languages( Ramadan_2024::$plugin_dir .'languages/' );
@@ -149,7 +149,7 @@ class Ramadan_2024_Tab_General {
                                 $fuel_available = $code === 'en_US' || isset( $translations['ramadan-2024-' . $code] );
                                 ?>
 
-                                <tr class="<?php echo $language['enabled'] === false ? 'disabled-language' : '' ?>">
+                                <tr>
                                     <td><?php echo esc_html( $language['flag'] ) ?> <?php echo esc_html( $language['english_name'] ) ?></td>
                                     <td>
                                         <button class="button install-ramadan-content" value="<?php echo esc_html( $code ) ?>" <?php disabled( !$fuel_available || !in_array( $code, $prayer_fuel_ready ) ) ?>>
