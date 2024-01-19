@@ -314,6 +314,7 @@ class Ramadan_2024_Tab_General {
                             xhr.setRequestHeader("X-WP-Nonce",'<?php echo esc_attr( wp_create_nonce( 'wp_rest' ) ) ?>');
                         },
                         data: JSON.stringify({
+                            campaign_id: <?php echo esc_html( $campaign['ID'] ) ?>,
                             lang: delete_code,
                         })
                     }).then(()=>{
