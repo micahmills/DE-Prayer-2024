@@ -152,8 +152,8 @@ Create powerful encounters with You, the living God.', 'ramadan-2024' ),
 Pray for new Christ followers [in location] to renounce inferiority and glory in Christ\'s triumph over death through the cross.', 'ramadan-2024' ),
                 __( '“There is neither Jew nor Gentile, neither slave nor free, nor is there male and female, for you are all one in Christ Jesus” (Galatians 3:28). 
 Ask that in Christ there would be no division between the sects [of location].
-        Pray for a release of the spirit of unity over against the spirit of violence and division.
-        Pray for a release of the spirit of love over and against the spirits of death and destruction.', 'ramadan-2024' ),
+Pray for a release of the spirit of unity over against the spirit of violence and division.
+Pray for a release of the spirit of love over and against the spirits of death and destruction.', 'ramadan-2024' ),
                 __( 'Pray for Christians [in location] to grow daily in the Word.', 'ramadan-2024' ),
                 __( 'Father, hear our cries. We intercede on behalf of this nation, that you would move and change its trajectory. We see, Lord, how violence and division have wreaked havoc. We acknowledge that the sins of generations have destroyed the land and undermined the peace. But we also declare your steadfast love, your faithfulness and kindness. And we call out to you now and ask for your intervening love.
 
@@ -305,13 +305,7 @@ Ask for the grace of persevering prayer among believers [in location].
 Ask the Prince of Peace for leaders of the emerging ‘streams’ of churches and groups, that would never become so busy with activity that they cease praying extravagantly.
 Ask for believers in the emerging movements to have the unabashed persistence of the widow in asking, seeking, and knocking.', 'ramadan-2024' ),
                 __( 'Pray for dreams that will compel people to seek their meaning. Pray for whole families, groups, and communities to have the same dream about Jesus.', 'ramadan-2024' ),
-                __( 'Even the wilderness and desert will be glad in those days.
-The wasteland will rejoice and blossom with spring crocuses.
-Yes, there will be an abundance of flowers
-and singing and joy!
-The deserts will become as green as the mountains of Lebanon,
-as lovely as Mount Carmel or the plain of Sharon.
-Isaiah 35:1-3
+                __( '"Even the wilderness and desert will be glad in those days. The wasteland will rejoice and blossom with spring crocuses. Yes, there will be an abundance of flowers and singing and joy! The deserts will become as green as the mountains of Lebanon, as lovely as Mount Carmel or the plain of Sharon." Isaiah 35:1-3
 
 Father, what seems impossible – deserts becoming like green mountains – is possible with you.
 
@@ -345,13 +339,7 @@ Pray for Christians from a Muslim background [in location] to repent of every fo
 
 Lord, may all [location] praise you; may they praise you from every class and sect, from every religious and educational background; may they praise you in the cities and praise you in the villages, may they praise you from the seaside and praise you atop the highest peaks. You alone are worthy to receive glory and honor and praise, Great High King, rightful Ruler [of location].', 'ramadan-2024' ),
                 __( 'Pray for faith, not fear, to be what controls Christians [in location].', 'ramadan-2024' ),
-                __( 'With this news, strengthen those who have tired hands,
-and encourage those who have weak knees.
-Say to those with fearful hearts,
-“Be strong, and do not fear,
-for your God is coming to destroy your enemies.
-He is coming to save you.”
-Isaiah 35:3-4
+                __( 'With this news, strengthen those who have tired hands, and encourage those who have weak knees. Say to those with fearful hearts, “Be strong, and do not fear, for your God is coming to destroy your enemies. He is coming to save you.” Isaiah 35:3-4
 
 Lord, to those with tired hands, have mercy. 
 To those with weak knees, Lord, have mercy. 
@@ -417,15 +405,7 @@ Lord, soften hearts. Let those with ears to hear, let them hear. Give all those 
 Pray for Christians from a Muslim background [in location] to stand firm in Christ and reject the yoke of slavery to salvation through works.', 'ramadan-2024' ),
                 __( 'Jer 2:11, 13
 
-“Has any nation ever traded its gods for new ones,
-even though they are not gods at all?
-Yet my people have exchanged their glorious God
-for worthless idols!
-“For my people have done two evil things:
-They have abandoned me—
-the fountain of living water.
-And they have dug for themselves cracked cisterns
-that can hold no water at all!”
+“Has any nation ever traded its gods for new ones, even though they are not gods at all? Yet my people have exchanged their glorious God for worthless idols! “For my people have done two evil things: They have abandoned me—the fountain of living water. And they have dug for themselves cracked cisterns that can hold no water at all!”
 
 Repent on behalf [of location]. 
 Pray that God would expose the worthlessness of their idols: workaholism, busyness, vanity, and addictions of all kinds (e.g. Instagram, social media, gaming, pornography, drug and alcohol abuse, etc.).
@@ -489,9 +469,9 @@ Pray for followers of Jesus in the Muslim community [of location] to take captiv
                 __( '“Jesus got up from the table, took off his robe, wrapped a towel around his waist, and poured water into a basin. Then he began to wash the disciples’ feet, drying them with the towel he had around him. After washing their feet, he put on his robe again and sat down and asked, ‘Do you understand what I was doing? You call me ‘Teacher’ and ‘Lord,’ and you are right, because that’s what I am. And since I, your Lord and Teacher, have washed your feet, you ought to wash each other’s feet. I have given you an example to follow. Do as I have done to you” (John 13:4-5, 12-15).
 
 Pray that new discovery groups and emerging churches would follow the example of Christ, washing one another’s feet.
-        Ask that God would show the church what it means to be servant leaders in the community.
-        Pray the Lord would break the need for ‘competition’ and ‘one-upmanship’ and would release, instead, a spirit of humility.
-        Ask God to break toxic ways of relating to one another.', 'ramadan-2024' ),
+Ask that God would show the church what it means to be servant leaders in the community.
+Pray the Lord would break the need for ‘competition’ and ‘one-upmanship’ and would release, instead, a spirit of humility.
+Ask God to break toxic ways of relating to one another.', 'ramadan-2024' ),
                 __( 'Sometimes it\'s hard to imagine that God could use us in our weakness. Many new believers are hesitant to start groups in their homes because they are afraid they don\'t know enough. Pray that young believers [in location] will rely on God\'s Word and the Holy Spirit as they discover with their friends and family.', 'ramadan-2024' ),
                 __( '“For you have heard of my former life in Judaism, how I persecuted the church of God violently and tried to destroy it. [But eventually the churches could testify:] “He who used to persecute us is now preaching the faith he once tried to destroy” (Gal 1:13, 23-34).
 
@@ -572,6 +552,11 @@ Amen. Amen.', 'ramadan-2024' ),
         ];
 
 
+        function bullet_list_to_html( $message ){
+            //https://stackoverflow.com/questions/2344563/a-regex-that-converts-text-lists-to-html-in-php
+            $message = preg_replace( '/^-+(.*)?/im', '<ul><li>$1</li></ul>', $message );
+            return preg_replace( '/(<\/ul>\n(.*)<ul>*)+/', '', $message );
+        }
 
         function ramadan_format_message( $message, $fields ) {
             $message = make_clickable( $message );
@@ -579,6 +564,7 @@ Amen. Amen.', 'ramadan-2024' ),
             $message = str_replace( '[of location]', !empty( $fields['of_location'] ) ? $fields['of_location'] : '[of location]', $message );
             $message = str_replace( '[location]', !empty( $fields['location'] ) ? $fields['location'] : '[location]', $message );
             $message = str_replace( '[people_group]', !empty( $fields['ppl_group'] ) ? $fields['ppl_group'] : '[people_group]', $message );
+            $message = bullet_list_to_html( $message );
             return nl2br( $message );
         }
 
