@@ -33,11 +33,11 @@ class P4_Ramadan_2024_Content {
 
                 'post_content'  => $post_content,
                 'post_excerpt'  => $day['excerpt'],
-                'post_type'  => PORCH_LANDING_POST_TYPE,
+                'post_type'  => 'landing',
                 'post_status'   => 'publish',
                 'post_author'   => get_current_user_id(),
                 'meta_input' => [
-                    PORCH_LANDING_META_KEY => $slug,
+                    'prayer_fuel_magic_key' => $slug,
                     'post_language' => $language,
                     'day' => $i + 1,
                     'fuel_tag' => 'ramadan_2024',
