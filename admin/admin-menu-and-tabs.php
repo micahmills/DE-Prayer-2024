@@ -110,7 +110,7 @@ class Ramadan_2024_Tab_General {
         }
 
 
-        $prayer_fuel_ready = [ 'en_US', 'pt_BR' ];
+        $prayer_fuel_ready = [ 'en_US', 'pt_BR', 'fr_FR' ];
 
         ?>
         <table class="widefat striped">
