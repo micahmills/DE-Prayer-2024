@@ -473,7 +473,7 @@ Ask that God would show the church what it means to be servant leaders in the co
 Pray the Lord would break the need for ‘competition’ and ‘one-upmanship’ and would release, instead, a spirit of humility.
 Ask God to break toxic ways of relating to one another.', 'ramadan-2024' ),
                 __( 'Sometimes it\'s hard to imagine that God could use us in our weakness. Many new believers are hesitant to start groups in their homes because they are afraid they don\'t know enough. Pray that young believers [in location] will rely on God\'s Word and the Holy Spirit as they discover with their friends and family.', 'ramadan-2024' ),
-                __( '“For you have heard of my former life in Judaism, how I persecuted the church of God violently and tried to destroy it. [But eventually the churches could testify:] “He who used to persecute us is now preaching the faith he once tried to destroy” (Gal 1:13, 23-34).
+                __( '“For you have heard of my former life in Judaism, how I persecuted the church of God violently and tried to destroy it. [But eventually the churches could testify:] “He who used to persecute us is now preaching the faith he once tried to destroy” (Gal 1:13 & 23).
 
 Pray that extremists and violent zealots would encounter the King of Peace, Jesus, and would follow him in self-sacrificing love.
 Pray that a spirit of peace would be released over the people [of location]. From the fields to the suburbs, from the villages to the skyscrapers, from the kitchen table to the halls of power, let Apostle Pauls be raised up and let their hearts turn towards building your Kingdom instead of trying to destroy it.', 'ramadan-2024' ),
