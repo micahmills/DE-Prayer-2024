@@ -7,7 +7,7 @@ class Ramadan_2024_Endpoints {
     }
 
     private function can_publish(){
-        return current_user_can( 'publish_' . PORCH_LANDING_POST_TYPE . 's' ) || current_user_can( 'manage_dt' );
+        return current_user_can( 'publish_landings' ) || current_user_can( 'manage_dt' );
     }
 
     public function add_api_routes() {
