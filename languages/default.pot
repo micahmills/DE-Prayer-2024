@@ -9,7 +9,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"POT-Creation-Date: 2024-03-04T16:12:29+00:00\n"
+"POT-Creation-Date: 2024-03-04T20:21:27+00:00\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "X-Generator: WP-CLI 2.10.0\n"
 "X-Domain: ramadan-2024\n"
@@ -625,15 +625,15 @@ msgstr ""
 #: admin/prayer-field-content.php:384
 msgid ""
 "The cross cancels every anti-Christ pact and destroys all its power. \"And you, who were dead in your trespasses… God made alive together with him, having forgiven us all our trespasses, by canceling the record of debt that stood against us with its legal demands. This he set aside, nailing it to the cross. He disarmed the rulers and authorities and put them to open shame, by triumphing over them in him\" (Colossians 2:13-15).\n"
-"    \n"
-"    Pray for Christians from a Muslim background [in location] to cancel the power of and renounce every lie they've heard that Jesus didn't die on the cross and to rejoice that they have been made alive with Christ through the cross."
+"\n"
+"Pray for Christians from a Muslim background [in location] to cancel the power of and renounce every lie they've heard that Jesus didn't die on the cross and to rejoice that they have been made alive with Christ through the cross."
 msgstr ""
 
 #: admin/prayer-field-content.php:387
 msgid ""
 "“This is what the Lord says: I would no more reject my people than I would change my laws that govern night and day, earth and sky…I will have mercy on them” (Jer 33:25).\n"
-"    \n"
-"    God of Abraham, Isaac, and Jacob: we call on you to have mercy on [location], according to your word. And we declare: no more would you abandon this nation than you would change the laws governing night and day, earth and sky."
+"\n"
+"God of Abraham, Isaac, and Jacob: we call on you to have mercy on [location], according to your word. And we declare: no more would you abandon this nation than you would change the laws governing night and day, earth and sky."
 msgstr ""
 
 #: admin/prayer-field-content.php:390
@@ -643,8 +643,8 @@ msgstr ""
 #: admin/prayer-field-content.php:391
 msgid ""
 "Lord of new identities, we pray for mercy. We pray for our non-Christian brothers and sisters to be filled with courage and faith, that they would take the radical step of baptism, and take it quickly. Holy Spirit let them revel in putting on their new self in Christ. We ask Holy Spirit that you come. Fill these new churches and believers with your presence. May they be baptized in groups, Lord, in order to establish to new churches, and may they never walk alone. We ask for your grace. Grace upon grace, upon grace, over our Muslim brothers and sisters.\n"
-"    \n"
-"    Amen"
+"\n"
+"Amen"
 msgstr ""
 
 #: admin/prayer-field-content.php:397
