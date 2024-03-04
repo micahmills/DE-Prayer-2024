@@ -382,14 +382,14 @@ Amen', 'ramadan-2024' ),
             [
                 __( 'Muslims deny that Jesus died on the cross and instead ascended to heaven without dying. This belief denies the act of atonement foundational to our faith as Christians. As many Christians around the world enter into a time celebrating Christ\'s death, burial, and resurrection, pray for Muslims [in location] to have the eyes of their heart opened to consider the possibility of Jesus\' death and resurrection.', 'ramadan-2024' ),
                 __( 'The cross cancels every anti-Christ pact and destroys all its power. "And you, who were dead in your trespasses… God made alive together with him, having forgiven us all our trespasses, by canceling the record of debt that stood against us with its legal demands. This he set aside, nailing it to the cross. He disarmed the rulers and authorities and put them to open shame, by triumphing over them in him" (Colossians 2:13-15).
-    
+
 Pray for Christians from a Muslim background [in location] to cancel the power of and renounce every lie they\'ve heard that Jesus didn\'t die on the cross and to rejoice that they have been made alive with Christ through the cross.', 'ramadan-2024' ),
                 __( '“This is what the Lord says: I would no more reject my people than I would change my laws that govern night and day, earth and sky…I will have mercy on them” (Jer 33:25).
-    
+
 God of Abraham, Isaac, and Jacob: we call on you to have mercy on [location], according to your word. And we declare: no more would you abandon this nation than you would change the laws governing night and day, earth and sky.', 'ramadan-2024' ),
                 __( 'Time is a precious commodity. Some people [in location] work or study long hours. Pray that God will give them wisdom to prioritize their time to serve Him.', 'ramadan-2024' ),
                 __( 'Lord of new identities, we pray for mercy. We pray for our non-Christian brothers and sisters to be filled with courage and faith, that they would take the radical step of baptism, and take it quickly. Holy Spirit let them revel in putting on their new self in Christ. We ask Holy Spirit that you come. Fill these new churches and believers with your presence. May they be baptized in groups, Lord, in order to establish to new churches, and may they never walk alone. We ask for your grace. Grace upon grace, upon grace, over our Muslim brothers and sisters.
-    
+
 Amen', 'ramadan-2024' ),
             ],
             //day 21
