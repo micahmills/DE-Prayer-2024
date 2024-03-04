@@ -5,6 +5,11 @@ class Ramadan_2024_Endpoints {
     public function __construct() {
         add_action( 'rest_api_init', [ $this, 'add_api_routes' ] );
     }
+
+    private function can_publish(){
+        return current_user_can( 'publish_' . PORCH_LANDING_POST_TYPE . 's' ) || current_user_can( 'manage_dt' );
+    }
+
     public function add_api_routes() {
         $namespace = 'ramadan-2024';
         register_rest_route(
@@ -12,7 +17,7 @@ class Ramadan_2024_Endpoints {
                 'methods'  => 'POST',
                 'callback' => [ $this, 'dt_ramadan_install_content' ],
                 'permission_callback' => function(){
-                    return current_user_can( 'manage_dt' );
+                    return $this->can_publish();
                 },
             ]
         );
@@ -21,7 +26,7 @@ class Ramadan_2024_Endpoints {
                 'methods'  => 'POST',
                 'callback' => [ $this, 'dt_ramadan_delete_content' ],
                 'permission_callback' => function(){
-                    return current_user_can( 'manage_dt' );
+                    return $this->can_publish();
                 },
             ]
         );

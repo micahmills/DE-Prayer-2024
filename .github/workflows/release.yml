@@ -23,7 +23,7 @@ jobs:
       - name: Build project
         run: |
           mkdir ramadan-2024
-          cp -r ramadan-2024.php admin images languages version-control.json LICENSE SECURITY.md ramadan-2024/
+          cp -r ramadan-2024.php admin languages version-control.json SECURITY.md ramadan-2024/
           zip -r ramadan-2024.zip ramadan-2024
       - name: Create Release
         id: create_release
