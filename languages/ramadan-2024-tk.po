@@ -1,35 +1,36 @@
-# Copyright (C) 2022 
-# This file is distributed under the same license as the Disciple.Tools - Prayer Campaigns plugin.
+# Copyright (C) 2024 
+# This file is distributed under the same license as the Disciple.Tools - Ramadan 2024 plugin.
 msgid ""
 msgstr ""
-"Project-Id-Version: Disciple.Tools - Prayer Campaigns 2.0.2\n"
+"Project-Id-Version: Disciple.Tools - Ramadan 2024 1.4.3\n"
 "Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/ramadan-2024\n"
 "POT-Creation-Date: 2024-03-08T14:03:06+00:00\n"
-"PO-Revision-Date: 2022-12-13 16:53+0100\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
-"Language-Team: Nepali <https://translate.disciple.tools/projects/disciple-"
-"tools/disciple-tools-prayer-campaigns/ne_NP/>\n"
-"Language: ne_NP\n"
+"PO-Revision-Date: 2024-03-06 15:45+0000\n"
+"Last-Translator: Hannah Mae <hannah@visualstory.org>\n"
+"Language-Team: Turkmen <https://translate.disciple.tools/projects/"
+"pray4movement/ramadan-2024/tk/>\n"
+"Language: tk\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Poedit 3.2.2\n"
-"X-Domain: disciple-tools-prayer-campaigns\n"
+"X-Generator: Weblate 5.4.2\n"
+"X-Domain: ramadan-2024\n"
 
 #: admin/admin-menu-and-tabs.php:190
 msgid ""
 "Jesus, give the church [in location] grace to cherish your name above all "
 "else"
 msgstr ""
+"Isa, adyňy hemme zatdan ileri tutmak üçin buthana (ýerinde) merhemet et"
 
 #: admin/admin-menu-and-tabs.php:200
 msgid "let the people [of location] grasp the Good News"
-msgstr ""
+msgstr "goý, adamlar [ýaşaýan ýeri] Hoş Habara düşünsinler"
 
 #: admin/admin-menu-and-tabs.php:210
 msgid "Ask that God’s word would spread rapidly throughout [location]."
-msgstr ""
+msgstr "Taňrynyň sözüniň [ýerleşýän ýeri] çalt ýaýramagyny soraň."
 
 #: admin/prayer-field-content.php:71
 msgid ""
@@ -38,6 +39,10 @@ msgid ""
 "as the God of Love throughout the Bible, please reveal yourself to Muslims "
 "[in location] with your true nature."
 msgstr ""
+"Yslamda Taňrynyň rehimdar, haýyrly, parahatçylygyň çeşmesi ýaly 99 ady bar, "
+"ýöne bu atlaryň hiç biri-de Söýgi däl. Özüňizi Injiliň hemme [ýerinde] "
+"Söýginiň Hudaýy hökmünde görkezýän Ata Hudaý, hakyky tebigatyňyz bilen "
+"musulmanlara özüňizi açmagyňyzy haýyş edýäris."
 
 #: admin/prayer-field-content.php:72
 msgid ""
@@ -49,6 +54,12 @@ msgid ""
 "rejection they have experienced through the love God showed us on the cross "
 "of Christ."
 msgstr ""
+"Taňrynyň söýgüsi ret edilmegi ýeňýär. \"Şeýlelik bilen, Hudaýyň bize bolan "
+"söýgüsini bilýäris we bil baglaýarys. Hudaý söýgidir. Kim söýgide ýaşasa, "
+"Hudaý Hudaýda ýaşaýar\" (1 Johnahýa 4:16).\n"
+"\n"
+"Musulman bolan mesihilerden Hudaýyň bize Mesihiň haçynda görkezen söýgüsi "
+"bilen başdan geçirenlerini ret etmekleri üçin doga ediň."
 
 #: admin/prayer-field-content.php:75
 msgid ""
@@ -64,6 +75,17 @@ msgid ""
 "hospitality...Be happy with those who are happy, and weep with those who "
 "weep. Live in harmony with each other.”"
 msgstr ""
+"Hereketi dowam etdirmek üçin toparlar we ýolbaşçylar doganlyk we doganlyk "
+"gatnaşyklaryny ösdürmeli. Täze amenthtiň “biri-birinden” parçalaryny ýerine "
+"ýetirmeli. Bu merhemet bolmasa, şägirt taýýarlamak hereketi bolmaz. Rimliler "
+"12-den bu bölümdäki \"biri-birimizi\" has doly başdan geçirmegimiz üçin "
+"doganlarymyz üçin dileg ediň:\n"
+"\n"
+"“Diňe başgalary söýýän ýaly etmäň. Olary hakykatdanam söýüň ... Birek-biregi "
+"hakyky mähir bilen söýüň we birek-birege hormat goýmakdan lezzet alyň ... "
+"Taňrynyň halky mätäç bolanda, olara kömek etmäge taýyn boluň. Mydama "
+"myhmansöýerlik bilen meşgul boluň ... Bagtly bolanlardan razy boluň we "
+"aglaýanlar bilen aglaň. Biri-biriňiz bilen sazlaşykly ýaşaň. ”"
 
 #: admin/prayer-field-content.php:78
 msgid ""
@@ -71,6 +93,9 @@ msgid ""
 "of believers form, they will come together and generously help one another "
 "with needs."
 msgstr ""
+"Köp mesihiler maddy taýdan kynçylyk çekýärler. Imanlylaryň täze bedenleriniň "
+"emele gelmegi bilen birleşip, mätäçlik bilen birek-birege sahy kömek "
+"etmegini dileg ediň."
 
 #: admin/prayer-field-content.php:79
 msgid ""
@@ -88,6 +113,19 @@ msgid ""
 "Ask that the joy of Jesus would fill believers’ hearts as they remain in His "
 "love by obeying His commandments."
 msgstr ""
+"Hudaýy bütin ýüregimiz, janymyz, aňymyz we güýjümiz bilen söýmelidiris. Hoş "
+"Habar hereketi üçin dileg edenimizde, geliň, Rebbimiziň söýgimizi mukaddes "
+"etmegini dileg edeliň.\n"
+"\n"
+"“Söýgimde galyň. Meniň buýruklarymy ýerine ýetireniňde, Atamyň "
+"tabşyryklaryny ýerine ýetirişim we söýgüsinde galşym ýaly, meniň söýgimde "
+"galarsyň. Bu zatlary size şatlygymdan doldurarsyňyz diýdim. Hawa, şatlygyňyz "
+"dolup gider! ” (15ahýa 15: 9b-11).\n"
+"\n"
+"Mesihde galmagyň merhemeti üçin dileg ediň.\n"
+"Tabynlygyň merhemeti üçin dileg ediň.\n"
+"Isanyň şatlygy, Onuň buýruklaryna boýun bolmak bilen Onuň söýgüsinde galyp, "
+"imanlylaryň ýüregini doldurmagyny soraň."
 
 #: admin/prayer-field-content.php:89
 msgid ""
@@ -96,6 +134,10 @@ msgid ""
 "Pray today for Muslims [in location] to seek the true God who is big enough "
 "for our questions and doubts."
 msgstr ""
+"Yslamda şübhe etmek günädir. Köp musulmanlara din hakda öwredilen zatlary "
+"sorag etseler, baky günäkärlenmek gorkusyny galdyrýar. Musulmanlar üçin "
+"soraglarymyz we şübhelerimiz üçin ýeterlik derejede hakyky Hudaýy gözlemek "
+"üçin şu gün doga ediň."
 
 #: admin/prayer-field-content.php:90
 msgid ""
@@ -106,6 +148,12 @@ msgid ""
 "Pray for Christ followers [in location] to renounce intimidation from the "
 "Muslim society around them and to put trust in God."
 msgstr ""
+"Mirasymyz gorkuzmak däl: bu Hudaýda. \"Çünki Hudaý bize gorky ruhuny "
+"bermedi, güýç, söýgi we öz-özüňi dolandyrmak ruhuny berdi\" (2 Timoteos 1: "
+"7).\n"
+"\n"
+"Mesihiň yzyna eýerijiler töweregindäki musulman jemgyýetinden gorkuzmakdan "
+"ýüz öwürmek we Hudaýa bil baglamak üçin dileg ediň."
 
 #: admin/prayer-field-content.php:93
 msgid ""
@@ -121,12 +169,24 @@ msgid ""
 "and not just converts. Intercede for emerging church communities to start "
 "new groups. Pray for new communities of faith to quickly be baptized."
 msgstr ""
+"“Isa gelip, şägirtlerine:“ Maňa gökde we ýerde ähli ygtyýarlyk berildi. "
+"Şonuň üçin gidip, ähli halklara şägirt ediň, olary Ata, Ogul we Mukaddes "
+"Ruhuň adyna çokundyryň. Bu täze şägirtlere size beren ähli buýruklarymy "
+"ýerine ýetirmegi öwrediň. Muňa göz ýetiriň: hatda ahyrzamana çenli hemişe "
+"siziň bilendirin ”(Matta 28: 18-20).\n"
+"\n"
+"Iman edenler her gün Hudaýdan öwrenýän zatlaryny batyrgaý we giňden "
+"paýlaşmaly. Işçileriň diňe iman edenleri däl-de, şägirt taýýarlamagyny "
+"soraň. Täze toparlary döretmek üçin döreýän ýygnak jemgyýetlerine şepagat "
+"ediň. Täze iman jemagatlarynyň çalt çokundyrylmagyny dileg ediň."
 
 #: admin/prayer-field-content.php:96
 msgid ""
 "Pray that Christians around the country will have one unified vision of "
 "reaching their country."
 msgstr ""
+"Aroundurduň hemme ýerinde mesihileriň öz ýurduna ýetmek barada bitewi bir "
+"düşünje bolmagyny dileg ediň."
 
 #: admin/prayer-field-content.php:97
 msgid ""
@@ -140,6 +200,16 @@ msgid ""
 "\n"
 "Amen"
 msgstr ""
+"Eý, kaka! Churchygnagyňyzy [ýerleşýän ýerinde] gurup, bu halky üýtgedýän "
+"şägirt döretmek hereketiniň katalizasiýasyny dowam etdirmegiňizi haýyş "
+"edýäris: şägirt taýýarlaýan şägirtler, ýolbaşçylary ösdürip ýetişdirýän "
+"ýolbaşçylar, topar döredýän toparlar we buthanalar gurýan buthanalar. Lorda "
+"Reb, halkyň Hudaýy söýmegi, ýitenlere hyzmat etmegi, birek-birege ideg "
+"etmegi, borçnamalaryny ýerine ýetirmegi we netijeli strategiýany öwrenmegi "
+"bilen, merhemetiň hemme zada ýol görkezer we söýgiň ähli pasyllarda dowam "
+"eder.\n"
+"\n"
+"Omyn"
 
 #: admin/prayer-field-content.php:103
 msgid ""
@@ -149,6 +219,12 @@ msgid ""
 "this issue and ask for God to give grace to Muslims [in location] to "
 "question this teaching that they inherited their religion from their parents."
 msgstr ""
+"Yslam, musulmanlaryň ene-atalarynyň dinine miras bolup, Yslamda "
+"dogulýandygyny öwredýär. Hristiançylyk tersine öwredýär, her bir adam Mesihe "
+"we Onuň taglymatlaryna eýermek üçin şahsy karar bermeli. Bu gün biz bu "
+"meselä doga edýäris we Hudaýdan musulmanlara öz dinlerini ene-atalaryndan "
+"miras alandyklary baradaky bu taglymaty sorag etmek üçin merhemet bermegini "
+"soraýarys."
 
 #: admin/prayer-field-content.php:104
 msgid ""
@@ -158,6 +234,10 @@ msgid ""
 "Pray for Christians from a Muslim background [in location] to root "
 "themselves in the freedom they have in Christ."
 msgstr ""
+"Bizi azatlykda ýaşamaga çagyrýarlar. \"[Isa aýtdy:] Şonda hakykaty "
+"bilersiňiz, hakykat sizi azat eder\" (Johnahýa 8:32).\n"
+"\n"
+"Musulman asly mesihilerden Mesihdäki erkinliginde kök urmagy üçin doga ediň."
 
 #: admin/prayer-field-content.php:107
 msgid ""
@@ -175,12 +255,26 @@ msgid ""
 "places, we believe your angels are on the move [in location], and we expect "
 "spiritual breakthrough this month of Ramadan."
 msgstr ""
+"\"Hawa, Musanyň ýazgylaryny okanlarynda-da ýürekleri perde bilen örtülendir "
+"we düşünenoklar\" (2 Korintoslylar 3:15).\n"
+"\n"
+"Lorda Reb, perdäni aýyr. Musulmanlary Mesihiň hakykatyny görmekden saklaýan "
+"körleri aýyryň. Goý, Hoş Habar adamlary körlükden azat etsin. Goý, "
+"ýamanlygyň esaslary we güýçleri we ruhy güýçleri (Efesliler 6) ýapylsyn, "
+"dymsyn, döwülsin, güýçsiz bolsun. Isa, haçyňyz güýçleri: ölüm güýjüni, "
+"Şeýtany we Patyşalygyny ýeňdi. Siz ýeňiş gazandyňyz. Indi, ýa Reb, seniň "
+"barlygyňy we güýjüňi, perişdeleriňi we gullukçylaryňy ruhy älemde [ýerleşýän "
+"ýerinde] hereket etmäge çagyrýarys. Danyýel doga edip, perişdeler iberilip, "
+"jennet ýerlerinde söweş alyp barýarka, perişdeleriňiziň [ýerleşýän ýerinde] "
+"hereket edýändigine ynanýarys we Remezan aýynda ruhy üstünliklere garaşýarys."
 
 #: admin/prayer-field-content.php:110
 msgid ""
 "Pray that God would protect Christians [in location] from distractions and "
 "false teachings."
 msgstr ""
+"Hudaýyň mesihileri ünsüni ünsden sowmakdan we ýalan taglymatlardan "
+"goramagyny dileg ediň."
 
 #: admin/prayer-field-content.php:111
 msgid ""
@@ -195,6 +289,16 @@ msgid ""
 "goodness of Christ’s light into the shadow and chaos of this present "
 "darkness."
 msgstr ""
+"Reb Isa, seniň sözleriň durmuş. Geliň, boýun bolanymyzdan, amal edişimizden "
+"we imanymyzy herekete getirenimizden gelýän Hudaý bilen durmuş beriji "
+"baglanyşyk üçin “hawa” diýeliň.\n"
+"\n"
+"Lorda Reb, imanlylara öz ýerlerinde passiw, sarp ediji meýillerini ret "
+"etmegine rugsat ber. Muňa derek, olara Mesihiň hökümdarlygyny we "
+"hökümdarlygyny dünýä öwürmek üçin Taňry tarapyndan tabşyrylan bir maksat "
+"bilen çagyrylan mukaddes halk bolan imanlylaryň ruhanylygy bolmaga "
+"mümkinçilik beriň. Goý, Mesihiň ýagtylygynyň ýagşylygyny häzirki "
+"garaňkylygyň kölegesine we bulam-bujarlygyna öwürsinler."
 
 #: admin/prayer-field-content.php:117
 msgid ""
@@ -205,6 +309,12 @@ msgid ""
 "their hearts to be softened to a God who welcomes them into His presence any "
 "day of the year because of Christ's blood on the cross."
 msgstr ""
+"Yslam, aýallaryň aýbaşy wagtynda agyz bekläp ýa-da doga edip bilmejekdigini "
+"öwredýär. Mesihde munuň hakykat däldigi üçin Hudaýa şükür edýäris. "
+"Aýbaşydadygy sebäpli agyz bekläp bilmeýän aýallar üçin şu gün doga ediň we "
+"bu agyz beklemegiň ýylyny ýylyň ahyrynda düzmeli bolarlar. Christylyň "
+"ýüreklerini Mesihiň haçdaky gany sebäpli ýylyň islendik güni Öz huzurynda "
+"kabul edýän Hudaýa ýumşatmagy üçin dileg ediň."
 
 #: admin/prayer-field-content.php:118
 msgid ""
@@ -1747,745 +1857,3 @@ msgstr ""
 #: admin/prayer-field-content.php:623
 msgid "Claiming Our Hope in Christ and His Heart for the Nations"
 msgstr ""
-
-#, fuzzy
-#~ msgid "Prayer Walk"
-#~ msgstr "प्रार्थना ईन्धन"
-
-#, fuzzy
-#~ msgctxt ""
-#~ "Click here to see the prayer prompts for today: link-html-code-here"
-#~ msgid "Click here to see the prayer prompts for today: %s"
-#~ msgstr "आजको लागि प्रार्थना प्रम्प्टहरू हेर्न यहाँ क्लिक गर्नुहोस्: %s"
-
-#, fuzzy
-#~ msgid "Prayer Time reminder!"
-#~ msgstr "प्रार्थना समय रिमाइन्डर!"
-
-#, fuzzy
-#~ msgctxt "August 18, 2021 from 03:15 am to 03:30 am for Tokyo, Japan"
-#~ msgid "%1$s from %2$s to %3$s"
-#~ msgstr "%1$s %2$s देखि %3$s सम्म"
-
-#, fuzzy
-#~ msgctxt "for Paris, France"
-#~ msgid "for %s"
-#~ msgstr "%s को लागि"
-
-#, fuzzy
-#~ msgid "Hello %s,"
-#~ msgstr "नमस्कार %s,"
-
-#, fuzzy
-#~ msgid "Thank you for praying with us!"
-#~ msgstr "हामीसँग प्रार्थना गर्नुभएकोमा धन्यवाद!"
-
-#, fuzzy
-#~ msgid "Here are your upcoming prayer times:"
-#~ msgstr "यहाँ तपाईंको आगामी प्रार्थना समयहरू छन्:"
-
-#, fuzzy
-#~ msgid "Times are shown according to: %s time"
-#~ msgstr "समय अनुसार देखाइन्छ: %s समय"
-
-#, fuzzy
-#~ msgid "Click here to manage your account and time commitments"
-#~ msgstr "आफ्नो खाता र समय प्रतिबद्धताहरू व्यवस्थापन गर्न यहाँ क्लिक गर्नुहोस्"
-
-#, fuzzy
-#~ msgid "Registered to pray with us!"
-#~ msgstr "हामी संग प्रार्थना गर्न दर्ता!"
-
-#, fuzzy
-#~ msgid ""
-#~ "Thank you for joining us in strategic prayer for a disciple making "
-#~ "movement! You're one click away from finishing your registration."
-#~ msgstr ""
-#~ "चेला बनाउने आन्दोलनको लागि रणनीतिक प्रार्थनामा हामीसँग सामेल हुनुभएकोमा धन्यवाद! "
-#~ "तपाइँ तपाइँको दर्ता समाप्त गर्नबाट एक क्लिक टाढा हुनुहुन्छ।"
-
-#, fuzzy
-#~ msgid ""
-#~ "Click here to verify your email address and confirm your prayer times:"
-#~ msgstr ""
-#~ "आफ्नो इमेल ठेगाना प्रमाणित गर्न र आफ्नो प्रार्थना समय पुष्टि गर्न यहाँ क्लिक गर्नुहोस्।"
-
-#, fuzzy
-#~ msgid "Verify your account"
-#~ msgstr "आफ्नो खाता प्रमाणित गर्नुहोस्"
-
-#, fuzzy
-#~ msgid "Here are the times you have committed to pray:"
-#~ msgstr "तपाईंले प्रार्थना गर्न प्रतिबद्ध गर्नुभएको समयहरू यहाँ छन्:"
-
-#, fuzzy
-#~ msgid "Registration Confirmation"
-#~ msgstr "दर्ता पुष्टिकरण"
-
-#, fuzzy
-#~ msgid "Thank you for signing up to pray!"
-#~ msgstr "प्रार्थना गर्न साइन अप गर्नुभएकोमा धन्यवाद!"
-
-#, fuzzy
-#~ msgid ""
-#~ "We have some time before the campaign starts. We will send you another "
-#~ "email a couple months before the first day asking you to choose specific "
-#~ "times to pray. Working together we will cover the region in 24/7 prayer."
-#~ msgstr ""
-#~ "हामीसँग अभियान सुरु हुन केही समय छ। हामी तपाईंलाई पहिलो दिनको केही महिना अघि "
-#~ "अर्को इमेल पठाउनेछौं जसले तपाईंलाई प्रार्थना गर्नको लागि निश्चित समयहरू छनौट गर्न "
-#~ "सोध्नेछ। सँगै काम गर्दै हामी 24/7 प्रार्थनामा क्षेत्र कभर गर्नेछौं।"
-
-#, fuzzy
-#~ msgid "If you know your schedule already you can choose your times here:"
-#~ msgstr ""
-#~ "यदि तपाइँ तपाइँको तालिका पहिले नै थाहा छ तपाइँ यहाँ तपाइँको समय छनोट गर्न सक्नुहुन्छ:"
-
-#, fuzzy
-#~ msgid ""
-#~ "You are 2 weeks out for your last prayer time. Would you like to keep "
-#~ "praying?"
-#~ msgstr ""
-#~ "तपाईं आफ्नो अन्तिम प्रार्थना समयको लागि 2 हप्ता बाहिर हुनुहुन्छ। के तपाई प्रार्थना "
-#~ "गरिरहन चाहनुहुन्छ?"
-
-#, fuzzy
-#~ msgid "Sign up for more prayer times or extend your recurring time here:"
-#~ msgstr ""
-#~ "थप प्रार्थना समयहरूको लागि साइन अप गर्नुहोस् वा तपाईंको पुनरावर्ती समय यहाँ विस्तार "
-#~ "गर्नुहोस्:"
-
-#, fuzzy
-#~ msgid "Thank you"
-#~ msgstr "धन्यवाद"
-
-#, fuzzy
-#~ msgid "5 minutes"
-#~ msgstr "5 मिनेट"
-
-#, fuzzy
-#~ msgid "10 minutes"
-#~ msgstr "१० मिनेट"
-
-#, fuzzy
-#~ msgid "15 minutes"
-#~ msgstr "15 मिनेट"
-
-#, fuzzy
-#~ msgid "30 minutes"
-#~ msgstr "30 मिनेट"
-
-#, fuzzy
-#~ msgid "1 hour"
-#~ msgstr "1 घण्टा"
-
-#, fuzzy
-#~ msgid "My Prayer Times"
-#~ msgstr "मेरो प्रार्थना समय"
-
-#, fuzzy
-#~ msgid "Select a time"
-#~ msgstr "समय चयन गर्नुहोस्"
-
-#, fuzzy
-#~ msgid "fully covered once"
-#~ msgstr "एक पटक पूर्ण रूपमा कभर"
-
-#, fuzzy
-#~ msgid "fully covered %1$s times"
-#~ msgstr "%1$s पटक पूर्ण रूपमा कभर गरियो"
-
-#, fuzzy
-#~ msgctxt "Monday 5pm for 15 minutes"
-#~ msgid "%1$s for %2$s minutes."
-#~ msgstr "%2$s मिनेटको लागि %1$s।"
-
-#, fuzzy
-#~ msgid "Extend for 3 months"
-#~ msgstr "३ महिनाको लागि बढाउनुहोस्"
-
-#, fuzzy
-#~ msgid "Change daily time"
-#~ msgstr "दैनिक समय परिवर्तन गर्नुहोस्"
-
-#, fuzzy
-#~ msgid "Your prayer times have been verified!"
-#~ msgstr "तपाईंको प्रार्थना समय प्रमाणित गरिएको छ!"
-
-#, fuzzy
-#~ msgid "Change your timezone:"
-#~ msgstr "आफ्नो समय क्षेत्र परिवर्तन गर्नुहोस्:"
-
-#, fuzzy
-#~ msgid "Cancel"
-#~ msgstr "रद्द गर्नुहोस्"
-
-#, fuzzy
-#~ msgid "Select"
-#~ msgstr "चयन गर्नुहोस्"
-
-#, fuzzy
-#~ msgid "Add a Daily Prayer Time"
-#~ msgstr "दैनिक प्रार्थना समय थप्नुहोस्"
-
-#, fuzzy
-#~ msgid "Add Individual Prayer Times"
-#~ msgstr "व्यक्तिगत प्रार्थना समय थप्नुहोस्"
-
-#, fuzzy
-#~ msgid "Download Calendar"
-#~ msgstr "क्यालेन्डर डाउनलोड गर्नुहोस्"
-
-#, fuzzy
-#~ msgid "My commitments"
-#~ msgstr "मेरो प्रतिबद्धताहरू"
-
-#, fuzzy
-#~ msgid "Prayer Time"
-#~ msgstr "प्रार्थना समय"
-
-#, fuzzy
-#~ msgid "Daily Time"
-#~ msgstr "दैनिक समय"
-
-#, fuzzy
-#~ msgid "For how long"
-#~ msgstr "कति समयको लागि हो"
-
-#, fuzzy
-#~ msgid "Your new prayer times have been saved."
-#~ msgstr "तपाईंको नयाँ प्रार्थना समय सुरक्षित गरिएको छ।"
-
-#, fuzzy
-#~ msgid "Confirm Times"
-#~ msgstr "टाइम्स पुष्टि गर्नुहोस्"
-
-#, fuzzy
-#~ msgid "ok"
-#~ msgstr "ठिक छ"
-
-#, fuzzy
-#~ msgid "Close"
-#~ msgstr "बन्द"
-
-#, fuzzy
-#~ msgid "Select a day and choose a time"
-#~ msgstr "एक दिन छान्नुहोस् र समय छान्नुहोस्"
-
-#, fuzzy
-#~ msgid "Select a prayer time"
-#~ msgstr "प्रार्थना समय छान्नुहोस्"
-
-#, fuzzy
-#~ msgid "Add prayer time"
-#~ msgstr "प्रार्थना समय थप्नुहोस्"
-
-#, fuzzy
-#~ msgid "Time added"
-#~ msgstr "समय थपियो"
-
-#, fuzzy
-#~ msgid "Selected Times"
-#~ msgstr "चयन गरिएको समय"
-
-#, fuzzy
-#~ msgid "No selected Time"
-#~ msgstr "कुनै चयन गरिएको समय छैन"
-
-#, fuzzy
-#~ msgid "Back"
-#~ msgstr "पछाडी हेर्नुहोस"
-
-#, fuzzy
-#~ msgid "Choose a different time:"
-#~ msgstr "फरक समय छान्नुहोस्:"
-
-#, fuzzy
-#~ msgid "Delete all"
-#~ msgstr "सबै मेटाउनुहोस्"
-
-#, fuzzy
-#~ msgid "Confirm"
-#~ msgstr "निश्चित गर्नुहोस"
-
-#, fuzzy
-#~ msgid "Extend"
-#~ msgstr "विस्तार गर्नुहोस्"
-
-#, fuzzy
-#~ msgid "Extend my prayer commitments until:"
-#~ msgstr "मेरो प्रार्थना प्रतिबद्धताहरू सम्म विस्तार गर्नुहोस्:"
-
-#, fuzzy
-#~ msgid "Profile Settings"
-#~ msgstr "प्रोफाइल सेटिङहरू"
-
-#, fuzzy
-#~ msgid "Receive prayer time notifications"
-#~ msgstr "प्रार्थना समय सूचनाहरू प्राप्त गर्नुहोस्"
-
-#, fuzzy
-#~ msgid "Notifications allowed"
-#~ msgstr "सूचनाहरूलाई अनुमति दिइएको छ"
-
-#, fuzzy
-#~ msgid "Notifications not allowed"
-#~ msgstr "सूचनाहरूलाई अनुमति छैन"
-
-#, fuzzy
-#~ msgid "Advanced Settings"
-#~ msgstr "उन्नत सेटिङहरू"
-
-#, fuzzy
-#~ msgid "Delete this profile and all the scheduled prayer times?"
-#~ msgstr "यो प्रोफाइल र सबै निर्धारित प्रार्थना समयहरू मेट्ने हो?"
-
-#, fuzzy
-#~ msgid "Delete"
-#~ msgstr "मेटाउनुहोस"
-
-#, fuzzy
-#~ msgid "Are you sure you want to delete your profile?"
-#~ msgstr "के तपाइँ तपाइँको प्रोफाइल मेटाउन निश्चित हुनुहुन्छ?"
-
-#, fuzzy
-#~ msgid "This can not be undone."
-#~ msgstr "यो उल्ट्याउन सकिदैन।"
-
-#, fuzzy
-#~ msgid "This subscription has ended or is not configured correctly."
-#~ msgstr "यो सदस्यता समाप्त भएको छ वा सही रूपमा कन्फिगर गरिएको छैन।"
-
-#, fuzzy
-#~ msgid "Name"
-#~ msgstr "नाम"
-
-#, fuzzy
-#~ msgid "Email"
-#~ msgstr "इमेल"
-
-#, fuzzy
-#~ msgid "Your email is required."
-#~ msgstr "तपाईंको इमेल आवश्यक छ।"
-
-#, fuzzy
-#~ msgid "Receive Prayer Time Notifications (email verification needed)."
-#~ msgstr "प्रार्थना समय सूचनाहरू प्राप्त गर्नुहोस् (इमेल प्रमाणिकरण आवश्यक)।"
-
-#, fuzzy
-#~ msgid "Receive Pray4Movement Newsletter (email verification needed)."
-#~ msgstr "Pray4Movement न्यूजलेटर प्राप्त गर्नुहोस् (इमेल प्रमाणिकरण आवश्यक)।"
-
-#, fuzzy
-#~ msgid "Submit Your Prayer Commitment"
-#~ msgstr "तपाईंको प्रार्थना प्रतिबद्धता पेश गर्नुहोस्"
-
-#, fuzzy
-#~ msgid "Strategic prayer for a Disciple Making Movement"
-#~ msgstr "चेला बनाउने आन्दोलनको लागि रणनीतिक प्रार्थना"
-
-#, fuzzy
-#~ msgid "Our Vision"
-#~ msgstr "हाम्रो भिजन"
-
-#, fuzzy
-#~ msgid "We want to cover this region with continuous 24/7 prayer."
-#~ msgstr "हामी यस क्षेत्रलाई निरन्तर 24/7 प्रार्थनाको साथ कभर गर्न चाहन्छौं।"
-
-#, fuzzy
-#~ msgid "Extraordinary Prayer"
-#~ msgstr "असाधारण प्रार्थना"
-
-#, fuzzy
-#~ msgid ""
-#~ "Every disciple making movement in history has happened in the context of "
-#~ "extraordinary prayer."
-#~ msgstr "इतिहासमा हरेक चेला बनाउने आन्दोलन असाधारण प्रार्थनाको सन्दर्भमा भएको छ।"
-
-#, fuzzy
-#~ msgid "Movement Focused"
-#~ msgstr "आन्दोलन केन्द्रित"
-
-#, fuzzy
-#~ msgid ""
-#~ "Join us in asking, seeking, and knocking for streams of disciples and "
-#~ "churches to be made."
-#~ msgstr ""
-#~ "चेलाहरू र मण्डलीहरू बनाउनको लागि सोध्न, खोज्न र ढकढकाउन हामीसँग सामेल हुनुहोस्।"
-
-#, fuzzy
-#~ msgid "24/7 Every Day"
-#~ msgstr "24/7 हरेक दिन"
-
-#, fuzzy
-#~ msgid ""
-#~ "Choose a 15-minute (or more!) time slot that you can pray during each "
-#~ "day. Invite someone else to sign up too."
-#~ msgstr ""
-#~ "एक 15-मिनेट (वा बढी!) समय स्लट छनोट गर्नुहोस् जुन तपाइँ प्रत्येक दिनको समयमा "
-#~ "प्रार्थना गर्न सक्नुहुन्छ। अरू कसैलाई पनि साइन अप गर्न आमन्त्रित गर्नुहोस्।"
-
-#, fuzzy
-#~ msgid "Use these resources to help pray specifically each day."
-#~ msgstr "प्रत्येक दिन विशेष गरी प्रार्थना गर्न मद्दत गर्न यी स्रोतहरू प्रयोग गर्नुहोस्।"
-
-#, fuzzy
-#~ msgid "Today's Prayer Fuel"
-#~ msgstr "आजको प्रार्थना ईन्धन"
-
-#, fuzzy
-#~ msgid "All Days"
-#~ msgstr "सबै दिन"
-
-#, fuzzy
-#~ msgid "Epic 404 - Not Found"
-#~ msgstr "इपिक ४०४- भेटियन"
-
-#, fuzzy
-#~ msgid "It looks like you may have strayed from the narrow path."
-#~ msgstr "तपाईं साँघुरो बाटोबाट भड्किनुभएको जस्तो देखिन्छ।"
-
-#, fuzzy
-#~ msgid "Wide is the path that leads to the 404."
-#~ msgstr "चौडा बाटो हो जुन 404 मा जान्छ।"
-
-#, fuzzy
-#~ msgid "Try using some of the links in the menu to get back on track."
-#~ msgstr "ट्र्याकमा फर्कन मेनुमा केही लिङ्कहरू प्रयोग गर्ने प्रयास गर्नुहोस्।"
-
-#, fuzzy
-#~ msgid "Sign Up to Pray"
-#~ msgstr "प्रार्थना गर्न साइन अप गर्नुहोस्"
-
-#, fuzzy
-#~ msgctxt "Campaign Name is Finished"
-#~ msgid "%s is Finished"
-#~ msgstr "%s समाप्त भयो"
-
-#, fuzzy
-#~ msgctxt "Campaign Name End in [4 days]"
-#~ msgid "%s Ends In"
-#~ msgstr "%s मा समाप्त हुन्छ"
-
-#, fuzzy
-#~ msgid "days"
-#~ msgstr "दिनहरू"
-
-#, fuzzy
-#~ msgid "hours"
-#~ msgstr "घण्टा"
-
-#, fuzzy
-#~ msgid "minutes"
-#~ msgstr "मिनेट"
-
-#, fuzzy
-#~ msgid "seconds"
-#~ msgstr "सेकेन्ड"
-
-#, fuzzy
-#~ msgctxt "Campaign Name End in [4 days]"
-#~ msgid "%s Begins In"
-#~ msgstr "%s मा सुरु हुन्छ"
-
-#, fuzzy
-#~ msgid "Days"
-#~ msgstr "दिनहरू"
-
-#, fuzzy
-#~ msgid "Next"
-#~ msgstr "अर्को"
-
-#, fuzzy
-#~ msgid "Month"
-#~ msgstr "महिना"
-
-#, fuzzy
-#~ msgid "Hours of Prayer"
-#~ msgstr "प्रार्थनाको घण्टा"
-
-#, fuzzy
-#~ msgid "Hours"
-#~ msgstr "घण्टा"
-
-#, fuzzy
-#~ msgid "Prayer Commitments Needed"
-#~ msgstr "प्रार्थना प्रतिबद्धताहरू आवश्यक छ"
-
-#, fuzzy
-#~ msgid "Hours Remaining"
-#~ msgstr "घण्टा बाँकी"
-
-#, fuzzy
-#~ msgid "View All"
-#~ msgstr "सबै हेर्नुहोस्"
-
-#, fuzzy
-#~ msgid "Read"
-#~ msgstr "पढ्नुहोस्"
-
-#, fuzzy
-#~ msgid "Check your email"
-#~ msgstr "पठाइयो! आफ्नो इमेल जाँच गर्नुहोस्।"
-
-#, fuzzy
-#~ msgid "Your registration was successful."
-#~ msgstr "तपाईंको दर्ता सफल भयो।"
-
-#, fuzzy
-#~ msgid ""
-#~ "Click on the link included in the email to verify your commitment and "
-#~ "receive prayer time notifications!"
-#~ msgstr ""
-#~ "आफ्नो प्रतिबद्धता प्रमाणित गर्न र प्रार्थना समय सूचनाहरू प्राप्त गर्न इमेलमा समावेश "
-#~ "लिङ्कमा क्लिक गर्नुहोस्!"
-
-#, fuzzy
-#~ msgid "In the email is a link to manage your prayer times."
-#~ msgstr "इमेलमा तपाइँको प्रार्थना समय व्यवस्थापन गर्न लिङ्क छ।"
-
-#, fuzzy
-#~ msgid "Return"
-#~ msgstr "फर्किनु"
-
-#, fuzzy
-#~ msgctxt "Thank you for joining us in prayer for the French in France."
-#~ msgid "Thank you for joining us in prayer for the %1$s in %2$s."
-#~ msgstr "%2$s मा %1$s को लागि प्रार्थनामा हामीसँग सामेल हुनुभएकोमा धन्यवाद।"
-
-#, fuzzy
-#~ msgid "Campaign Stats"
-#~ msgstr "अभियान तथ्याङ्क"
-
-#, fuzzy
-#~ msgid "Percentage Covered"
-#~ msgstr "प्रतिशत कभर गरिएको छ"
-
-#, fuzzy
-#~ msgid "Prayer Commitments"
-#~ msgstr "प्रार्थना प्रतिबद्धताहरू"
-
-#, fuzzy
-#~ msgid "Time Committed"
-#~ msgstr "समय प्रतिबद्ध"
-
-#, fuzzy
-#~ msgid "Number of People who Prayed"
-#~ msgstr "प्रार्थना गर्ने व्यक्तिहरूको संख्या"
-
-#, fuzzy
-#~ msgid "Share with us your Prayer Stories"
-#~ msgstr "हामीसँग आफ्नो प्रार्थना कथाहरू साझा गर्नुहोस्"
-
-#, fuzzy
-#~ msgid ""
-#~ "Share with us about your prayer time (E.g. testimonies, insights, "
-#~ "blessings, etc)"
-#~ msgstr ""
-#~ "तपाईंको प्रार्थना समय (जस्तै गवाही, अन्तरदृष्टि, आशीर्वाद, आदि) को बारे मा हामी संग "
-#~ "साझा गर्नुहोस्।"
-
-#, fuzzy
-#~ msgid "Submit"
-#~ msgstr "पेश गर्नुहोस्"
-
-#, fuzzy
-#~ msgid "Thank You"
-#~ msgstr "धन्यवाद"
-
-#, fuzzy
-#~ msgid "More Prayer Opportunities"
-#~ msgstr "थप प्रार्थना अवसरहरू"
-
-#, fuzzy
-#~ msgid ""
-#~ "Would you like to hear about other prayer efforts and opportunities with "
-#~ "Pray4Movement.org?"
-#~ msgstr ""
-#~ "के तपाईं Pray4Movement.org सँग अन्य प्रार्थना प्रयासहरू र अवसरहरूको बारेमा सुन्न "
-#~ "चाहनुहुन्छ?"
-
-#, fuzzy
-#~ msgid "Home"
-#~ msgstr "घर"
-
-#, fuzzy
-#~ msgid "Sign Up"
-#~ msgstr "साइन अप"
-
-#, fuzzy
-#~ msgid ""
-#~ "Ramadan is one of the five requirements (or pillars) of Islam. During "
-#~ "each of its 30 days, Muslims are obligated to fast from dawn until "
-#~ "sunset. During this time they are supposed to abstain from food, drinking "
-#~ "liquids, smoking, and sexual relations.\n"
-#~ "\n"
-#~ "Women typically spend the afternoons preparing a big meal. At sunset, "
-#~ "families often gather to break the fast. Traditionally the families break "
-#~ "the fast with a drink of water, then three dried date fruits, and a multi-"
-#~ "course meal. After watching the new Ramadan TV series, men (and some "
-#~ "women) go out to coffee shops where they drink coffee, and smoke with "
-#~ "friends until late into the night.\n"
-#~ "\n"
-#~ "Though many have stopped fasting in recent years, and are turned off by "
-#~ "the hypocrisy, increased crime rates, and rudeness that is pervasive "
-#~ "through the month, others have become more serious about religion during "
-#~ "this time. Many attend the evening prayer services and do the other "
-#~ "ritual prayers. Some even read the entire Quran (about a tenth the length "
-#~ "of the Bible). This sincere seeking makes it a strategic time for us to "
-#~ "pray for them."
-#~ msgstr ""
-#~ "रमजान इस्लामको पाँच आवश्यकता (वा स्तम्भ) मध्ये एक हो। यसको प्रत्येक 30 दिनहरूमा, "
-#~ "मुस्लिमहरू बिहानदेखि सूर्यास्तसम्म उपवास बस्न बाध्य छन्। यस अवधिमा उनीहरूले खाना, पिउने "
-#~ "तरल पदार्थ, धुम्रपान र यौनसम्पर्कबाट टाढा रहनुपर्छ।\n"
-#~ "\n"
-#~ "     महिलाहरू सामान्यतया दिउँसो ठूलो खाना तयार गर्न खर्च गर्छन्। सूर्यास्तमा, "
-#~ "परिवारहरू प्रायः व्रत तोड्न भेला हुन्छन्। परम्परागत रूपमा परिवारहरूले पानी पिएर, "
-#~ "त्यसपछि तीनवटा सुकेको खजूर, र एक बहु-पाठ्य भोजनको साथ उपवास तोड्छन्। नयाँ रमजान "
-#~ "टिभी शृङ्खला हेरेपछि, पुरुषहरू (र केही महिलाहरू) कफी पसलहरूमा जान्छन् जहाँ उनीहरू कफी "
-#~ "पिउछन्, र साथीहरूसँग राती अबेरसम्म धुम्रपान गर्छन्।\n"
-#~ "\n"
-#~ "     यद्यपि हालैका वर्षहरूमा धेरैले उपवास छोडेका छन्, र कपट, बढ्दो अपराध दर, र "
-#~ "महिनाभर व्याप्त हुने असभ्यताले बन्द गरेका छन्, तर अरूहरू यस समयमा धर्मप्रति बढी गम्भीर "
-#~ "भएका छन्। धेरैजना साँझको प्रार्थना सेवाहरूमा उपस्थित हुन्छन् र अन्य धार्मिक प्रार्थनाहरू "
-#~ "गर्छन्। कसै-कसैले पूरै कुरान (बाइबलको दशांश लम्बाइ) पनि पढ्छन्। यो निष्कपट खोजले हाम्रो "
-#~ "लागि तिनीहरूको लागि प्रार्थना गर्ने रणनीतिक समय बनाउँछ।"
-
-#, fuzzy
-#~ msgid "Ramadan is Finished"
-#~ msgstr "रमजान सकियो"
-
-#, fuzzy
-#~ msgid "Ramadan Ends ..."
-#~ msgstr "रमजानको अन्त्य..."
-
-#, fuzzy
-#~ msgid "Ramadan Begins ..."
-#~ msgstr "रमजान सुरु..."
-
-#, fuzzy
-#~ msgid "here"
-#~ msgstr "यहाँ"
-
-#, fuzzy
-#~ msgid "More Hours to be covered"
-#~ msgstr "कभर गर्न थप घण्टा"
-
-#, fuzzy
-#~ msgid "covered once"
-#~ msgstr "एक पटक कभर"
-
-#, fuzzy
-#~ msgid "covered %1$s times"
-#~ msgstr "%1$s पटक कभर गरियो"
-
-#, fuzzy
-#~ msgid "Percentage covered in prayer"
-#~ msgstr "प्रार्थनामा कभर गरिएको प्रतिशत"
-
-#, fuzzy
-#~ msgid "Loading prayer campaign data..."
-#~ msgstr "प्रार्थना अभियान डेटा लोड गर्दै..."
-
-#, fuzzy
-#~ msgid "Choose Prayer Times"
-#~ msgstr "प्रार्थना समय छान्नुहोस्"
-
-#, fuzzy
-#~ msgid "Select an option"
-#~ msgstr "एक विकल्प चयन गर्नुहोस्"
-
-#, fuzzy
-#~ msgid "Pray every day at the same time"
-#~ msgstr "हरेक दिन एकै समयमा प्रार्थना गर्नुहोस्"
-
-#, fuzzy
-#~ msgid "Example: Everyday at 4pm for 15mins"
-#~ msgstr "उदाहरण: हरेक दिन 4 बजे 15 मिनेटको लागि"
-
-#, fuzzy
-#~ msgid "Select days and times to pray"
-#~ msgstr "प्रार्थना गर्न दिन र समय छान्नुहोस्"
-
-#, fuzzy
-#~ msgid "Example: Monday 12th at 6pm for 15mins"
-#~ msgstr "उदाहरण: सोमबार १२ गते बेलुका ६ बजे १५ मिनेटको लागि"
-
-#, fuzzy
-#~ msgid "Please note that daylight savings time may affect your prayer times."
-#~ msgstr "इमेलमा तपाइँको प्रार्थना समय व्यवस्थापन गर्न लिङ्क छ।"
-
-#, fuzzy
-#~ msgid "Showing times for:"
-#~ msgstr "समय देखाउँदै:"
-
-#, fuzzy
-#~ msgid "We are not longer looking for sign ups"
-#~ msgstr "हामी अब साइन अपहरू खोजिरहेका छैनौं"
-
-#, fuzzy
-#~ msgid "Thanks for praying with us!"
-#~ msgstr "हामीसँग प्रार्थना गर्नुभएकोमा धन्यवाद!"
-
-#, fuzzy
-#~ msgctxt "everyday at 3pm for 15 minutes until Jan 3 2031"
-#~ msgid "Everyday at %1$s for %2$s until %3$s"
-#~ msgstr "हरेक दिन %1$s मा %2$s को लागि %3$s सम्म"
-
-#, fuzzy
-#~ msgctxt "Jun, Jul, Aug covered"
-#~ msgid "covered"
-#~ msgstr "ढाकिएको"
-
-#, fuzzy
-#~ msgid ""
-#~ "Chose a time to pray everyday for the next 3 months. Near the end you'll "
-#~ "have the option to sign up for more."
-#~ msgstr ""
-#~ "अर्को 3 महिनाको लागि हरेक दिन प्रार्थना गर्न समय छान्नुहोस्। अन्त्यमा तपाईंसँग थपका "
-#~ "लागि साइन अप गर्ने विकल्प हुनेछ।"
-
-#, fuzzy
-#~ msgid "Sent! Check your email."
-#~ msgstr "पठाइयो! आफ्नो इमेल जाँच गर्नुहोस्।"
-
-#, fuzzy
-#~ msgid "OK"
-#~ msgstr "ठिक छ"
-
-#, fuzzy
-#~ msgid "Start Praying!"
-#~ msgstr "प्रार्थना सुरु गर्नुहोस्!"
-
-#, fuzzy
-#~ msgctxt "Prayer time: 15 min"
-#~ msgid "Prayer time: %s min"
-#~ msgstr "प्रार्थना समय: %s मिनेट"
-
-#, fuzzy
-#~ msgid "Now praying..."
-#~ msgstr "अब प्रार्थना..."
-
-#, fuzzy
-#~ msgid "Epic 404"
-#~ msgstr "एपिक 404"
-
-#, fuzzy
-#~ msgid "Content to be added to the signup email"
-#~ msgstr "साइनअप इमेलमा थपिने सामग्री"
-
-#, fuzzy
-#~ msgid "Content to be added to the reminder email"
-#~ msgstr "रिमाइन्डर इमेलमा थपिने सामग्री"
-
-#, fuzzy
-#~ msgid "Update"
-#~ msgstr "अद्यावधिक गर्नुहोस्"
-
-#, fuzzy
-#~ msgid "Yes"
-#~ msgstr "हुन्छ"
-
-#, fuzzy
-#~ msgid "No"
-#~ msgstr "हुदैन"
