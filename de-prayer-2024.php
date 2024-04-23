@@ -1,16 +1,16 @@
 <?php
 /**
- * Plugin Name: Disciple.Tools - Ramadan 2024
- * Plugin URI: https://github.com/Pray4Movement/ramadan-2024
- * Description: Disciple.Tools - Ramadan 2024 prayer fuel content.
- * Text Domain: ramadan-2024
+ * Plugin Name: DE Prayer Campaign 2024
+ * Plugin URI: https://github.com/micahmills/DE-Prayer-2024
+ * Description: DE Prayer Campaign 2023 prayer request content starter.
+ * Text Domain: de-prayer-2024
  * Domain Path: /languages
  * Version:  1.5.0
  * Author URI: https://github.com/Pray4Movement
- * GitHub Plugin URI: https://github.com/Pray4Movement/ramadan-2024
+ * GitHub Plugin URI: https://github.com/micahmills/DE-Prayer-2024
  * Requires at least: 4.7.0
  * (Requires 4.7+ because of the integration of the REST API at 4.7 and the security requirements of this milestone version.)
- * Tested up to: 5.6
+ * Tested up to: 6.2
  *
  * @package Disciple_Tools
  * @link    https://github.com/Pray4Movement
@@ -30,8 +30,8 @@ if ( ! defined( 'ABSPATH' ) ) {
  * @access public
  * @return object|bool
  */
-function ramadan_2024() {
-    $ramadan_2024_required_dt_theme_version = '1.30';
+function de_prayer_2024() {
+    $de_prayer_2024_required_dt_theme_version = '1.30';
     $wp_theme = wp_get_theme();
     $version = $wp_theme->version;
 
@@ -39,8 +39,8 @@ function ramadan_2024() {
      * Check if the Disciple.Tools theme is loaded and is the latest required version
      */
     $is_theme_dt = class_exists( 'Disciple_Tools' );
-    if ( $is_theme_dt && version_compare( $version, $ramadan_2024_required_dt_theme_version, '<' ) ) {
-        add_action( 'admin_notices', 'ramadan_2024_hook_admin_notice' );
+    if ( $is_theme_dt && version_compare( $version, $de_prayer_2024_required_dt_theme_version, '<' ) ) {
+        add_action( 'admin_notices', 'de_prayer_2024_hook_admin_notice' );
         add_action( 'wp_ajax_dismissed_notice_handler', 'dt_hook_ajax_notice_handler' );
         return false;
     }
@@ -57,12 +57,12 @@ function ramadan_2024() {
     return Ramadan_2024::instance();
 
 }
-add_action( 'after_setup_theme', 'ramadan_2024', 20 );
+add_action( 'after_setup_theme', 'de_prayer_2024', 20 );
 
 //register the D.T Plugin
 add_filter( 'dt_plugins', function ( $plugins ){
     $plugin_data = get_file_data( __FILE__, [ 'Version' => 'Version', 'Plugin Name' => 'Plugin Name' ], false );
-    $plugins['ramadan-2024'] = [
+    $plugins['de-prayer-2024'] = [
         'plugin_url' => trailingslashit( plugin_dir_url( __FILE__ ) ),
         'version' => $plugin_data['Version'] ?? null,
         'name' => $plugin_data['Plugin Name'] ?? null,
@@ -143,7 +143,7 @@ class Ramadan_2024 {
      */
     public static function deactivation() {
         // add functions here that need to happen on deactivation
-        delete_option( 'dismissed-ramadan-2024' );
+        delete_option( 'dismissed-de-prayer-2024' );
     }
 
     /**
@@ -154,7 +154,7 @@ class Ramadan_2024 {
      * @return void
      */
     public function i18n() {
-        $domain = 'ramadan-2024';
+        $domain = 'de-prayer-2024';
         load_plugin_textdomain( $domain, false, trailingslashit( dirname( plugin_basename( __FILE__ ) ) ). 'languages' );
     }
 
@@ -166,7 +166,7 @@ class Ramadan_2024 {
      * @return string
      */
     public function __toString() {
-        return 'ramadan-2024';
+        return 'de-prayer-2024';
     }
 
     /**
@@ -201,7 +201,7 @@ class Ramadan_2024 {
      * @access public
      */
     public function __call( $method = '', $args = array() ) {
-        _doing_it_wrong( 'ramadan_2024::' . esc_html( $method ), 'Method does not exist.', '0.1' );
+        _doing_it_wrong( 'de_prayer_2024::' . esc_html( $method ), 'Method does not exist.', '0.1' );
         unset( $method, $args );
         return null;
     }
@@ -213,28 +213,28 @@ register_activation_hook( __FILE__, [ 'Ramadan_2024', 'activation' ] );
 register_deactivation_hook( __FILE__, [ 'Ramadan_2024', 'deactivation' ] );
 
 
-if ( ! function_exists( 'ramadan_2024_hook_admin_notice' ) ) {
-    function ramadan_2024_hook_admin_notice() {
-        global $ramadan_2024_required_dt_theme_version;
+if ( ! function_exists( 'de_prayer_2024_hook_admin_notice' ) ) {
+    function de_prayer_2024_hook_admin_notice() {
+        global $de_prayer_2024_required_dt_theme_version;
         $wp_theme = wp_get_theme();
         $current_version = $wp_theme->version;
         $message = "'Disciple.Tools - Ramadan 2024' plugin requires 'Disciple.Tools' theme to work. Please activate 'Disciple.Tools' theme or make sure it is latest version.";
         if ( $wp_theme->get_template() === 'disciple-tools-theme' ){
-            $message .= ' ' . sprintf( esc_html( 'Current Disciple.Tools version: %1$s, required version: %2$s' ), esc_html( $current_version ), esc_html( $ramadan_2024_required_dt_theme_version ) );
+            $message .= ' ' . sprintf( esc_html( 'Current Disciple.Tools version: %1$s, required version: %2$s' ), esc_html( $current_version ), esc_html( $de_prayer_2024_required_dt_theme_version ) );
         }
         // Check if it's been dismissed...
-        if ( ! get_option( 'dismissed-ramadan-2024', false ) ) { ?>
-            <div class="notice notice-error notice-ramadan-2024 is-dismissible" data-notice="ramadan-2024">
+        if ( ! get_option( 'dismissed-de-prayer-2024', false ) ) { ?>
+            <div class="notice notice-error notice-de-prayer-2024 is-dismissible" data-notice="de-prayer-2024">
                 <p><?php echo esc_html( $message );?></p>
             </div>
             <script>
                 jQuery(function($) {
-                    $( document ).on( 'click', '.notice-ramadan-2024 .notice-dismiss', function () {
+                    $( document ).on( 'click', '.notice-de-prayer-2024 .notice-dismiss', function () {
                         $.ajax( ajaxurl, {
                             type: 'POST',
                             data: {
                                 action: 'dismissed_notice_handler',
-                                type: 'ramadan-2024',
+                                type: 'de-prayer-2024',
                                 security: '<?php echo esc_html( wp_create_nonce( 'wp_rest_dismiss' ) ) ?>'
                             }
                         })
@@ -278,9 +278,9 @@ add_action( 'plugins_loaded', function (){
         }
         if ( class_exists( 'Puc_v4_Factory' ) ){
             Puc_v4_Factory::buildUpdateChecker(
-                'https://raw.githubusercontent.com/Pray4Movement/ramadan-2024/master/version-control.json',
+                'https://raw.githubusercontent.com/micahmills/de-prayer-2024/master/version-control.json',
                 __FILE__,
-                'ramadan-2024'
+                'de-prayer-2024'
             );
 
         }

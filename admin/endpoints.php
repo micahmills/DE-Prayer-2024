@@ -11,7 +11,7 @@ class Ramadan_2024_Endpoints {
     }
 
     public function add_api_routes() {
-        $namespace = 'ramadan-2024';
+        $namespace = 'de-prayer-2024';
         register_rest_route(
             $namespace, '/install', [
                 'methods'  => 'POST',

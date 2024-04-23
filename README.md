@@ -1,9 +1,11 @@
-![Build Status](https://github.com/Pray4Movement/ramadan-2024/actions/workflows/ci.yml/badge.svg?branch=master)
+![Build Status](https://github.com/micahmills/DE-Prayer-2024actions/workflows/ci.yml/badge.svg?branch=master)
+
 ## Dev notes, delete me:
+
 This is a starter plugin to jumpstart your work with Disciple.Tools.
 Click the "Use this template" button above.
-See instructions for refactoring and getting started in the [wiki](https://github.com/Pray4Movement/ramadan-2024/wiki)
-See instructions for creating releases and publishing your plugin: [wiki](https://github.com/Pray4Movement/ramadan-2024/wiki)
+See instructions for refactoring and getting started in the [wiki](https://github.com/micahmills/DE-Prayer-2024wiki)
+See instructions for creating releases and publishing your plugin: [wiki](https://github.com/micahmills/DE-Prayer-2024wiki)
 In order to display the banner correctly on the Disciple.Tools Community Plugins Site, don't change the 'Plugin Banner' text on line 12; only the URL.
 
 ## readme format:
@@ -48,12 +50,11 @@ Purpose purpose purpose purpose purpose purpose purpose purpose purpose purpose 
 ## Contribution
 
 Contributions welcome. You can report issues and bugs in the
-[Issues](https://github.com/Pray4Movement/ramadan-2024/issues) section of the repo. You can present ideas
-in the [Discussions](https://github.com/Pray4Movement/ramadan-2024/discussions) section of the repo. And
-code contributions are welcome using the [Pull Request](https://github.com/Pray4Movement/ramadan-2024/pulls)
+[Issues](https://github.com/micahmills/DE-Prayer-2024issues) section of the repo. You can present ideas
+in the [Discussions](https://github.com/micahmills/DE-Prayer-2024discussions) section of the repo. And
+code contributions are welcome using the [Pull Request](https://github.com/micahmills/DE-Prayer-2024pulls)
 system for git. For a more details on contribution see the
-[contribution guidelines](https://github.com/Pray4Movement/ramadan-2024/blob/master/CONTRIBUTING.md).
-
+[contribution guidelines](https://github.com/micahmills/DE-Prayer-2024blob/master/CONTRIBUTING.md).
 
 ## Screenshots
 

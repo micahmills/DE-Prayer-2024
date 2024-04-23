@@ -6,7 +6,7 @@ if ( ! defined( 'ABSPATH' ) ) { exit; } // Exit if accessed directly
  */
 class Ramadan_2024_Menu {
 
-    public $token = 'ramadan_2024';
+    public $token = 'de_prayer_2024';
     public $page_title = 'Ramadan 2024';
 
     private static $_instance = null;
@@ -35,7 +35,7 @@ class Ramadan_2024_Menu {
      */
     public function __construct() {
 
-        $this->page_title = 'ramadan-2024';
+        $this->page_title = 'de-prayer-2024';
 
         add_action( 'dt_prayer_campaigns_admin_install_fuel', [ 'Ramadan_2024_Tab_General', 'content' ] );
     } // End __construct()
@@ -146,7 +146,7 @@ class Ramadan_2024_Tab_General {
                             <tbody>
 
                             <?php foreach ( $languages as $code => $language ):
-                                $fuel_available = $code === 'en_US' || isset( $translations['ramadan-2024-' . $code] );
+                                $fuel_available = $code === 'en_US' || isset( $translations['de-prayer-2024-' . $code] );
                                 ?>
 
                                 <tr>
@@ -187,7 +187,7 @@ class Ramadan_2024_Tab_General {
                 <h4>1. Replacing: [in location]</h4>
                 <div style="margin-inline-start: 50px">
                     <p>
-                        <strong>Example Sentence:</strong> <span id="ramadan-in-location"><?php esc_html_e( 'Jesus, give the church [in location] grace to cherish your name above all else', 'ramadan-2024' ); ?></span>
+                        <strong>Example Sentence:</strong> <span id="ramadan-in-location"><?php esc_html_e( 'Jesus, give the church [in location] grace to cherish your name above all else', 'de-prayer-2024' ); ?></span>
                     </p>
                     <p>
                         [in location] should be replaced with: <input id="ramadan-in-location-input" type="text" placeholder="in France, en France, etc" required>
@@ -197,7 +197,7 @@ class Ramadan_2024_Tab_General {
                 <h4>2. Replacing: [of location]</h4>
                 <div style="margin-inline-start: 50px">
                     <p>
-                        <strong>Example Sentence:</strong> <span id="ramadan-of-location"><?php esc_html_e( 'let the people [of location] grasp the Good News', 'ramadan-2024' ); ?></span>
+                        <strong>Example Sentence:</strong> <span id="ramadan-of-location"><?php esc_html_e( 'let the people [of location] grasp the Good News', 'de-prayer-2024' ); ?></span>
                     </p>
                     <p>
                         [of location] should be replaced with: <input id="ramadan-of-location-input" type="text" placeholder="of France, de la France, etc" required>
@@ -207,7 +207,7 @@ class Ramadan_2024_Tab_General {
                 <h4>2. Replacing: [location]</h4>
                 <div style="margin-inline-start: 50px">
                     <p>
-                        <strong>Example Sentence:</strong> <span id="ramadan-location"><?php esc_html_e( 'Ask that God’s word would spread rapidly throughout [location].', 'ramadan-2024' ); ?></span>
+                        <strong>Example Sentence:</strong> <span id="ramadan-location"><?php esc_html_e( 'Ask that God’s word would spread rapidly throughout [location].', 'de-prayer-2024' ); ?></span>
                     </p>
                     <p>
                         [location] should be replaced with: <input id="ramadan-location-input" type="text" placeholder="Paris, la France, etc" required>
@@ -253,12 +253,12 @@ class Ramadan_2024_Tab_General {
 
                     $('.ramadan-new-language').html(languages[code]?.label || code)
 
-                    if ( translations[`ramadan-2024-${code}`] && translations[`ramadan-2024-${code}`]['Jesus, give the church [in location] grace to cherish your name above all else']){
-                        $('#ramadan-in-location').html( translations[`ramadan-2024-${code}`]['Jesus, give the church [in location] grace to cherish your name above all else']['translations'][0] )
+                    if ( translations[`de-prayer-2024-${code}`] && translations[`de-prayer-2024-${code}`]['Jesus, give the church [in location] grace to cherish your name above all else']){
+                        $('#ramadan-in-location').html( translations[`de-prayer-2024-${code}`]['Jesus, give the church [in location] grace to cherish your name above all else']['translations'][0] )
                     }
 
-                    if ( translations[`ramadan-2024-${code}`] && translations[`ramadan-2024-${code}`]['let the people [of location] grasp the Good News']){
-                        $('#ramadan-of-location').html( translations[`ramadan-2024-${code}`]['let the people [of location] grasp the Good News']['translations'][0] )
+                    if ( translations[`de-prayer-2024-${code}`] && translations[`de-prayer-2024-${code}`]['let the people [of location] grasp the Good News']){
+                        $('#ramadan-of-location').html( translations[`de-prayer-2024-${code}`]['let the people [of location] grasp the Good News']['translations'][0] )
                     }
                 })
 
@@ -274,7 +274,7 @@ class Ramadan_2024_Tab_General {
                         type: 'POST',
                         contentType: 'application/json; charset=utf-8',
                         dataType: 'json',
-                        url: "<?php echo esc_url( rest_url() ) ?>ramadan-2024/install",
+                        url: "<?php echo esc_url( rest_url() ) ?>de-prayer-2024/install",
                         beforeSend: (xhr) => {
                             xhr.setRequestHeader("X-WP-Nonce",'<?php echo esc_attr( wp_create_nonce( 'wp_rest' ) ) ?>');
                         },
@@ -309,7 +309,7 @@ class Ramadan_2024_Tab_General {
                         type: 'POST',
                         contentType: 'application/json; charset=utf-8',
                         dataType: 'json',
-                        url: "<?php echo esc_url( rest_url() ) ?>ramadan-2024/delete",
+                        url: "<?php echo esc_url( rest_url() ) ?>de-prayer-2024/delete",
                         beforeSend: (xhr) => {
                             xhr.setRequestHeader("X-WP-Nonce",'<?php echo esc_attr( wp_create_nonce( 'wp_rest' ) ) ?>');
                         },
