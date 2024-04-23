@@ -66,8 +66,7 @@ class P4_DE_Prayer_2024_Content {
         }
 
         $data = [
-            $data = [
-                [
+            [
                 __( 'The internet has revolutionized the way we connect with people, share information, and do business. It has brought people from different parts of the world closer together, and it has provided opportunities for evangelism that were once impossible.', 'de-prayer-2023' ),
 
                 __( 'Lord, we praise You for Your sovereignty over all things, including the digital world. You are the one who sustains us and gives us strength to carry out Your work. You are the source of all wisdom, and we thank You for guiding us as we plan and execute this digital evangelism campaign.
@@ -78,20 +77,20 @@ class P4_DE_Prayer_2024_Content {
                 (Psalm 34:1-3)', 'de-prayer-2023' ),
 
                 __( 'Lord, we pray for the people who will come across this digital engagement campaign. We ask that You open hearts to receive the message of salvation. We pray that Your Spirit would draw these people to Yourself and that they would experience Your love and grace in a powerful way.', 'de-prayer-2023' ),
-                ],
-                [
+            ],
+            [
 
                 __( 'Social media platforms like Facebook, Twitter, Instagram, and YouTube have millions of users who spend hours each day scrolling through their feeds. These platforms provide a unique opportunity to reach people with the gospel message. ', 'de-prayer-2023' ),
 
                 __( 'Father, we thank You for the power of Your Word, which is living and active, and able to penetrate even the hardest hearts. We thank You for the opportunity to share it with others through this digital engagement campaign, and we pray that it would transform lives and bring many to faith in Jesus.
-    
+
                 “For the word of God is living and effective and sharper than any double-edged sword, penetrating as far as the separation of soul and spirit, joints and marrow.
                 It is able to judge the thoughts and intentions of the heart.”
                 (Hebrews 4:12)', 'de-prayer-2023' ),
 
                 __( 'Lord, we lift up to You those who are searching for answers and spiritual guidance on social media. We pray that these digital engagement efforts will reach people and provide them with the hope and truth that they are seeking. May they encounter the love of Christ through this campaign and be transformed by His grace.', 'de-prayer-2023' ),
-                ],
-                [
+            ],
+            [
 
                 __( 'The COVID-19 pandemic has caused many people to turn to the internet for connection, entertainment, and information. This has created a huge mission field online, and we have an opportunity to share the hope of Christ with those who are searching for answers.', 'de-prayer-2023' ),
 
@@ -107,18 +106,18 @@ class P4_DE_Prayer_2024_Content {
                 At the same time, pray also for us that God may open a door to us for the word,
                 to speak the mystery of Christ...”
                 (Colossians 4:2-3)', 'de-prayer-2023' ),
-                ],
-                [
+            ],
+            [
 
                 __( 'In many parts of the world, people are turning to the internet for information, entertainment, and social interaction. Digital platforms have become a crucial way for people to connect with each other, and this presents an opportunity for evangelism, discipleship, and leadership development.', 'de-prayer-2023' ),
 
                 __( 'We praise You, Lord, for Your boundless love and mercy. You have called us to disciple people from all nations, and we are grateful for the opportunity to do so. (Ephesians 2:4-5)
-    
+
                 “But God, who is rich in mercy, because of his great love that he had for us,
                 made us alive with Christ even though we were dead in trespasses.
                 You are saved by grace!”
                 (Ephesians 2:4-5)
-    
+
                 “Go, therefore, and make disciples of all nations,
                 baptizing them in the name of the Father and of the Son and of the Holy Spirit,
                 teaching them to observe everything I have commanded you.
@@ -126,8 +125,8 @@ class P4_DE_Prayer_2024_Content {
                 (Matthew 28:19-20)', 'de-prayer-2023' ),
 
                 __( 'We pray for those who are searching for meaning and purpose online. We pray for those who are searching to deepen their relationship with Jesus. We ask that You use this digital engagement campaign to reach those individuals and draw them to Yourself.', 'de-prayer-2023' ),
-                ],
-                [
+            ],
+            [
 
                 __( 'Social media is one of the most popular ways people connect online. With billions of users worldwide, it provides a unique opportunity to engage a vast audience with the truths of Scripture.', 'de-prayer-2023' ),
 
@@ -141,8 +140,8 @@ class P4_DE_Prayer_2024_Content {
                 “Whatever you do, do it from the heart,
                 as something done for the Lord and not for people.”
                 (Colossians 3:23)', 'de-prayer-2023' ),
-                ],
-                [
+            ],
+            [
 
                 __( 'Online streaming services such as YouTube, Twitch, and Facebook Live have revolutionized the way people consume media. They offer a new avenue for sharing the gospel through video content.', 'de-prayer-2023' ),
 
@@ -153,8 +152,8 @@ class P4_DE_Prayer_2024_Content {
                 (Psalm 8:1)', 'de-prayer-2023' ),
 
                 __( 'Lord, we pray that Your message of salvation will reach people through every digital platform available. We ask that You guide us in using these platforms well to share Your truth and engage well with others.', 'de-prayer-2023' ),
-                ],
-                [
+            ],
+            [
 
                 __( "As we embark on this digital engagement campaign, please pray for the Holy Spirit's guidance, wisdom, and power to guide us in effectively engaging people through digital means.", 'de-prayer-2023' ),
 
@@ -171,8 +170,8 @@ class P4_DE_Prayer_2024_Content {
                 (Psalm 52:9)', 'de-prayer-2023' ),
 
                 __( 'As we embark on this digital evangelism campaign, Lord, we pray that Your Spirit would guide us in all our efforts to share the gospel message through social media. May we communicate with clarity, boldness, and grace. May our online presence reflect the love and truth of Jesus.', 'de-prayer-2023' ),
-                ],
-                [
+            ],
+            [
 
                 __( 'In a world that is increasingly digital, let us pray for opportunities to engage with people in deeper and more meaningful ways as we build relationships and share the love and hope found in Christ. ', 'de-prayer-2023' ),
 
@@ -185,8 +184,8 @@ class P4_DE_Prayer_2024_Content {
                 (Colossians 1:16-17)', 'de-prayer-2023' ),
 
                 __( 'Father, we lift to You those who are feeling lonely, isolated, or disconnected in the digital world. We pray that they may find true community and belonging in the body of Christ. Help us to be a source of encouragement, support, and friendship to those who need it most.', 'de-prayer-2023' ),
-                ],
-                [
+            ],
+            [
 
                 __( 'As we use social media platforms to connect with people, let us pray for discernment and sensitivity to people\'s needs, fears, and doubts, and for the right words to speak into their lives.
     
@@ -201,8 +200,8 @@ class P4_DE_Prayer_2024_Content {
                 __( 'Lord, You are the Alpha and the Omega, the beginning and the end, the first and the last. You are the one who is, who was, and who is to come, the Almighty. I praise You for Your sovereignty and Your majesty. (Revelation 1:8)', 'de-prayer-2023' ),
 
                 __( 'Lord, we recognize that there are many barriers that prevent people from hearing the gospel message, whether it be cultural, linguistic, or technological. We ask that You break down these barriers and create opportunities for us to engage people who have never heard the good news of salvation.', 'de-prayer-2023' ),
-                ],
-                [
+            ],
+            [
 
                 __( 'Let us pray for those who will come across our digital content, that their hearts may be open to the gospel message and that they may be drawn to Christ. ', 'de-prayer-2023' ),
 
@@ -215,8 +214,8 @@ class P4_DE_Prayer_2024_Content {
                 (Psalm 147:3)', 'de-prayer-2023' ),
 
                 __( 'Heavenly Father, we pray for those who are struggling with addiction, depression, anxiety, or other mental health issues. May they find hope, healing, and freedom in Jesus Christ, and may we be a source of compassion, empathy, and understanding to those who are hurting.', 'de-prayer-2023' ),
-                ],
-                [
+            ],
+            [
 
                 __( "As we create digital content, let us pray that it would be impactful, compelling, and relevant, and that it would resonate with people's hearts and minds.", 'de-prayer-2023' ),
 
@@ -231,8 +230,8 @@ class P4_DE_Prayer_2024_Content {
                 (Revelation 15:3)', 'de-prayer-2023' ),
 
                 __( 'Lord, we pray for the technology used in this campaign. We ask that it functions properly and that there are no technical glitches that would hinder the message from reaching its intended audience.', 'de-prayer-2023' ),
-                ],
-                [
+            ],
+            [
 
                 __( 'Let us pray for those who will be responding to our digital content, that they may experience the love, grace, and forgiveness of Christ and that they may be saved.
     
@@ -251,8 +250,8 @@ class P4_DE_Prayer_2024_Content {
                 (2 Corinthians 1:3-4)', 'de-prayer-2023' ),
 
                 __( 'Lord, we pray for those who are resistant to the gospel. We ask that You soften their hearts and open their minds to the truth of Your word.', 'de-prayer-2023' ),
-                ],
-                [
+            ],
+            [
 
                 __( 'As we engage with people through digital means, let us pray for protection from any spiritual attacks or opposition that may come our way.', 'de-prayer-2023' ),
 
@@ -272,8 +271,8 @@ class P4_DE_Prayer_2024_Content {
     
                 “The LORD will protect you from all harm; he will protect your life.”
                 (Psalm 121:7)', 'de-prayer-2023' ),
-                ],
-                [
+            ],
+            [
 
                 __( 'Let us pray for those who will be sharing our digital content with others, that they may do so with boldness and conviction, and that the gospel message would spread far and wide. ', 'de-prayer-2023' ),
 
@@ -293,8 +292,8 @@ class P4_DE_Prayer_2024_Content {
                 (Colossians 1:19-20)', 'de-prayer-2023' ),
 
                 __( 'Lord, we pray for the power of Your Holy Spirit to be evident in every aspect of this campaign. We ask that You anoint our words and our efforts with Your power and Your presence.', 'de-prayer-2023' ),
-                ],
-                [
+            ],
+            [
 
                 __( 'As we engage with people from diverse cultures and backgrounds, may we pray for understanding, respect, and empathy. Let us ask for the ability to communicate gospel truths in ways that are relevant and meaningful.', 'de-prayer-2023' ),
 
@@ -311,8 +310,8 @@ class P4_DE_Prayer_2024_Content {
                 (Psalm 23:1-3)', 'de-prayer-2023' ),
 
                 __( 'Lord, as we seek to communicate gospel truth through digital platforms, we ask for Your wisdom and discernment. Help us to be mindful of cultural sensitivities, norms, and taboos of different communities. May we communicate the gospel in a way that is respectful, relevant, and meaningful.', 'de-prayer-2023' ),
-                ],
-                [
+            ],
+            [
 
                 __( 'Let us pray for the digital platforms we use. Please ask that they be safe, secure, and free from any harmful or inappropriate content.', 'de-prayer-2023' ),
 
@@ -324,8 +323,8 @@ class P4_DE_Prayer_2024_Content {
 
                 __( '
                 Lord, we pray that the desires of our hearts will align with Your heart to save humanity. We ask that You guide us as we use various digital platforms to share gospel truths. Help us to remember You are with us always and will direct us if we seek You. May we seek not our own glory or fame, but that the name of Jesus be glorified in all we do.', 'de-prayer-2023' ),
-                ],
-                [
+            ],
+            [
 
                 __( 'As we create digital content, let us pray for creativity, inspiration, and innovation. Pray for the ability to communicate gospel truths in new and engaging ways.', 'de-prayer-2023' ),
 
@@ -341,8 +340,8 @@ class P4_DE_Prayer_2024_Content {
                 (John 16:13)', 'de-prayer-2023' ),
 
                 __( 'Heavenly Father, as we use digital tools to disciple and train believers, we ask that You anoint our efforts with Your Spirit. May we be faithful and effective in making disciples of all nations, may Your kingdom come, and Your will be done in the digital world as it is in heaven.', 'de-prayer-2023' ),
-                ],
-                [
+            ],
+            [
 
                 __( "Let us pray for those who will be supporting this digital engagement campaign. Pray that they will be filled with the Holy Spirit's wisdom and strength, and that they may experience the joy of seeing lives transformed by the gospel.", 'de-prayer-2023' ),
 
@@ -364,8 +363,8 @@ class P4_DE_Prayer_2024_Content {
                 “Let us not get tired of doing good,
                 for we will reap at the proper time if we don\'t give up.”
                 (Galatians 6:9)', 'de-prayer-2023' ),
-                ],
-                [
+            ],
+            [
 
                 __( "As we engage with people through digital means, let us pray for patience, kindness, and gentleness. We are asking for the ability to listen and respond to people's questions and concerns in a compassionate and loving way.", 'de-prayer-2023' ),
 
@@ -382,8 +381,8 @@ class P4_DE_Prayer_2024_Content {
                 (Psalm 150:6)', 'de-prayer-2023' ),
 
                 __( 'Father, we pray for the people who will be sharing gospel truth through this digital engagement campaign. We ask that You give them boldness and wisdom as they communicate Your truth. We pray that their words would be anointed with Your power and that they would be sensitive to the leading of Your Spirit.', 'de-prayer-2023' ),
-                ],
-                [
+            ],
+            [
 
                 __( 'Let us pray for those who will be partnering with us in this digital evangelism campaign, that they may share our vision and passion for seeing people come to Christ, and that they may be encouraged and strengthened in their own faith.', 'de-prayer-2023' ),
 
@@ -404,8 +403,8 @@ class P4_DE_Prayer_2024_Content {
                 And the peace of God, which surpasses all understanding,
                 will guard your hearts and minds in Christ Jesus.”
                  (Philippians 4:6-7)', 'de-prayer-2023' ),
-                ],
-                [
+            ],
+            [
 
                 __( "As we use digital means to share the gospel message, let us pray for the Holy Spirit's power to convict people of their sin and draw them to repentance and faith in Christ.", 'de-prayer-2023' ),
 
@@ -426,8 +425,8 @@ class P4_DE_Prayer_2024_Content {
                 (Psalm 139:1-2, 4, 7-8, 23-24)', 'de-prayer-2023' ),
 
                 __( 'Heavenly Father, we ask that You bless our digital engagement efforts with fruitfulness and impact. May many come to know You as their Lord and Savior through our online ministry, and may Your name be glorified in all that we do.', 'de-prayer-2023' ),
-                ],
-                [
+            ],
+            [
 
                 __( 'Let us pray for those who are skeptical or resistant to the gospel message. We know the Lord can change even the hardest hearts. We ask that those who have hearts of stone will be softened and that they may come to know the truth and love of Christ.', 'de-prayer-2023' ),
 
@@ -440,8 +439,8 @@ class P4_DE_Prayer_2024_Content {
                 (Psalm 96:1-4)', 'de-prayer-2023' ),
 
                 __( 'Lord, we pray for those who are skeptical, hostile, or indifferent to the gospel message. May Your Spirit soften their hearts and open their minds to receive the truth of Your word. Give us boldness, courage, and wisdom as we share the message of salvation with those who need it most.', 'de-prayer-2023' ),
-                ],
-                [
+            ],
+            [
 
                 __( 'As we create digital content, let us pray for the ability to communicate the gospel message in a way that is clear, concise, and easy to understand.', 'de-prayer-2023' ),
 
@@ -469,8 +468,8 @@ class P4_DE_Prayer_2024_Content {
     
                 “Commit your activities to the LORD, and your plans will be established.”
                 (Proverbs 16:3)', 'de-prayer-2023' ),
-                ],
-                [
+            ],
+            [
 
                 __( "Let us pray for those who will be leading and coordinating this digital engagement campaign, that they may be filled with the Holy Spirit's wisdom and discernment, and that they may be effective in their roles. Let us ask that they would rest in God alone rather than their own skills and talents.", 'de-prayer-2023' ),
 
@@ -493,8 +492,8 @@ class P4_DE_Prayer_2024_Content {
                 — who gives to all generously and ungrudgingly — 
                 and it will be given to him.”
                 (James 1:5)', 'de-prayer-2023' ),
-                ],
-                [
+            ],
+            [
 
                 __( 'Social media has become a primary source of news and information for many people. Pray that our online engagement efforts will reach those who are seeking answers and spiritual guidance.', 'de-prayer-2023' ),
 
@@ -507,8 +506,8 @@ class P4_DE_Prayer_2024_Content {
                  (Psalm 9:1-2)', 'de-prayer-2023' ),
 
                 __( 'Lord, we pray that as people browse the internet and social media they would find the good news of the gospel and see that it is the answer to their greatest needs.', 'de-prayer-2023' ),
-                ],
-                [
+            ],
+            [
 
                 __( 'The internet has made it easier than ever for people to access pornography and other harmful content. Pray that individuals who struggle with addiction to these things will find freedom and healing through the power of Christ.', 'de-prayer-2023' ),
 
@@ -527,8 +526,8 @@ class P4_DE_Prayer_2024_Content {
                 (Psalm 101:1-4)', 'de-prayer-2023' ),
 
                 __( 'Father, we pray for those who struggle with addiction to harmful online content. We ask that You break the chains of addiction and bring healing and restoration to their lives. May they find freedom in Christ and be empowered to overcome the temptations that lead them down destructive paths.', 'de-prayer-2023' ),
-                ],
-                [
+            ],
+            [
 
                 __( 'Many people are hesitant to engage with online gospel engagement efforts due to fear of judgment or ridicule. Pray that we would be sensitive to these concerns and that our messages would be received with openness and understanding.', 'de-prayer-2023' ),
 
@@ -551,8 +550,8 @@ class P4_DE_Prayer_2024_Content {
                 (Psalm 86:8-13)', 'de-prayer-2023' ),
 
                 __( 'God, we ask for sensitivity and discernment as we engage with unbelievers online. We pray that gospel truths will be received with openness and understanding. We ask that fear of judgment or ridicule would be overcome by Your love. May those who encounter this content be drawn to You and the hope that You offer.', 'de-prayer-2023' ),
-                ],
-                [
+            ],
+            [
 
                 __( 'The fast pace of the digital age can leave people feeling overwhelmed and burnt out. Pray that our engagement efforts would offer hope and rest to those who are weary.', 'de-prayer-2023' ),
 
@@ -570,8 +569,8 @@ class P4_DE_Prayer_2024_Content {
                 Take my yoke upon you and learn from me, because I am lowly and humble in heart,
                 and you will find rest for your souls. For my yoke is easy and my burden is light.”
                 (Matthew 11:28-30)', 'de-prayer-2023' ),
-                ],
-                [
+            ],
+            [
 
                 __( 'The online world can be a breeding ground for conspiracy theories and misinformation. Pray that those who are searching for truth would find it in the message of the gospel.', 'de-prayer-2023' ),
 
@@ -602,8 +601,8 @@ class P4_DE_Prayer_2024_Content {
                 and yet the darkness did not overcome it.”
                 (John 1:5)
                  ', 'de-prayer-2023' ),
-                ],
-                [
+            ],
+            [
 
                 __( 'The anonymity of the internet can lead to a lack of accountability and moral responsibility. Pray that those who engage with our online efforts would be inspired to live lives that reflect the character of Christ, even when no one is watching.', 'de-prayer-2023' ),
 
@@ -624,7 +623,6 @@ class P4_DE_Prayer_2024_Content {
                 __( 'God, we recognize the temptation to hide behind anonymity and avoid accountability in the online world. We pray that those who engage with our online evangelism efforts would be inspired to live lives that reflect Your character and love, even when no one is watching. May they be transformed by Your grace and empowered to make a positive impact in the world around them.', 'de-prayer-2023' ),
                 ]
             ];
-        ]
 
 
         function bullet_list_to_html( $message ){
