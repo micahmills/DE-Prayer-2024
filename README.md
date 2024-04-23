@@ -12,7 +12,7 @@ In order to display the banner correctly on the Disciple.Tools Community Plugins
 
 ![Plugin Banner](https://raw.githubusercontent.com/Pray4Movement/ramadan-2024/b30402d97895e3f911efcb47fb8f29ccd1eb92e5/documentation/banner.png)
 
-# Disciple.Tools - Ramadan 2024
+# DE Prayer Campaign 2024
 
 Description Description Description Description Description Description Description
 Description Description Description Description Description Description Description

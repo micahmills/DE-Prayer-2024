@@ -1,7 +1,7 @@
 <?php
 if ( ! defined( 'ABSPATH' ) ) { exit; } // Exit if accessed directly
 
-class Ramadan_2024_Endpoints {
+class de_prayer_2024_Endpoints {
     public function __construct() {
         add_action( 'rest_api_init', [ $this, 'add_api_routes' ] );
     }
@@ -15,7 +15,7 @@ class Ramadan_2024_Endpoints {
         register_rest_route(
             $namespace, '/install', [
                 'methods'  => 'POST',
-                'callback' => [ $this, 'dt_ramadan_install_content' ],
+                'callback' => [ $this, 'de_prayer_install_content' ],
                 'permission_callback' => function(){
                     return $this->can_publish();
                 },
@@ -24,7 +24,7 @@ class Ramadan_2024_Endpoints {
         register_rest_route(
             $namespace, '/delete', [
                 'methods'  => 'POST',
-                'callback' => [ $this, 'dt_ramadan_delete_content' ],
+                'callback' => [ $this, 'de_prayer_delete_content' ],
                 'permission_callback' => function(){
                     return $this->can_publish();
                 },
@@ -32,7 +32,7 @@ class Ramadan_2024_Endpoints {
         );
     }
 
-    public function dt_ramadan_install_content( WP_REST_Request $request ){
+    public function de_prayer_install_content( WP_REST_Request $request ){
         $params = $request->get_params();
 
         $default_content = $params['default_content'] ? 'en_US' : null;
@@ -41,7 +41,7 @@ class Ramadan_2024_Endpoints {
             return new WP_Error( __METHOD__, 'Missing campaign ID', [ 'status' => 400 ] );
         }
 
-        P4_Ramadan_2024_Content::install_content(
+        P4_de_prayer_2024_Content::install_content(
             $params['lang'] ?? 'en_US',
             [
                 'in_location' => $params['in_location'] ?? '[in location]',
@@ -56,7 +56,7 @@ class Ramadan_2024_Endpoints {
         return true;
     }
 
-    public function dt_ramadan_delete_content( WP_REST_Request $request ){
+    public function de_prayer_delete_content( WP_REST_Request $request ){
         $params = $request->get_params();
         $campaign_id = $params['campaign_id'] ?? null;
         if ( empty( $campaign_id ) ){
@@ -94,6 +94,6 @@ class Ramadan_2024_Endpoints {
         return true;
     }
 };
-new Ramadan_2024_Endpoints();
+new de_prayer_2024_Endpoints();
 
 

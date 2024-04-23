@@ -3,7 +3,7 @@ if ( ! defined( 'ABSPATH' ) ) { exit; } // Exit if accessed directly
 
 //wp i18n make-pot . languages/default.pot --skip-audit --subtract="languages/terms-to-exclude.pot"
 
-class P4_Ramadan_2024_Content {
+class P4_de_prayer_2024_Content {
 
     public static function install_content( $language = 'en_US', $names = [], $from_translation = null, $campaign_id = null ) {
         $campaign = DT_Campaign_Landing_Settings::get_campaign( $campaign_id );
@@ -577,7 +577,7 @@ Amen. Amen.', 'de-prayer-2024' ),
             }
 
 //            $image = '';
-//            if ( file_exists( Ramadan_2024::$plugin_dir . 'images/' . $number . '.jpg' ) ) {
+//            if ( file_exists( de_prayer_2024::$plugin_dir . 'images/' . $number . '.jpg' ) ) {
 //                $image = '<figure class="wp-block-image p4m_prayer_image"><img src="' . plugins_url( 'images/' . $number . '.jpg', __DIR__ ) . '" alt="' . $number . '"  /></figure >';
 //            }
 

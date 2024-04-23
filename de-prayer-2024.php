@@ -24,7 +24,7 @@ if ( ! defined( 'ABSPATH' ) ) {
 }
 
 /**
- * Gets the instance of the `Ramadan_2024` class.
+ * Gets the instance of the `de_prayer_2024` class.
  *
  * @since  0.1
  * @access public
@@ -54,7 +54,7 @@ function de_prayer_2024() {
         require_once get_template_directory() . '/dt-core/global-functions.php';
     }
 
-    return Ramadan_2024::instance();
+    return de_prayer_2024::instance();
 
 }
 add_action( 'after_setup_theme', 'de_prayer_2024', 20 );
@@ -76,7 +76,7 @@ add_filter( 'dt_plugins', function ( $plugins ){
  * @since  0.1
  * @access public
  */
-class Ramadan_2024 {
+class de_prayer_2024 {
 
     public static $plugin_dir = null;
 
@@ -209,8 +209,8 @@ class Ramadan_2024 {
 
 
 // Register activation hook.
-register_activation_hook( __FILE__, [ 'Ramadan_2024', 'activation' ] );
-register_deactivation_hook( __FILE__, [ 'Ramadan_2024', 'deactivation' ] );
+register_activation_hook( __FILE__, [ 'de_prayer_2024', 'activation' ] );
+register_deactivation_hook( __FILE__, [ 'de_prayer_2024', 'deactivation' ] );
 
 
 if ( ! function_exists( 'de_prayer_2024_hook_admin_notice' ) ) {
@@ -218,7 +218,7 @@ if ( ! function_exists( 'de_prayer_2024_hook_admin_notice' ) ) {
         global $de_prayer_2024_required_dt_theme_version;
         $wp_theme = wp_get_theme();
         $current_version = $wp_theme->version;
-        $message = "'Disciple.Tools - Ramadan 2024' plugin requires 'Disciple.Tools' theme to work. Please activate 'Disciple.Tools' theme or make sure it is latest version.";
+        $message = "'DE Prayer Campaign 2024' plugin requires 'Disciple.Tools' theme to work. Please activate 'Disciple.Tools' theme or make sure it is latest version.";
         if ( $wp_theme->get_template() === 'disciple-tools-theme' ){
             $message .= ' ' . sprintf( esc_html( 'Current Disciple.Tools version: %1$s, required version: %2$s' ), esc_html( $current_version ), esc_html( $de_prayer_2024_required_dt_theme_version ) );
         }

@@ -2,23 +2,23 @@
 if ( ! defined( 'ABSPATH' ) ) { exit; } // Exit if accessed directly
 
 /**
- * Class Ramadan_2024_Menu
+ * Class de_prayer_2024_Menu
  */
-class Ramadan_2024_Menu {
+class de_prayer_2024_Menu {
 
     public $token = 'de_prayer_2024';
-    public $page_title = 'Ramadan 2024';
+    public $page_title = 'DE Prayer Campaign 2024';
 
     private static $_instance = null;
 
     /**
-     * Ramadan_2024_Menu Instance
+     * de_prayer_2024_Menu Instance
      *
-     * Ensures only one instance of Ramadan_2024_Menu is loaded or can be loaded.
+     * Ensures only one instance of de_prayer_2024_Menu is loaded or can be loaded.
      *
      * @since 0.1.0
      * @static
-     * @return Ramadan_2024_Menu instance
+     * @return de_prayer_2024_Menu instance
      */
     public static function instance() {
         if ( is_null( self::$_instance ) ) {
@@ -37,15 +37,15 @@ class Ramadan_2024_Menu {
 
         $this->page_title = 'de-prayer-2024';
 
-        add_action( 'dt_prayer_campaigns_admin_install_fuel', [ 'Ramadan_2024_Tab_General', 'content' ] );
+        add_action( 'dt_prayer_campaigns_admin_install_fuel', [ 'de_prayer_2024_Tab_General', 'content' ] );
     } // End __construct()
 }
-Ramadan_2024_Menu::instance();
+de_prayer_2024_Menu::instance();
 
 /**
- * Class Ramadan_2024_Tab_General
+ * Class de_prayer_2024_Tab_General
  */
-class Ramadan_2024_Tab_General {
+class de_prayer_2024_Tab_General {
     public static function content() {
 
 
@@ -81,10 +81,10 @@ class Ramadan_2024_Tab_General {
         $languages = $languages_manager->get_enabled_languages( $campaign['ID'] );
 
         $translations = [];
-        $installed_languages = get_available_languages( Ramadan_2024::$plugin_dir .'languages/' );
+        $installed_languages = get_available_languages( de_prayer_2024::$plugin_dir .'languages/' );
         foreach ( $installed_languages as $language ) {
             $mo = new MO();
-            if ( $mo->import_from_file( Ramadan_2024::$plugin_dir . 'languages/' . $language . '.mo' ) ){
+            if ( $mo->import_from_file( de_prayer_2024::$plugin_dir . 'languages/' . $language . '.mo' ) ){
                 $translations[$language] = $mo->entries;
             }
         }
@@ -116,22 +116,18 @@ class Ramadan_2024_Tab_General {
         <table class="widefat striped">
             <thead>
                 <tr>
-                    <th>Ramadan 2024 Prayer Fuel</th>
+                    <th>DE Prayer Campaign 2024 Prayer Request</th>
                 </tr>
             </thead>
             <tbody>
                 <tr>
                     <td>
                         <p>
-                            This is the prayer fuel created for the Ramadan 2024 campaign.
+                            This is the prayer request created for the DE Prayer Campaign 2024 campaign.
                         </p>
                         <p>
-                            Installing prayer fuel will create a post for each day. They will be visible here:
+                            Installing prayer request will create a post for each day. They will be visible here:
                             <a href="<?php echo esc_html( home_url( 'prayer/list' ) ); ?>" target="_blank">Prayer Fuel List</a>
-                        </p>
-                        <p>
-                            Ramadan prayer fuel is available in multiple languages.
-                            <a href="https://pray4movement.org/docs/translation/#2-toc-title" target="_blank">Help us translate it into your language here.</a>
                         </p>
                         <table class="">
                             <thead>
@@ -153,18 +149,18 @@ class Ramadan_2024_Tab_General {
                                     <td><?php echo esc_html( $language['flag'] ) ?> <?php echo esc_html( $language['english_name'] ) ?></td>
                                     <td>
                                         <button class="button install-ramadan-content" value="<?php echo esc_html( $code ) ?>" <?php disabled( !$fuel_available || !in_array( $code, $prayer_fuel_ready ) ) ?>>
-                                            Install prayer fuel in <?php echo esc_html( $language['flag'] ) ?>
+                                            Install prayer request in <?php echo esc_html( $language['flag'] ) ?>
                                         </button>
                                     </td>
                                     <td>
                                         <button class="button install-ramadan-content" value="<?php echo esc_html( $code ) ?>" data-default="true" >
-                                            Install prayer fuel in English
+                                            Install prayer request in English
                                         </button>
                                     </td>
                                     <td><?php echo esc_html( $installed_langs[$code] ?? 0 ); ?></td>
                                     <td>
                                         <button class="button delete-ramadan-content" value="<?php echo esc_html( $code ) ?>" <?php disabled( ( $installed_langs[$code] ?? 0 ) === 0 ) ?>>
-                                            Delete all prayer fuel in <?php echo esc_html( $language['flag'] ) ?>
+                                            Delete all prayer request in <?php echo esc_html( $language['flag'] ) ?>
                                         </button>
                                     </td>
 
@@ -180,9 +176,9 @@ class Ramadan_2024_Tab_General {
         </table>
         <div id="ramadan-dialog" title="Install Prayer Fuel">
             <form id="ramadan-install-form">
-                <h3>Install Ramadan Prayer Fuel in <span class="ramadan-new-language">French</span></h3>
+                <h3>Install DE Prayer Requests in <span class="ramadan-new-language">French</span></h3>
 
-                <p>The Ramadan has some placeholder text that needs to be replaced.</p>
+                <p>The DE Prayer Campaign 2024 has some placeholder text that needs to be replaced.</p>
 
                 <h4>1. Replacing: [in location]</h4>
                 <div style="margin-inline-start: 50px">
@@ -216,7 +212,7 @@ class Ramadan_2024_Tab_General {
 
                 <br>
                 <p>
-                    This will create a post for each of the 30 days of Ramadan.
+                    This will create a post for 30 days of prayer for a Digital Engagement campaign.
                 </p>
                 <button class="button" type="submit" id="ramadan-install-language">
                     Install Prayer Fuel in <span class="ramadan-new-language">French</span> <img id="ramadan-install-spinner" style="height:15px; vertical-align: middle; display: none" src="<?php echo esc_html( get_template_directory_uri() . '/spinner.svg' ) ?>"/>
