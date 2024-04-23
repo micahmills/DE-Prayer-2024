@@ -5,7 +5,7 @@
  * Description: DE Prayer Campaign 2023 prayer request content starter.
  * Text Domain: de-prayer-2024
  * Domain Path: /languages
- * Version:  1.5.0
+ * Version:  1.5.2
  * Author URI: https://github.com/Pray4Movement
  * GitHub Plugin URI: https://github.com/micahmills/DE-Prayer-2024
  * Requires at least: 4.7.0
@@ -54,7 +54,7 @@ function de_prayer_2024() {
         require_once get_template_directory() . '/dt-core/global-functions.php';
     }
 
-    return de_prayer_2024::instance();
+    return DE_Prayer_2024::instance();
 
 }
 add_action( 'after_setup_theme', 'de_prayer_2024', 20 );
@@ -76,7 +76,7 @@ add_filter( 'dt_plugins', function ( $plugins ){
  * @since  0.1
  * @access public
  */
-class de_prayer_2024 {
+class DE_Prayer_2024 {
 
     public static $plugin_dir = null;
 
@@ -201,7 +201,7 @@ class de_prayer_2024 {
      * @access public
      */
     public function __call( $method = '', $args = array() ) {
-        _doing_it_wrong( 'de_prayer_2024::' . esc_html( $method ), 'Method does not exist.', '0.1' );
+        _doing_it_wrong( 'DE_Prayer_2024::' . esc_html( $method ), 'Method does not exist.', '0.1' );
         unset( $method, $args );
         return null;
     }

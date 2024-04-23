@@ -1,7 +1,7 @@
 <?php
 if ( ! defined( 'ABSPATH' ) ) { exit; } // Exit if accessed directly
 
-class de_prayer_2024_Endpoints {
+class DE_Prayer_2024_Endpoints {
     public function __construct() {
         add_action( 'rest_api_init', [ $this, 'add_api_routes' ] );
     }
@@ -41,7 +41,7 @@ class de_prayer_2024_Endpoints {
             return new WP_Error( __METHOD__, 'Missing campaign ID', [ 'status' => 400 ] );
         }
 
-        P4_de_prayer_2024_Content::install_content(
+        P4_DE_Prayer_2024_Content::install_content(
             $params['lang'] ?? 'en_US',
             [
                 'in_location' => $params['in_location'] ?? '[in location]',
@@ -94,6 +94,6 @@ class de_prayer_2024_Endpoints {
         return true;
     }
 };
-new de_prayer_2024_Endpoints();
+new DE_Prayer_2024_Endpoints();
 
 

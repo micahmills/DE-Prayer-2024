@@ -2,9 +2,9 @@
 if ( ! defined( 'ABSPATH' ) ) { exit; } // Exit if accessed directly
 
 /**
- * Class de_prayer_2024_Menu
+ * DE_Prayer_2024_Menu
  */
-class de_prayer_2024_Menu {
+class DE_Prayer_2024_Menu {
 
     public $token = 'de_prayer_2024';
     public $page_title = 'DE Prayer Campaign 2024';
@@ -12,13 +12,13 @@ class de_prayer_2024_Menu {
     private static $_instance = null;
 
     /**
-     * de_prayer_2024_Menu Instance
+     * DE_Prayer_2024_Menu Instance
      *
-     * Ensures only one instance of de_prayer_2024_Menu is loaded or can be loaded.
+     * Ensures only one instance of DE_Prayer_2024_Menu is loaded or can be loaded.
      *
      * @since 0.1.0
      * @static
-     * @return de_prayer_2024_Menu instance
+     * @return DE_Prayer_2024_Menu instance
      */
     public static function instance() {
         if ( is_null( self::$_instance ) ) {
@@ -37,15 +37,15 @@ class de_prayer_2024_Menu {
 
         $this->page_title = 'de-prayer-2024';
 
-        add_action( 'dt_prayer_campaigns_admin_install_fuel', [ 'de_prayer_2024_Tab_General', 'content' ] );
+        add_action( 'dt_prayer_campaigns_admin_install_fuel', [ 'DE_Prayer_2024_Tab_General', 'content' ] );
     } // End __construct()
 }
-de_prayer_2024_Menu::instance();
+DE_Prayer_2024_Menu::instance();
 
 /**
- * Class de_prayer_2024_Tab_General
+ * DE_Prayer_2024_Tab_General
  */
-class de_prayer_2024_Tab_General {
+class DE_Prayer_2024_Tab_General {
     public static function content() {
 
 
@@ -81,10 +81,10 @@ class de_prayer_2024_Tab_General {
         $languages = $languages_manager->get_enabled_languages( $campaign['ID'] );
 
         $translations = [];
-        $installed_languages = get_available_languages( de_prayer_2024::$plugin_dir .'languages/' );
+        $installed_languages = get_available_languages( DE_Prayer_2024::$plugin_dir .'languages/' );
         foreach ( $installed_languages as $language ) {
             $mo = new MO();
-            if ( $mo->import_from_file( de_prayer_2024::$plugin_dir . 'languages/' . $language . '.mo' ) ){
+            if ( $mo->import_from_file( DE_Prayer_2024::$plugin_dir . 'languages/' . $language . '.mo' ) ){
                 $translations[$language] = $mo->entries;
             }
         }
