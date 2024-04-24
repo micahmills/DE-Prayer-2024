@@ -2,7 +2,7 @@
 /**
  * Plugin Name: DE Prayer Campaign 2024
  * Plugin URI: https://github.com/micahmills/DE-Prayer-2024
- * Description: DE Prayer Campaign 2023 prayer request content starter.
+ * Description: DE Prayer Campaign 2024 prayer request content starter.
  * Text Domain: de-prayer-2024
  * Domain Path: /languages
  * Version:  1.5.2
@@ -54,9 +54,14 @@ function de_prayer_2024() {
         require_once get_template_directory() . '/dt-core/global-functions.php';
     }
 
-    return DE_Prayer_2024::instance();
+    require_once 'porch/de-porch-settings.php';
+    require_once 'porch/de-porch-loader.php';
+    // require_once 'porch/ongoing/de-ongoing-porch-settings.php';
+    // require_once 'porch/ongoing/de-porch-ongoing-loader.php';
 
+    return DE_Prayer_2024::instance();
 }
+
 add_action( 'after_setup_theme', 'de_prayer_2024', 20 );
 
 //register the D.T Plugin
@@ -94,13 +99,28 @@ class DE_Prayer_2024 {
         self::$plugin_dir = trailingslashit( plugin_dir_path( __FILE__ ) );
 
         if ( is_admin() ) {
-            require_once( 'admin/admin-menu-and-tabs.php' ); // adds starter admin page and section for plugin
+            require_once 'admin/admin-menu-and-tabs.php'; // adds starter admin page and section for plugin
         }
 
-        require_once( 'admin/endpoints.php' );
+        require_once 'admin/endpoints.php';
 
-        require_once( 'admin/prayer-field-content.php' );
+        require_once 'admin/prayer-field-content.php';
         $this->i18n();
+
+        function add_de_campaign_type( $wizard_types ){
+            // $wizard_types['de-porch'] = [
+            //     'campaign_type' => '24hour',
+            //     'porch' => 'de-porch',
+            //     'label' => '24/7 Digital Engagement Template',
+            // ];
+            // $wizard_types['de-porch-ongoing'] = [
+            //     'campaign_type' => 'ongoing',
+            //     'porch' => 'ongoing-porch',
+            //     'label' => 'Ongoing Digital Engagement Template',
+            // ];
+            return $wizard_types;
+        }
+        add_filter( 'dt_campaigns_wizard_types', 'add_de_campaign_type' );
 
         if ( is_admin() ) { // adds links to the plugin description area in the plugin admin list.
             add_filter( 'plugin_row_meta', [ $this, 'plugin_description_links' ], 10, 4 );
@@ -278,7 +298,7 @@ add_action( 'plugins_loaded', function (){
         }
         if ( class_exists( 'Puc_v4_Factory' ) ){
             Puc_v4_Factory::buildUpdateChecker(
-                'https://raw.githubusercontent.com/micahmills/de-prayer-2024/master/version-control.json',
+                'https://raw.githubusercontent.com/micahmills/DE-Prayer-2024/master/version-control.json',
                 __FILE__,
                 'de-prayer-2024'
             );
