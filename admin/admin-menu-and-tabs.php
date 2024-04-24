@@ -148,18 +148,18 @@ class DE_Prayer_2024_Tab_General {
                                 <tr>
                                     <td><?php echo esc_html( $language['flag'] ) ?> <?php echo esc_html( $language['english_name'] ) ?></td>
                                     <td>
-                                        <button class="button install-ramadan-content" value="<?php echo esc_html( $code ) ?>" <?php disabled( !$fuel_available || !in_array( $code, $prayer_fuel_ready ) ) ?>>
+                                        <button class="button install-de-content" value="<?php echo esc_html( $code ) ?>" <?php disabled( !$fuel_available || !in_array( $code, $prayer_fuel_ready ) ) ?>>
                                             Install prayer request in <?php echo esc_html( $language['flag'] ) ?>
                                         </button>
                                     </td>
                                     <td>
-                                        <button class="button install-ramadan-content" value="<?php echo esc_html( $code ) ?>" data-default="true" >
+                                        <button class="button install-de-content" value="<?php echo esc_html( $code ) ?>" data-default="true" >
                                             Install prayer request in English
                                         </button>
                                     </td>
                                     <td><?php echo esc_html( $installed_langs[$code] ?? 0 ); ?></td>
                                     <td>
-                                        <button class="button delete-ramadan-content" value="<?php echo esc_html( $code ) ?>" <?php disabled( ( $installed_langs[$code] ?? 0 ) === 0 ) ?>>
+                                        <button class="button delete-de-content" value="<?php echo esc_html( $code ) ?>" <?php disabled( ( $installed_langs[$code] ?? 0 ) === 0 ) ?>>
                                             Delete all prayer request in <?php echo esc_html( $language['flag'] ) ?>
                                         </button>
                                     </td>
@@ -174,39 +174,39 @@ class DE_Prayer_2024_Tab_General {
                 </tr>
             </tbody>
         </table>
-        <div id="ramadan-dialog" title="Install Prayer Fuel">
-            <form id="ramadan-install-form">
-                <h3>Install DE Prayer Requests in <span class="ramadan-new-language">French</span></h3>
+        <div id="de-dialog" title="Install Prayer Fuel">
+            <form id="de-install-form">
+                <h3>Install DE Prayer Requests in <span class="de-new-language">French</span></h3>
 
                 <p>The DE Prayer Campaign 2024 has some placeholder text that needs to be replaced.</p>
 
                 <h4>1. Replacing: [in location]</h4>
                 <div style="margin-inline-start: 50px">
                     <p>
-                        <strong>Example Sentence:</strong> <span id="ramadan-in-location"><?php esc_html_e( 'Jesus, give the church [in location] grace to cherish your name above all else', 'de-prayer-2024' ); ?></span>
+                        <strong>Example Sentence:</strong> <span id="de-in-location"><?php esc_html_e( 'Jesus, give the church [in location] grace to cherish your name above all else', 'de-prayer-2024' ); ?></span>
                     </p>
                     <p>
-                        [in location] should be replaced with: <input id="ramadan-in-location-input" type="text" placeholder="in France, en France, etc" required>
+                        [in location] should be replaced with: <input id="de-in-location-input" type="text" placeholder="in France, en France, etc" required>
                     </p>
                 </div>
 
                 <h4>2. Replacing: [of location]</h4>
                 <div style="margin-inline-start: 50px">
                     <p>
-                        <strong>Example Sentence:</strong> <span id="ramadan-of-location"><?php esc_html_e( 'let the people [of location] grasp the Good News', 'de-prayer-2024' ); ?></span>
+                        <strong>Example Sentence:</strong> <span id="de-of-location"><?php esc_html_e( 'let the people [of location] grasp the Good News', 'de-prayer-2024' ); ?></span>
                     </p>
                     <p>
-                        [of location] should be replaced with: <input id="ramadan-of-location-input" type="text" placeholder="of France, de la France, etc" required>
+                        [of location] should be replaced with: <input id="de-of-location-input" type="text" placeholder="of France, de la France, etc" required>
                     </p>
                 </div>
 
                 <h4>2. Replacing: [location]</h4>
                 <div style="margin-inline-start: 50px">
                     <p>
-                        <strong>Example Sentence:</strong> <span id="ramadan-location"><?php esc_html_e( 'Ask that God’s word would spread rapidly throughout [location].', 'de-prayer-2024' ); ?></span>
+                        <strong>Example Sentence:</strong> <span id="de-location"><?php esc_html_e( 'Ask that God’s word would spread rapidly throughout [location].', 'de-prayer-2024' ); ?></span>
                     </p>
                     <p>
-                        [location] should be replaced with: <input id="ramadan-location-input" type="text" placeholder="Paris, la France, etc" required>
+                        [location] should be replaced with: <input id="de-location-input" type="text" placeholder="Paris, la France, etc" required>
                     </p>
                 </div>
 
@@ -214,8 +214,8 @@ class DE_Prayer_2024_Tab_General {
                 <p>
                     This will create a post for 30 days of prayer for a Digital Engagement campaign.
                 </p>
-                <button class="button" type="submit" id="ramadan-install-language">
-                    Install Prayer Fuel in <span class="ramadan-new-language">French</span> <img id="ramadan-install-spinner" style="height:15px; vertical-align: middle; display: none" src="<?php echo esc_html( get_template_directory_uri() . '/spinner.svg' ) ?>"/>
+                <button class="button" type="submit" id="de-install-language">
+                    Install Prayer Fuel in <span class="de-new-language">French</span> <img id="de-install-spinner" style="height:15px; vertical-align: middle; display: none" src="<?php echo esc_html( get_template_directory_uri() . '/spinner.svg' ) ?>"/>
                 </button>
                 <p>
     <!--                Please review the posts here: link @todo-->
@@ -223,12 +223,12 @@ class DE_Prayer_2024_Tab_General {
             </form>
         </div>
 
-        <div id="ramadan-delete-fuel" title="Delete Fuel">
-            <p>Are you sure you want to delete Prayer Fuel in <span class="ramadan-new-language">French</span></p>
-            <button class="button button-primary" id="confirm-ramadan-delete">Delete
-                <img id="ramadan-delete-spinner" style="height:15px; vertical-align: middle; display: none" src="<?php echo esc_html( get_template_directory_uri() . '/spinner.svg' ) ?>"/>
+        <div id="de-delete-fuel" title="Delete Fuel">
+            <p>Are you sure you want to delete Prayer Fuel in <span class="de-new-language">French</span></p>
+            <button class="button button-primary" id="confirm-de-delete">Delete
+                <img id="de-delete-spinner" style="height:15px; vertical-align: middle; display: none" src="<?php echo esc_html( get_template_directory_uri() . '/spinner.svg' ) ?>"/>
             </button>
-            <button class="button" id="ramadan-close-delete">Cancel</button>
+            <button class="button" id="de-close-delete">Cancel</button>
         </div>
 
         <script type="application/javascript">
@@ -238,34 +238,34 @@ class DE_Prayer_2024_Tab_General {
             jQuery(document).ready(function ($){
                 let code = null;
                 let default_content = false
-                $( "#ramadan-dialog" ).dialog({ autoOpen: false, minWidth: 600 });
-                $( "#ramadan-delete-fuel" ).dialog({ autoOpen: false });
+                $( "#de-dialog" ).dialog({ autoOpen: false, minWidth: 600 });
+                $( "#de-delete-fuel" ).dialog({ autoOpen: false });
 
-                $('.install-ramadan-content').on('click', function (){
-                    $( "#ramadan-dialog" ).dialog( "open" );
-                    code = $(this).val();
+                $('.install-de-content').on('click', function (){
+                    // $( "#de-dialog" ).dialog( "open" );
+                //     code = $(this).val();
                     default_content = $(this).data('default');
 
 
-                    $('.ramadan-new-language').html(languages[code]?.label || code)
+                //     $('.de-new-language').html(languages[code]?.label || code)
 
-                    if ( translations[`de-prayer-2024-${code}`] && translations[`de-prayer-2024-${code}`]['Jesus, give the church [in location] grace to cherish your name above all else']){
-                        $('#ramadan-in-location').html( translations[`de-prayer-2024-${code}`]['Jesus, give the church [in location] grace to cherish your name above all else']['translations'][0] )
-                    }
+                //     if ( translations[`de-prayer-2024-${code}`] && translations[`de-prayer-2024-${code}`]['Jesus, give the church [in location] grace to cherish your name above all else']){
+                //         $('#de-in-location').html( translations[`de-prayer-2024-${code}`]['Jesus, give the church [in location] grace to cherish your name above all else']['translations'][0] )
+                //     }
 
-                    if ( translations[`de-prayer-2024-${code}`] && translations[`de-prayer-2024-${code}`]['let the people [of location] grasp the Good News']){
-                        $('#ramadan-of-location').html( translations[`de-prayer-2024-${code}`]['let the people [of location] grasp the Good News']['translations'][0] )
-                    }
-                })
+                //     if ( translations[`de-prayer-2024-${code}`] && translations[`de-prayer-2024-${code}`]['let the people [of location] grasp the Good News']){
+                //         $('#de-of-location').html( translations[`de-prayer-2024-${code}`]['let the people [of location] grasp the Good News']['translations'][0] )
+                //     }
+                // })
 
-                $('#ramadan-install-form').on('submit', function (e){
-                    e.preventDefault()
-                    let in_location = $('#ramadan-in-location-input').val();
-                    let of_location = $('#ramadan-of-location-input').val();
-                    let location = $('#ramadan-location-input').val();
-                    let ppl_group = $('#ramadan-people-group-input').val();
+                // $('#de-install-form').on('submit', function (e){
+                //     e.preventDefault()
+                //     let in_location = $('#de-in-location-input').val();
+                //     let of_location = $('#de-of-location-input').val();
+                //     let location = $('#de-location-input').val();
+                //     let ppl_group = $('#de-people-group-input').val();
 
-                    $('#ramadan-install-spinner').show()
+                //     $('#de-install-spinner').show()
                     $.ajax({
                         type: 'POST',
                         contentType: 'application/json; charset=utf-8',
@@ -276,31 +276,26 @@ class DE_Prayer_2024_Tab_General {
                         },
                         data: JSON.stringify({
                             campaign_id: <?php echo esc_html( $campaign['ID'] ) ?>,
-                            in_location,
-                            of_location,
-                            location,
-                            ppl_group,
-                            lang: code,
                             default_content: !!default_content
                         })
                     }).then(()=>{
-                        // $('#ramadan-install-spinner').hide()
+                        // $('#de-install-spinner').hide()
                         window.location.reload()
                     })
                 })
 
                 let delete_code = null
-                $('.delete-ramadan-content').on('click', function (){
+                $('.delete-de-content').on('click', function (){
                     delete_code = $(this).val();
 
-                    $('.ramadan-new-language').html(languages[delete_code]?.label || delete_code)
-                    $( "#ramadan-delete-fuel" ).dialog( "open" );
+                    $('.de-new-language').html(languages[delete_code]?.label || delete_code)
+                    $( "#de-delete-fuel" ).dialog( "open" );
                 })
-                $('#ramadan-close-delete').on('click', function (){
-                    $( "#ramadan-delete-fuel" ).dialog( "close" );
+                $('#de-close-delete').on('click', function (){
+                    $( "#de-delete-fuel" ).dialog( "close" );
                 })
-                $('#confirm-ramadan-delete').on('click', function (){
-                    $('#ramadan-delete-spinner').show()
+                $('#confirm-de-delete').on('click', function (){
+                    $('#de-delete-spinner').show()
                     $.ajax({
                         type: 'POST',
                         contentType: 'application/json; charset=utf-8',
@@ -314,7 +309,7 @@ class DE_Prayer_2024_Tab_General {
                             lang: delete_code,
                         })
                     }).then(()=>{
-                        // $('#ramadan-delete-spinner').hide()
+                        $('#de-delete-spinner').hide()
                         window.location.reload()
                     })
                 })
