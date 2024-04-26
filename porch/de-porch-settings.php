@@ -26,6 +26,8 @@ class DE_Porch_Settings {
                 $settings['prayer_fuel_description']['default'] = __( 'Use these resources to help pray specifically each day.', 'de-prayer-2024' );
                 $settings['todays_fuel_title']['default'] = __( "Today's Prayer Prompt", 'de-prayer-2024' );
                 $settings['all_fuel_title']['default'] = __( 'All Prayer Prompts', 'de-prayer-2024' );
+                $settings['see_fuel_button']['default'] = __( 'See Prayer Prompts', 'de-prayer-2024' );
+                $settings['edit_fuel_title']['default'] = __( 'Edit Prayer Prompts', 'de-prayer-2024' );
                 $settings['header_background_url']['value'] = plugin_dir_url( __FILE__ )  . 'images/priscilla-du-preez-BjhUu6BpUZA-unsplash.jpg';
                     return $settings;
         }, 10, 1 );
