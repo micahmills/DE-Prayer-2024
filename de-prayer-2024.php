@@ -5,7 +5,7 @@
  * Description: DE Prayer Campaign 2024 prayer request content starter.
  * Text Domain: de-prayer-2024
  * Domain Path: /languages
- * Version:  1.5.3
+ * Version:  1.5.4
  * Author URI: https://github.com/Pray4Movement
  * GitHub Plugin URI: https://github.com/micahmills/DE-Prayer-2024
  * Requires at least: 4.7.0
