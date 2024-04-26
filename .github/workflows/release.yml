@@ -23,7 +23,7 @@ jobs:
       - name: Build project
         run: |
           mkdir de-prayer-2024
-          cp -r de-prayer-2024.php admin languages version-control.json SECURITY.md de-prayer-2024/
+          cp -r de-prayer-2024.php admin languages porch version-control.json LICENSE SECURITY.md de-prayer-2024/
           zip -r de-prayer-2024.zip de-prayer-2024
       - name: Create Release
         id: create_release
