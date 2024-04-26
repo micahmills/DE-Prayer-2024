@@ -1,0 +1,821 @@
+# Copyright (C) 2024 
+# This file is distributed under the same license as the DE Prayer Campaign 2024 plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: DE Prayer Campaign 2024 1.5.4\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/DE-Prayer-2024\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-04-26T05:06:29+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.10.0\n"
+"X-Domain: de-prayer-2024\n"
+
+#. Plugin Name of the plugin
+#: de-prayer-2024.php
+msgid "DE Prayer Campaign 2024"
+msgstr ""
+
+#. Plugin URI of the plugin
+#: de-prayer-2024.php
+msgid "https://github.com/micahmills/DE-Prayer-2024"
+msgstr ""
+
+#. Description of the plugin
+#: de-prayer-2024.php
+msgid "DE Prayer Campaign 2024 prayer request content starter."
+msgstr ""
+
+#: admin/admin-menu-and-tabs.php:186
+msgid "Jesus, give the church [in location] grace to cherish your name above all else"
+msgstr ""
+
+#: admin/admin-menu-and-tabs.php:196
+msgid "let the people [of location] grasp the Good News"
+msgstr ""
+
+#: admin/admin-menu-and-tabs.php:206
+msgid "Ask that God’s word would spread rapidly throughout [location]."
+msgstr ""
+
+#: admin/prayer-field-content.php:70
+msgid "The internet has revolutionized the way we connect with people, share information, and do business. It has brought people from different parts of the world closer together, and it has provided opportunities for evangelism that were once impossible."
+msgstr ""
+
+#: admin/prayer-field-content.php:72
+msgid ""
+"Lord, we praise You for Your sovereignty over all things, including the digital world. You are the one who sustains us and gives us strength to carry out Your work. You are the source of all wisdom, and we thank You for guiding us as we plan and execute this digital evangelism campaign.\n"
+"    \n"
+"                “I will bless the LORD at all times; his praise will always be on my lips.\n"
+"                I will boast in the LORD; the humble will hear and be glad.\n"
+"                Proclaim the LORD's greatness with me; let us exalt his name together.”\n"
+"                (Psalm 34:1-3)"
+msgstr ""
+
+#: admin/prayer-field-content.php:79
+msgid "Lord, we pray for the people who will come across this digital engagement campaign. We ask that You open hearts to receive the message of salvation. We pray that Your Spirit would draw these people to Yourself and that they would experience Your love and grace in a powerful way."
+msgstr ""
+
+#: admin/prayer-field-content.php:83
+msgid "Social media platforms like Facebook, Twitter, Instagram, and YouTube have millions of users who spend hours each day scrolling through their feeds. These platforms provide a unique opportunity to reach people with the gospel message. "
+msgstr ""
+
+#: admin/prayer-field-content.php:85
+msgid ""
+"Father, we thank You for the power of Your Word, which is living and active, and able to penetrate even the hardest hearts. We thank You for the opportunity to share it with others through this digital engagement campaign, and we pray that it would transform lives and bring many to faith in Jesus.\n"
+"\n"
+"                “For the word of God is living and effective and sharper than any double-edged sword, penetrating as far as the separation of soul and spirit, joints and marrow.\n"
+"                It is able to judge the thoughts and intentions of the heart.”\n"
+"                (Hebrews 4:12)"
+msgstr ""
+
+#: admin/prayer-field-content.php:91
+msgid "Lord, we lift up to You those who are searching for answers and spiritual guidance on social media. We pray that these digital engagement efforts will reach people and provide them with the hope and truth that they are seeking. May they encounter the love of Christ through this campaign and be transformed by His grace."
+msgstr ""
+
+#: admin/prayer-field-content.php:95
+msgid "The COVID-19 pandemic has caused many people to turn to the internet for connection, entertainment, and information. This has created a huge mission field online, and we have an opportunity to share the hope of Christ with those who are searching for answers."
+msgstr ""
+
+#: admin/prayer-field-content.php:97
+msgid ""
+"Lord, we praise You for the diverse talents and gifts that You have given to Your people. We ask that You use these gifts to reach people in the digital world who may not have heard the gospel otherwise. We pray that Your Spirit would empower us to work together in unity and love for the sake of the gospel.\n"
+"    \n"
+"                “How delightfully good\n"
+"                when brothers live together in harmony!”\n"
+"                (Psalm 133:1)"
+msgstr ""
+
+#: admin/prayer-field-content.php:103
+msgid ""
+"Father, we ask that You open doors and create opportunities for us to engage with people who are searching for truth and meaning in their lives. May we be sensitive to the leading of the Holy Spirit as we share the good news of Jesus Christ and may many come to know You as their Lord and Savior.\n"
+"    \n"
+"                “Devote yourselves to prayer; stay alert in it with thanksgiving.\n"
+"                At the same time, pray also for us that God may open a door to us for the word,\n"
+"                to speak the mystery of Christ...”\n"
+"                (Colossians 4:2-3)"
+msgstr ""
+
+#: admin/prayer-field-content.php:112
+msgid "In many parts of the world, people are turning to the internet for information, entertainment, and social interaction. Digital platforms have become a crucial way for people to connect with each other, and this presents an opportunity for evangelism, discipleship, and leadership development."
+msgstr ""
+
+#: admin/prayer-field-content.php:114
+msgid ""
+"We praise You, Lord, for Your boundless love and mercy. You have called us to disciple people from all nations, and we are grateful for the opportunity to do so. (Ephesians 2:4-5)\n"
+"\n"
+"                “But God, who is rich in mercy, because of his great love that he had for us,\n"
+"                made us alive with Christ even though we were dead in trespasses.\n"
+"                You are saved by grace!”\n"
+"                (Ephesians 2:4-5)\n"
+"\n"
+"                “Go, therefore, and make disciples of all nations,\n"
+"                baptizing them in the name of the Father and of the Son and of the Holy Spirit,\n"
+"                teaching them to observe everything I have commanded you.\n"
+"                And remember, I am with you always, to the end of the age.”\n"
+"                (Matthew 28:19-20)"
+msgstr ""
+
+#: admin/prayer-field-content.php:127
+msgid "We pray for those who are searching for meaning and purpose online. We pray for those who are searching to deepen their relationship with Jesus. We ask that You use this digital engagement campaign to reach those individuals and draw them to Yourself."
+msgstr ""
+
+#: admin/prayer-field-content.php:131
+msgid "Social media is one of the most popular ways people connect online. With billions of users worldwide, it provides a unique opportunity to engage a vast audience with the truths of Scripture."
+msgstr ""
+
+#: admin/prayer-field-content.php:133
+msgid ""
+"We exalt Your name, Lord, for Your faithfulness and steadfastness. Your promises are sure, and we trust in Your power to save.\n"
+"    \n"
+"                “For your faithful love is as high as the heavens; your faithfulness reaches the clouds.”\n"
+"                (Psalm 57:10)"
+msgstr ""
+
+#: admin/prayer-field-content.php:138
+msgid ""
+"Father, we pray for the technical team that will be managing the infrastructure of this digital engagement campaign. We ask that You give them wisdom and skill as they navigate the challenges of working with technology. We pray that everything will function smoothly and that there will be no technical glitches that would hinder the message from reaching its intended audience.\n"
+"    \n"
+"                “Whatever you do, do it from the heart,\n"
+"                as something done for the Lord and not for people.”\n"
+"                (Colossians 3:23)"
+msgstr ""
+
+#: admin/prayer-field-content.php:146
+msgid "Online streaming services such as YouTube, Twitch, and Facebook Live have revolutionized the way people consume media. They offer a new avenue for sharing the gospel through video content."
+msgstr ""
+
+#: admin/prayer-field-content.php:148
+msgid ""
+"We worship You, Lord, for Your creativity and ingenuity. You have given us the tools and resources we need to reach people with the gospel in the digital world, and we thank You for Your provision.\n"
+"    \n"
+"                “LORD, our Lord, how magnificent is your name throughout the earth!\n"
+"                You have covered the heavens with your majesty.”\n"
+"                (Psalm 8:1)"
+msgstr ""
+
+#: admin/prayer-field-content.php:154
+msgid "Lord, we pray that Your message of salvation will reach people through every digital platform available. We ask that You guide us in using these platforms well to share Your truth and engage well with others."
+msgstr ""
+
+#: admin/prayer-field-content.php:158
+msgid "As we embark on this digital engagement campaign, please pray for the Holy Spirit's guidance, wisdom, and power to guide us in effectively engaging people through digital means."
+msgstr ""
+
+#: admin/prayer-field-content.php:160
+msgid ""
+"Lord, You are my rock, my fortress, and my Savior; in You, I find safety. You are my shield, the strength of my salvation, and my stronghold. I praise You for Your faithfulness and Your love, which endure forever.\n"
+"                “I love you, LORD, my strength.\n"
+"                The LORD is my rock, my fortress, and my deliverer,\n"
+"                my God, my rock where I seek refuge,\n"
+"                my shield and the horn of my salvation, my stronghold.”\n"
+"                (Psalm 18:1-2)\n"
+"    \n"
+"                “I will praise you forever for what you have done.\n"
+"                In the presence of your faithful people,\n"
+"                I will put my hope in your name, for it is good.”\n"
+"                (Psalm 52:9)"
+msgstr ""
+
+#: admin/prayer-field-content.php:172
+msgid "As we embark on this digital evangelism campaign, Lord, we pray that Your Spirit would guide us in all our efforts to share the gospel message through social media. May we communicate with clarity, boldness, and grace. May our online presence reflect the love and truth of Jesus."
+msgstr ""
+
+#: admin/prayer-field-content.php:176
+msgid "In a world that is increasingly digital, let us pray for opportunities to engage with people in deeper and more meaningful ways as we build relationships and share the love and hope found in Christ. "
+msgstr ""
+
+#: admin/prayer-field-content.php:178
+msgid ""
+"Father, You are the creator of all things, and everything in heaven and on earth was created by You and for You. You are before all things, and in You, all things hold together. I praise You for Your power, wisdom, and goodness.\n"
+"    \n"
+"                “For everything was created by him, in heaven and on earth,\n"
+"                the visible and the invisible, whether thrones or dominions or rulers or authorities —\n"
+"                all things have been created through him and for him.\n"
+"                He is before all things, and by him all things hold together.”\n"
+"                (Colossians 1:16-17)"
+msgstr ""
+
+#: admin/prayer-field-content.php:186
+msgid "Father, we lift to You those who are feeling lonely, isolated, or disconnected in the digital world. We pray that they may find true community and belonging in the body of Christ. Help us to be a source of encouragement, support, and friendship to those who need it most."
+msgstr ""
+
+#: admin/prayer-field-content.php:190
+msgid ""
+"As we use social media platforms to connect with people, let us pray for discernment and sensitivity to people's needs, fears, and doubts, and for the right words to speak into their lives.\n"
+"    \n"
+"                “Devote yourselves to prayer; stay alert in it with thanksgiving.\n"
+"                At the same time, pray also for us that God may open a door to us for the word,\n"
+"                to speak the mystery of Christ...\n"
+"                Act wisely toward outsiders, making the most of the time.\n"
+"                Let your speech always be gracious, seasoned with salt,\n"
+"                so that you may know how you should answer each person.”\n"
+"                (Colossians 4:2-6)"
+msgstr ""
+
+#: admin/prayer-field-content.php:200
+msgid "Lord, You are the Alpha and the Omega, the beginning and the end, the first and the last. You are the one who is, who was, and who is to come, the Almighty. I praise You for Your sovereignty and Your majesty. (Revelation 1:8)"
+msgstr ""
+
+#: admin/prayer-field-content.php:202
+msgid "Lord, we recognize that there are many barriers that prevent people from hearing the gospel message, whether it be cultural, linguistic, or technological. We ask that You break down these barriers and create opportunities for us to engage people who have never heard the good news of salvation."
+msgstr ""
+
+#: admin/prayer-field-content.php:206
+msgid "Let us pray for those who will come across our digital content, that their hearts may be open to the gospel message and that they may be drawn to Christ. "
+msgstr ""
+
+#: admin/prayer-field-content.php:208
+msgid ""
+"Father, You are merciful and gracious, slow to anger, and abounding in steadfast love and faithfulness. You forgive our sins and heal our diseases. I praise You for Your compassion and Your goodness.\n"
+"                “The LORD is compassionate and gracious,\n"
+"                slow to anger and abounding in faithful love.”\n"
+"                (Psalm 103:8)\n"
+"    \n"
+"                “He heals the brokenhearted and bandages their wounds.”\n"
+"                (Psalm 147:3)"
+msgstr ""
+
+#: admin/prayer-field-content.php:216
+msgid "Heavenly Father, we pray for those who are struggling with addiction, depression, anxiety, or other mental health issues. May they find hope, healing, and freedom in Jesus Christ, and may we be a source of compassion, empathy, and understanding to those who are hurting."
+msgstr ""
+
+#: admin/prayer-field-content.php:220
+msgid "As we create digital content, let us pray that it would be impactful, compelling, and relevant, and that it would resonate with people's hearts and minds."
+msgstr ""
+
+#: admin/prayer-field-content.php:222
+msgid ""
+"Lord, You are holy, and Your ways are just and true. You are righteous and faithful, and You keep Your promises to Your people. I praise You for Your holiness and Your righteousness.\n"
+"    \n"
+"                “The LORD is righteous in all his ways and faithful in all his acts.\n"
+"                The LORD is near all who call out to him, all who call out to him with integrity.”\n"
+"                (Psalm 145:17)\n"
+"    \n"
+"                “...Great and awe-inspiring are your works, Lord God, the Almighty;\n"
+"                just and true are your ways, King of the nations.”\n"
+"                (Revelation 15:3)"
+msgstr ""
+
+#: admin/prayer-field-content.php:232
+msgid "Lord, we pray for the technology used in this campaign. We ask that it functions properly and that there are no technical glitches that would hinder the message from reaching its intended audience."
+msgstr ""
+
+#: admin/prayer-field-content.php:236
+msgid ""
+"Let us pray for those who will be responding to our digital content, that they may experience the love, grace, and forgiveness of Christ and that they may be saved.\n"
+"    \n"
+"                “For you are saved by grace through faith,\n"
+"                and this is not from yourselves; it is God's gift — \n"
+"                not from works, so that no one can boast.”\n"
+"                (Ephesians 2:8-9)"
+msgstr ""
+
+#: admin/prayer-field-content.php:243
+msgid ""
+"Father, You are the God of all comfort, who comforts us in all our afflictions so that we may be able to comfort those who are in any affliction with the comfort with which we ourselves are comforted by You. I praise You for Your comfort and Your compassion.\n"
+"    \n"
+"                “Blessed be the God and Father of our Lord Jesus Christ,\n"
+"                the Father of mercies and the God of all comfort.\n"
+"                He comforts us in all our affliction,\n"
+"                so that we may be able to comfort those who are in any kind of affliction,\n"
+"                through the comfort we ourselves receive from God.”\n"
+"                (2 Corinthians 1:3-4)"
+msgstr ""
+
+#: admin/prayer-field-content.php:252
+msgid "Lord, we pray for those who are resistant to the gospel. We ask that You soften their hearts and open their minds to the truth of Your word."
+msgstr ""
+
+#: admin/prayer-field-content.php:256
+msgid "As we engage with people through digital means, let us pray for protection from any spiritual attacks or opposition that may come our way."
+msgstr ""
+
+#: admin/prayer-field-content.php:258
+msgid ""
+"Lord, You are the light of the world, and whoever follows You will not walk in darkness but will have the light of life. You have called us out of darkness into Your marvelous light. I praise You for Your guidance and Your grace.\n"
+"    \n"
+"                “Jesus spoke to them again: “I am the light of the world.\n"
+"                Anyone who follows me will never walk in the darkness but will have the light of life.””\n"
+"                (John 8:12)\n"
+"    \n"
+"                “But you are a chosen race, a royal priesthood,\n"
+"                a holy nation, a people for his possession,\n"
+"                so that you may proclaim the praises of the one who called you\n"
+"                out of darkness into his marvelous light.”\n"
+"                (1 Peter 2:9)"
+msgstr ""
+
+#: admin/prayer-field-content.php:270
+msgid ""
+"Lord, we pray for the safety and protection of those involved in this campaign. We ask that You guard their hearts and minds and protect them from harm.\n"
+"    \n"
+"                “The LORD will protect you from all harm; he will protect your life.”\n"
+"                (Psalm 121:7)"
+msgstr ""
+
+#: admin/prayer-field-content.php:277
+msgid "Let us pray for those who will be sharing our digital content with others, that they may do so with boldness and conviction, and that the gospel message would spread far and wide. "
+msgstr ""
+
+#: admin/prayer-field-content.php:279
+msgid ""
+"Father, You are the God of peace, who has reconciled us to Yourself through Christ and given us the ministry of reconciliation. You have made peace with us through the blood of His cross. I praise You for Your peace and Your reconciliation.\n"
+"    \n"
+"                “Everything is from God, who has reconciled us to himself through Christ\n"
+"                and has given us the ministry of reconciliation.\n"
+"                That is, in Christ, God was reconciling the world to himself,\n"
+"                not counting their trespasses against them,\n"
+"                and he has committed the message of reconciliation to us.”\n"
+"                (2 Corinthians 5:18-19)\n"
+"    \n"
+"                “For God was pleased to have all his fullness dwell in him,\n"
+"                and through him to reconcile everything to himself,\n"
+"                whether things on earth or things in heaven,\n"
+"                by making peace through his blood, shed on the cross”\n"
+"                (Colossians 1:19-20)"
+msgstr ""
+
+#: admin/prayer-field-content.php:294
+msgid "Lord, we pray for the power of Your Holy Spirit to be evident in every aspect of this campaign. We ask that You anoint our words and our efforts with Your power and Your presence."
+msgstr ""
+
+#: admin/prayer-field-content.php:298
+msgid "As we engage with people from diverse cultures and backgrounds, may we pray for understanding, respect, and empathy. Let us ask for the ability to communicate gospel truths in ways that are relevant and meaningful."
+msgstr ""
+
+#: admin/prayer-field-content.php:300
+msgid ""
+"Lord, we praise You because You are the good shepherd who lays down His life for His sheep. We thank You for being the one who leads us beside still waters and restores our souls. We praise You for Your care and Your provision.\n"
+"    \n"
+"                “I am the good shepherd. The good shepherd lays down his life for the sheep.”\n"
+"                (John 10:11)\n"
+"    \n"
+"                “The LORD is my shepherd; I have what I need.\n"
+"                He lets me lie down in green pastures;\n"
+"                He leads me beside quiet waters.\n"
+"                He renews my life;\n"
+"                He leads me along the right paths for his name's sake.”\n"
+"                (Psalm 23:1-3)"
+msgstr ""
+
+#: admin/prayer-field-content.php:312
+msgid "Lord, as we seek to communicate gospel truth through digital platforms, we ask for Your wisdom and discernment. Help us to be mindful of cultural sensitivities, norms, and taboos of different communities. May we communicate the gospel in a way that is respectful, relevant, and meaningful."
+msgstr ""
+
+#: admin/prayer-field-content.php:316
+msgid "Let us pray for the digital platforms we use. Please ask that they be safe, secure, and free from any harmful or inappropriate content."
+msgstr ""
+
+#: admin/prayer-field-content.php:318
+msgid ""
+"Father, You are the God who hears our prayers and answers them according to Your will. You promise to be with us always and to never leave us nor forsake us. I praise You for Your faithfulness and Your presence.\n"
+"    \n"
+"                “... Be satisfied with what you have, for he himself has said,\n"
+"                I will never leave you or abandon you.”\n"
+"                (Hebrews 13:5)"
+msgstr ""
+
+#: admin/prayer-field-content.php:324
+msgid ""
+"\n"
+"                Lord, we pray that the desires of our hearts will align with Your heart to save humanity. We ask that You guide us as we use various digital platforms to share gospel truths. Help us to remember You are with us always and will direct us if we seek You. May we seek not our own glory or fame, but that the name of Jesus be glorified in all we do."
+msgstr ""
+
+#: admin/prayer-field-content.php:329
+msgid "As we create digital content, let us pray for creativity, inspiration, and innovation. Pray for the ability to communicate gospel truths in new and engaging ways."
+msgstr ""
+
+#: admin/prayer-field-content.php:331
+msgid ""
+"Jesus, we praise You for being the way, the truth, and the life. We thank You that You've given a way for us to reach You, Jesus Christ, our mediator. We praise You for sending us the Holy Spirit to guide us into all truth. Thank You for Your truth and Your revelation.\n"
+"    \n"
+"                “Jesus told him, ‘I am the way, the truth, and the life.\n"
+"                No one comes to the Father except through me.'”\n"
+"                (John 14:6)\n"
+"    \n"
+"                “When the Spirit of truth comes, he will guide you into all the truth.\n"
+"                For he will not speak on his own, but he will speak whatever he hears.\n"
+"                He will also declare to you what is to come.”\n"
+"                (John 16:13)"
+msgstr ""
+
+#: admin/prayer-field-content.php:342
+msgid "Heavenly Father, as we use digital tools to disciple and train believers, we ask that You anoint our efforts with Your Spirit. May we be faithful and effective in making disciples of all nations, may Your kingdom come, and Your will be done in the digital world as it is in heaven."
+msgstr ""
+
+#: admin/prayer-field-content.php:346
+msgid "Let us pray for those who will be supporting this digital engagement campaign. Pray that they will be filled with the Holy Spirit's wisdom and strength, and that they may experience the joy of seeing lives transformed by the gospel."
+msgstr ""
+
+#: admin/prayer-field-content.php:348
+msgid ""
+"Oh Lord, I praise You for being my God, deliverer, fortress, and rock of refuge. I take refuge in You, my shield, my stronghold, and my salvation. Thank You, Lord, that in You I have found my place of safety.\n"
+"    \n"
+"                “I love you, LORD, my strength.\n"
+"                The LORD is my rock,\n"
+"                my fortress, and my deliverer,\n"
+"                my God, my rock where I seek refuge,\n"
+"                my shield and the horn of my salvation, my stronghold...\n"
+"                God — his way is perfect; the word of the LORD is pure.\n"
+"                He is a shield to all who take refuge in him...\n"
+"                The LORD lives — blessed be my rock!\n"
+"                The God of my salvation is exalted.”\n"
+"                (Psalm 18:1-2, 30, 46)"
+msgstr ""
+
+#: admin/prayer-field-content.php:361
+msgid ""
+"Lord, we pray for the volunteers who will be supporting this digital engagement campaign. We ask that You bless them for their willingness to serve and that they will be filled with joy and a sense of purpose as they contribute to this mission. We pray that their efforts would make a real difference in the lives of those who hear the message.\n"
+"    \n"
+"                “Let us not get tired of doing good,\n"
+"                for we will reap at the proper time if we don't give up.”\n"
+"                (Galatians 6:9)"
+msgstr ""
+
+#: admin/prayer-field-content.php:369
+msgid "As we engage with people through digital means, let us pray for patience, kindness, and gentleness. We are asking for the ability to listen and respond to people's questions and concerns in a compassionate and loving way."
+msgstr ""
+
+#: admin/prayer-field-content.php:371
+msgid ""
+"We praise You, Lord, because You are great and worthy of praise. You are unfathomable, O God! We thank You for being good to all and that You have compassion towards all that You have created. We praise You because You have given us life and breath!\n"
+"    \n"
+"                “I exalt you, my God the King, and bless your name forever and ever.\n"
+"                I will bless you every day; I will praise your name forever and ever.\n"
+"                The LORD is great and is highly praised; his greatness is unsearchable...\n"
+"                The LORD is gracious and compassionate, slow to anger and great in faithful love.\n"
+"                The LORD is good to everyone; his compassion rests on all he has made.”\n"
+"                (Psalm 145:1-3, 8-9)\n"
+"    \n"
+"                “Let everything that breathes praise the LORD. Hallelujah!”\n"
+"                (Psalm 150:6)"
+msgstr ""
+
+#: admin/prayer-field-content.php:383
+msgid "Father, we pray for the people who will be sharing gospel truth through this digital engagement campaign. We ask that You give them boldness and wisdom as they communicate Your truth. We pray that their words would be anointed with Your power and that they would be sensitive to the leading of Your Spirit."
+msgstr ""
+
+#: admin/prayer-field-content.php:387
+msgid "Let us pray for those who will be partnering with us in this digital evangelism campaign, that they may share our vision and passion for seeing people come to Christ, and that they may be encouraged and strengthened in their own faith."
+msgstr ""
+
+#: admin/prayer-field-content.php:389
+msgid ""
+"We praise You for being a great God who is above all. We praise You for being worthy of praise, glory, and honor. We thank You for allowing us to enter Your presence. We sing to You and praise You for being our rock and salvation.\n"
+"    \n"
+"                “Come, let's shout joyfully to the LORD,\n"
+"                shout triumphantly to the rock of our salvation!\n"
+"                Let's enter his presence with thanksgiving;\n"
+"                let's shout triumphantly to him in song.\n"
+"                For the LORD is a great God,\n"
+"                a great King above all gods.”\n"
+"                 (Psalm 95:1-3)"
+msgstr ""
+
+#: admin/prayer-field-content.php:399
+msgid ""
+"We pray for the mental and emotional health of those involved in this campaign. We ask that You give them peace and comfort amid the stresses and challenges they face.\n"
+"    \n"
+"                “Don't worry about anything, but in everything, through prayer and petition\n"
+"                with thanksgiving, present your requests to God.\n"
+"                And the peace of God, which surpasses all understanding,\n"
+"                will guard your hearts and minds in Christ Jesus.”\n"
+"                 (Philippians 4:6-7)"
+msgstr ""
+
+#: admin/prayer-field-content.php:409
+msgid "As we use digital means to share the gospel message, let us pray for the Holy Spirit's power to convict people of their sin and draw them to repentance and faith in Christ."
+msgstr ""
+
+#: admin/prayer-field-content.php:411
+msgid ""
+"We praise You that You search us and know us. I am in awe of Your omniscience—knowing when I sit, when I rise, and all of my thoughts. I can hide nothing from You. I cannot go anywhere where You are not with me. I praise You for knowing me intimately.\n"
+"    \n"
+"                “LORD, you have searched me and known me.\n"
+"                You know when I sit down and when I stand up;\n"
+"                you understand my thoughts from far away...\n"
+"                Before a word is on my tongue, you know all about it, LORD...\n"
+"                Where can I go to escape your Spirit?\n"
+"                Where can I flee from your presence?\n"
+"                If I go up to heaven, you are there;\n"
+"                If I make my bed in Sheol, you are there...\n"
+"                Search me, God, and know my heart;\n"
+"                test me and know my concerns.\n"
+"                See if there is any offensive way in me;\n"
+"                lead me in the everlasting way.”\n"
+"                (Psalm 139:1-2, 4, 7-8, 23-24)"
+msgstr ""
+
+#: admin/prayer-field-content.php:427
+msgid "Heavenly Father, we ask that You bless our digital engagement efforts with fruitfulness and impact. May many come to know You as their Lord and Savior through our online ministry, and may Your name be glorified in all that we do."
+msgstr ""
+
+#: admin/prayer-field-content.php:431
+msgid "Let us pray for those who are skeptical or resistant to the gospel message. We know the Lord can change even the hardest hearts. We ask that those who have hearts of stone will be softened and that they may come to know the truth and love of Christ."
+msgstr ""
+
+#: admin/prayer-field-content.php:433
+msgid ""
+"We praise You Lord for You are great and feared above all gods. Because of Your greatness, we can exalt You, sing to You, and proclaim Your salvation among the nations.\n"
+"    \n"
+"                “Sing a new song to the LORD; let the whole earth sing to the LORD.\n"
+"                Sing to the LORD, bless his name; proclaim his salvation from day to day.\n"
+"                Declare his glory among the nations, his wondrous works among all peoples.\n"
+"                For the LORD is great and is highly praised; he is feared above all gods.”\n"
+"                (Psalm 96:1-4)"
+msgstr ""
+
+#: admin/prayer-field-content.php:441
+msgid "Lord, we pray for those who are skeptical, hostile, or indifferent to the gospel message. May Your Spirit soften their hearts and open their minds to receive the truth of Your word. Give us boldness, courage, and wisdom as we share the message of salvation with those who need it most."
+msgstr ""
+
+#: admin/prayer-field-content.php:445
+msgid "As we create digital content, let us pray for the ability to communicate the gospel message in a way that is clear, concise, and easy to understand."
+msgstr ""
+
+#: admin/prayer-field-content.php:447
+msgid ""
+"I praise You because You have given me life! I thank You that we can trust You rather than man. I praise You for being the Maker of all things and are forever faithful. We praise You that You can open the eyes of the blind. Thank You for reigning over all generations.\n"
+"    \n"
+"                “Hallelujah!\n"
+"                My soul, praise the LORD.\n"
+"                I will praise the LORD all my life;\n"
+"                I will sing to my God as long as I live.\n"
+"                Do not trust in nobles, in a son of man, who cannot save...\n"
+"                Happy is the one whose help is the God of Jacob,\n"
+"                whose hope is in the LORD his God,\n"
+"                the Maker of heaven and earth,\n"
+"                the sea and everything in them.\n"
+"                He remains faithful forever, ...\n"
+"                The LORD opens the eyes of the blind.\n"
+"                The LORD raises up those who are oppressed.\n"
+"                The LORD loves the righteous...\n"
+"                The LORD reigns forever;\n"
+"                Zion, your God reigns for all generations.\n"
+"                Hallelujah”\n"
+"                (Psalm 146: 1-3, 5-6, 8, 10)"
+msgstr ""
+
+#: admin/prayer-field-content.php:467
+msgid ""
+"Lord, we pray for the creative team behind this digital engagement campaign. We ask that You inspire them with fresh ideas and that they would have the resources they need to create content that is compelling and relevant. We pray that their efforts will be fruitful and that many will come to faith through their work.\n"
+"    \n"
+"                “Commit your activities to the LORD, and your plans will be established.”\n"
+"                (Proverbs 16:3)"
+msgstr ""
+
+#: admin/prayer-field-content.php:474
+msgid "Let us pray for those who will be leading and coordinating this digital engagement campaign, that they may be filled with the Holy Spirit's wisdom and discernment, and that they may be effective in their roles. Let us ask that they would rest in God alone rather than their own skills and talents."
+msgstr ""
+
+#: admin/prayer-field-content.php:476
+msgid ""
+"I praise You God for being my rock, stronghold, and salvation. I exalt in You because I know I can rest in You because You are the one who provides me with hope, rest, and peace. Thank You, God, that I can trust in You always and pour out my heart before You. I praise You for being my refuge!\n"
+"    \n"
+"                “Rest in God alone, my soul,\n"
+"                for my hope comes from him.\n"
+"                He alone is my rock and my salvation,\n"
+"                my stronghold; I will not be shaken.\n"
+"                My salvation and glory depend on God, my strong rock.\n"
+"                My refuge is in God.\n"
+"                Trust in him at all times, you people;\n"
+"                pour out your hearts before him.\n"
+"                God is our refuge.”\n"
+"                (Psalm 62:5-8)"
+msgstr ""
+
+#: admin/prayer-field-content.php:489
+msgid ""
+"We pray for the leaders and organizers of this digital evangelism campaign. We ask that You grant them wisdom, discernment, and direction as they plan and execute the campaign.\n"
+"    \n"
+"                “Now if any of you lacks wisdom, he should ask God\n"
+"                — who gives to all generously and ungrudgingly — \n"
+"                and it will be given to him.”\n"
+"                (James 1:5)"
+msgstr ""
+
+#: admin/prayer-field-content.php:498
+msgid "Social media has become a primary source of news and information for many people. Pray that our online engagement efforts will reach those who are seeking answers and spiritual guidance."
+msgstr ""
+
+#: admin/prayer-field-content.php:500
+msgid ""
+"I thank You, Lord, that I can boast about You! You are holy, just, trustworthy, and steadfast. You do miraculous works that cause people to turn to You. I rejoice and boast in You, for You are worthy of all praise.\n"
+"    \n"
+"                “I will thank the LORD with all my heart;\n"
+"                I will declare all your wondrous works.\n"
+"                I will rejoice and boast about you;\n"
+"                I will sing about your name, Most High.”\n"
+"                 (Psalm 9:1-2)"
+msgstr ""
+
+#: admin/prayer-field-content.php:508
+msgid "Lord, we pray that as people browse the internet and social media they would find the good news of the gospel and see that it is the answer to their greatest needs."
+msgstr ""
+
+#: admin/prayer-field-content.php:512
+msgid "The internet has made it easier than ever for people to access pornography and other harmful content. Pray that individuals who struggle with addiction to these things will find freedom and healing through the power of Christ."
+msgstr ""
+
+#: admin/prayer-field-content.php:514
+msgid ""
+"God, we praise You for being a God who loves integrity. We thank You for Your loving kindness that leads to repentance. We praise You for Your faithfulness and justice. We praise You for guiding us when we call out to You. May we love integrity and flee transgressions!\n"
+"    \n"
+"                “I will sing of faithful love and justice;\n"
+"                I will sing praise to you, LORD.\n"
+"                I will pay attention to the way of integrity.\n"
+"                When will you come to me?\n"
+"                I will live with a heart of integrity in my house.\n"
+"                I will not let anything worthless guide me.\n"
+"                I hate the practice of transgression;\n"
+"                it will not cling to me.\n"
+"                A devious heart will be far from me;\n"
+"                I will not be involved with evil.”\n"
+"                (Psalm 101:1-4)"
+msgstr ""
+
+#: admin/prayer-field-content.php:528
+msgid "Father, we pray for those who struggle with addiction to harmful online content. We ask that You break the chains of addiction and bring healing and restoration to their lives. May they find freedom in Christ and be empowered to overcome the temptations that lead them down destructive paths."
+msgstr ""
+
+#: admin/prayer-field-content.php:532
+msgid "Many people are hesitant to engage with online gospel engagement efforts due to fear of judgment or ridicule. Pray that we would be sensitive to these concerns and that our messages would be received with openness and understanding."
+msgstr ""
+
+#: admin/prayer-field-content.php:534
+msgid ""
+"I will praise You, O Lord, for there is no one like You! I praise You because all the nations of the earth will one day honor You. I am in awe of Your wonders and majesty. I praise You because You teach me and guide me by Your truth. I will praise You because You have delivered me from the grave. I praise You for Your faithful love!\n"
+"    \n"
+"                “Lord, there is no one like you among the gods,\n"
+"                and there are no works like yours.\n"
+"                All the nations you have made\n"
+"                will come and bow down before you, Lord,\n"
+"                and will honor your name.\n"
+"                For you are great and perform wonders;\n"
+"                you alone are God.\n"
+"                Teach me your way, LORD,\n"
+"                and I will live by your truth.\n"
+"                Give me an undivided mind to fear your name.\n"
+"                I will praise you with all my heart, Lord my God,\n"
+"                and will honor your name forever.\n"
+"                For your faithful love for me is great,\n"
+"                and you rescue my life from the depths of Sheol.”\n"
+"                (Psalm 86:8-13)"
+msgstr ""
+
+#: admin/prayer-field-content.php:552
+msgid "God, we ask for sensitivity and discernment as we engage with unbelievers online. We pray that gospel truths will be received with openness and understanding. We ask that fear of judgment or ridicule would be overcome by Your love. May those who encounter this content be drawn to You and the hope that You offer."
+msgstr ""
+
+#: admin/prayer-field-content.php:556
+msgid "The fast pace of the digital age can leave people feeling overwhelmed and burnt out. Pray that our engagement efforts would offer hope and rest to those who are weary."
+msgstr ""
+
+#: admin/prayer-field-content.php:558
+msgid ""
+"May we, like the Psalmist, always bless the Lord, praising Him continually! You are worthy Lord of all boasting, praise, honor and glory for You are great! May we praise and boast of You because of Your majesty and all that You have done for us.\n"
+"    \n"
+"                “I will bless the LORD at all times; his praise will always be on my lips.\n"
+"                I will boast in the LORD; the humble will hear and be glad.\n"
+"                Proclaim the LORD's greatness with me; let us exalt his name together.\n"
+"                I sought the LORD, and he answered me and rescued me from all my fears.”\n"
+"                (Psalm 34:1-4)"
+msgstr ""
+
+#: admin/prayer-field-content.php:566
+msgid ""
+"Lord, we recognize the weariness and burnout that many people feel in the fast-paced digital age. We pray that our digital engagement efforts would offer them the rest and hope that they need. May they find true rest in You, and may their lives be transformed by the power of Your love and grace.\n"
+"    \n"
+"                “Come to me, all of you who are weary and burdened, and I will give you rest.\n"
+"                Take my yoke upon you and learn from me, because I am lowly and humble in heart,\n"
+"                and you will find rest for your souls. For my yoke is easy and my burden is light.”\n"
+"                (Matthew 11:28-30)"
+msgstr ""
+
+#: admin/prayer-field-content.php:575
+msgid "The online world can be a breeding ground for conspiracy theories and misinformation. Pray that those who are searching for truth would find it in the message of the gospel."
+msgstr ""
+
+#: admin/prayer-field-content.php:577
+msgid ""
+"May we use the Psalm below to praise the Lord for the many things He has done that are worthy of praise. We thank You Lord for Your name alone is exalted and Your majesty covers the heavens and the earth!\n"
+"    \n"
+"                “Hallelujah!\n"
+"                Praise the LORD from the heavens;\n"
+"                praise him in the heights.\n"
+"                Praise him, all his angels;\n"
+"                praise him, all his heavenly armies.\n"
+"                Praise him, sun and moon;\n"
+"                praise him, all you shining stars.\n"
+"                Praise him, highest heavens,\n"
+"                and you waters above the heavens.\n"
+"                Let them praise the name of the LORD,\n"
+"                for he commanded, and they were created.\n"
+"                He set them in position forever and ever;\n"
+"                he gave an order that will never pass away...\n"
+"                Let them praise the name of the LORD,\n"
+"                for his name alone is exalted.\n"
+"                His majesty covers heaven and earth.”\n"
+"                (Psalm 148:1-6, 13)\n"
+"                "
+msgstr ""
+
+#: admin/prayer-field-content.php:598
+msgid ""
+"Father, we lift up those who are searching for truth amidst the sea of misinformation on the internet. We ask that Your light would shine in the darkness and that they would be drawn to the message of the gospel. May they find true hope and purpose in You, and may their lives be transformed by Your grace.\n"
+"    \n"
+"                “That light shines in the darkness,\n"
+"                and yet the darkness did not overcome it.”\n"
+"                (John 1:5)\n"
+"                 "
+msgstr ""
+
+#: admin/prayer-field-content.php:607
+msgid "The anonymity of the internet can lead to a lack of accountability and moral responsibility. Pray that those who engage with our online efforts would be inspired to live lives that reflect the character of Christ, even when no one is watching."
+msgstr ""
+
+#: admin/prayer-field-content.php:609
+msgid ""
+"We praise You Lord for bringing us from death to life through Jesus Christ! We thank You for our eternal inheritance. We praise You that You refine us and are able to keep us from stumbling so that Your name receives more honor.\n"
+"    \n"
+"                “Blessed be the God and Father of our Lord Jesus Christ.\n"
+"                Because of his great mercy he has given us new birth\n"
+"                into a living hope through the resurrection of Jesus Christ from the dead\n"
+"                and into an inheritance that is imperishable, undefiled, and unfading, kept in heaven for you.\n"
+"                You are being guarded by God's power through faith for a salvation\n"
+"                that is ready to be revealed in the last time.\n"
+"                You rejoice in this, even though now for a short time,\n"
+"                if necessary, you suffer grief in various trials so that the proven character of your faith  \n"
+"                — more valuable than gold which, though perishable, is refined by fire  —\n"
+"                may result in praise, glory, and honor at the revelation of Jesus Christ.”\n"
+"                (1 Peter 1:3-7)"
+msgstr ""
+
+#: admin/prayer-field-content.php:623
+msgid "God, we recognize the temptation to hide behind anonymity and avoid accountability in the online world. We pray that those who engage with our online evangelism efforts would be inspired to live lives that reflect Your character and love, even when no one is watching. May they be transformed by Your grace and empowered to make a positive impact in the world around them."
+msgstr ""
+
+#: admin/prayer-field-content.php:661
+msgid "Prompt"
+msgstr ""
+
+#: admin/prayer-field-content.php:669
+msgid "Praise"
+msgstr ""
+
+#: admin/prayer-field-content.php:677
+msgid "Prayer"
+msgstr ""
+
+#: porch/de-porch-settings.php:18
+msgid "Praying that people around the globe would hear the Gospel"
+msgstr ""
+
+#: porch/de-porch-settings.php:19
+msgid "The internet and social media give us extraordinary access to get the gospel to people worldwide. Join us in praying for these digital outreach efforts to be effective."
+msgstr ""
+
+#: porch/de-porch-settings.php:20
+msgid "May the cries of God’s children be a sweet sound of praise! Join us in fervently praying that the Holy Spirit would draw people to repentance."
+msgstr ""
+
+#: porch/de-porch-settings.php:21
+msgid "Digital Engagement"
+msgstr ""
+
+#: porch/de-porch-settings.php:22
+msgid "May the digital, technological, and artistic skills of God’s people cause those who are in darkness to pause and consider their position before the Creator of the Universe."
+msgstr ""
+
+#: porch/de-porch-settings.php:23
+msgid "Over the next several weeks, there will be a concentrated effort to share the gospel with people in our region using social media and web platforms. As we bring light to these digital dark places, there will be opposition. Join us in praying fervently for God to use these digital engagement efforts for His name and glory."
+msgstr ""
+
+#: porch/de-porch-settings.php:24
+#: porch/de-porch-settings.php:25
+msgid "Prayer Prompts"
+msgstr ""
+
+#: porch/de-porch-settings.php:26
+msgid "Use these resources to help pray specifically each day."
+msgstr ""
+
+#: porch/de-porch-settings.php:27
+msgid "Today's Prayer Prompt"
+msgstr ""
+
+#: porch/de-porch-settings.php:28
+msgid "All Prayer Prompts"
+msgstr ""
+
+#: porch/de-porch-settings.php:29
+msgid "See Prayer Prompts"
+msgstr ""
+
+#: porch/de-porch-settings.php:30
+msgid "Edit Prayer Prompts"
+msgstr ""
