@@ -1,13 +1,16 @@
 #. Plugin Name of the plugin
-msgid "Disciple.Tools - Ramadan 2024"
+msgid "DE Prayer Campaign 2024"
 msgstr ""
 
 #. Plugin URI of the plugin
-msgid "https://github.com/Pray4Movement/ramadan-2024"
+msgid "https://github.com/micahmills/DE-Prayer-2024"
 msgstr ""
 
 #. Description of the plugin
-msgid "Disciple.Tools - Ramadan 2024 prayer fuel content."
+msgid "DE Prayer Campaign 2024 prayer request content starter."
+msgstr ""
+
+msgid "Jesus, give the church [in location] grace to cherish your name above all else"
 msgstr ""
 
 #. Author URI of the plugin
@@ -17,4 +20,17 @@ msgstr ""
 #: admin/admin-menu-and-tabs.php:40
 #: admin/admin-menu-and-tabs.php:49
 msgid "Ramadan 2024"
+msgstr ""
+
+
+#: admin/admin-menu-and-tabs.php:186
+msgid "Jesus, give the church [in location] grace to cherish your name above all else"
+msgstr ""
+
+#: admin/admin-menu-and-tabs.php:196
+msgid "let the people [of location] grasp the Good News"
+msgstr ""
+
+#: admin/admin-menu-and-tabs.php:206
+msgid "Ask that God’s word would spread rapidly throughout [location]."
 msgstr ""

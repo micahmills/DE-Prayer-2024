@@ -192,7 +192,7 @@ class DE_Porch_Settings {
             ],
             'todays_fuel_title' => [
                 'label' => 'Todays Prayer Prompt Title',
-                'default' => __( "Today's Prayer Prompt", 'disciple-tools-prayer-campaigns' ),
+                'default' => __( "Today's Prayer Prompt", 'de-prayer-2024' ),
                 'value' => '',
                 'type' => 'text',
                 'translations' => [],
@@ -201,7 +201,7 @@ class DE_Porch_Settings {
             ],
             'all_fuel_title' => [
                 'label' => 'All Prayer Prompts Title',
-                'default' => __( 'All Prayer Prompts', 'disciple-tools-prayer-campaigns' ),
+                'default' => __( 'All Prayer Prompts', 'de-prayer-2024' ),
                 'value' => '',
                 'type' => 'text',
                 'translations' => [],
